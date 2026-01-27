@@ -3,15 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --port 3008",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "scan": "lunagraph scan --pattern 'components/**/*.tsx' --pattern 'app/**/page.tsx' --pattern '.lunagraph/canvases/*/components/*.tsx'",
     "generate-snapshots": "lunagraph generate-snapshots",
     "prebuild": "pnpm scan && pnpm generate-snapshots",
-    "lunagraph:server": "lunagraph-dev",
-    "dev:all": "concurrently \"pnpm lunagraph:server\" \"pnpm dev\""
+    "lunagraph:server": "LUNAGRAPH_PORT=4008 lunagraph-dev",
+    "dev:all": "concurrently \"LUNAGRAPH_PORT=4008 pnpm lunagraph:server\" \"pnpm dev --port 3008\""
   },
   "dependencies": {
     "@lunagraph/editor": "^0.1.41",

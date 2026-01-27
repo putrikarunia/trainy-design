@@ -12,6 +12,7 @@ export default function Editor() {
       {...lunagraph}
       components={{ ...lunagraph.components, ...internalComponents }}
       snapshots={snapshots}
+      devServerUrl='http://localhost:4008'
       iconLibraries={{
         "lucide-react": {
           icons: LucideIcons,
