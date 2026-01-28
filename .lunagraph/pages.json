@@ -1,0 +1,936 @@
+{
+  "generatedAt": "2026-01-28T23:02:00.301Z",
+  "pages": [
+    {
+      "id": "canvas-1",
+      "name": "Canvas 1",
+      "elements": [
+        {
+          "id": "html-uZKBCip_inuWVJYVMbdEo",
+          "type": "html",
+          "tag": "div",
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 8
+          },
+          "children": [
+            {
+              "id": "html-XAVUcYhRX7V0yZs_vC4jy",
+              "type": "html",
+              "tag": "img",
+              "props": {
+                "src": "/.lunagraph-assets/1769541420852-pudbxk.png",
+                "alt": "Image"
+              },
+              "styles": {
+                "maxWidth": 400,
+                "height": "auto",
+                "display": "block"
+              },
+              "children": []
+            },
+            {
+              "id": "html-lPUXo2EnakSy6jwp9BQqN",
+              "type": "html",
+              "tag": "img",
+              "props": {
+                "src": "/.lunagraph-assets/1769541465071-rdbj59.png",
+                "alt": "Image"
+              },
+              "styles": {
+                "maxWidth": 400,
+                "height": "auto",
+                "display": "block"
+              },
+              "children": []
+            },
+            {
+              "id": "html-xJ0MmbZULhAuiWpe__baO",
+              "type": "html",
+              "tag": "img",
+              "props": {
+                "src": "/.lunagraph-assets/1769541316543-2vnkup.png",
+                "alt": "Image"
+              },
+              "styles": {
+                "maxWidth": 400,
+                "height": "auto",
+                "display": "block"
+              },
+              "children": []
+            }
+          ],
+          "canvasPosition": {
+            "x": -267.3116826017673,
+            "y": 237.05401807087014
+          }
+        },
+        {
+          "id": "el-1769543391748-44",
+          "type": "html",
+          "tag": "div",
+          "props": {
+            "className": "flex flex-col gap-4"
+          },
+          "children": [
+            {
+              "id": "html-99aWn1RpE9cGJr5wNLa0e",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "32px"
+              },
+              "children": [
+                {
+                  "id": "el-1769543391748-8",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "className": "bg-white flex flex-col gap-2 p-4 rounded-lg"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1769543391748-1",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xs font-semibold text-blue-600 tracking-wide"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-0",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "HERO SECTION"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-5",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-2xl font-bold text-gray-900"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-2",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Neptune is sunsetting."
+                        },
+                        {
+                          "id": "el-1769543391748-3",
+                          "type": "html",
+                          "tag": "br",
+                          "children": []
+                        },
+                        {
+                          "id": "el-1769543391748-4",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Your experiments don't have to."
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-7",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-6",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Migrate your ML experiment tracking to Pluto — a maintained, high-performance alternative with dual-logging support for a seamless transition."
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": {
+                    "width": "500px",
+                    "height": "auto"
+                  }
+                },
+                {
+                  "id": "html-HVEtnmVufZA4lA2ssZE2O",
+                  "type": "html",
+                  "tag": "img",
+                  "props": {
+                    "src": "/.lunagraph-assets/1769542634807-eb83l5.png",
+                    "alt": "Image"
+                  },
+                  "styles": {
+                    "maxWidth": 400,
+                    "height": "auto",
+                    "display": "block"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "html-PjKOCNIUVZT6leBPCd-wC",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "32px"
+              },
+              "children": [
+                {
+                  "id": "el-1769543391748-15",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "className": "bg-white flex flex-col gap-2 p-4 rounded-lg h-fit"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1769543391748-10",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xs font-semibold text-blue-600 tracking-wide"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-9",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "LOGOS / TESTIMONIALS"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-12",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xl font-bold text-gray-900"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-11",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Trusted by teams who ran Neptune at scale"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-14",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-13",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Companies with millions of logged runs are making the switch."
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": {
+                    "width": "500px"
+                  }
+                },
+                {
+                  "id": "html-WeiUYJIk1AqB4EEJ8K6kX",
+                  "type": "html",
+                  "tag": "div",
+                  "styles": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "gap": 8
+                  },
+                  "children": [
+                    {
+                      "id": "html-l_DNGxLuznxc_BfkAn2mF",
+                      "type": "html",
+                      "tag": "img",
+                      "props": {
+                        "src": "/.lunagraph-assets/1769543396127-wam0nx.png",
+                        "alt": "Image"
+                      },
+                      "styles": {
+                        "maxWidth": 400,
+                        "height": "auto",
+                        "display": "block"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "html-BXzYazLSXLRBViU_tUD7h",
+                      "type": "html",
+                      "tag": "img",
+                      "props": {
+                        "src": "/.lunagraph-assets/1769543473703-gmpqjt.png",
+                        "alt": "Image"
+                      },
+                      "styles": {
+                        "maxWidth": 400,
+                        "height": "auto",
+                        "display": "block"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "html-4HF3Pwek2NaI30P-gPmMm",
+                      "type": "html",
+                      "tag": "img",
+                      "props": {
+                        "src": "/.lunagraph-assets/1769543547186-xueohk.png",
+                        "alt": "Image"
+                      },
+                      "styles": {
+                        "maxWidth": 400,
+                        "height": "auto",
+                        "display": "block"
+                      },
+                      "canvasPosition": {
+                        "x": 120,
+                        "y": 120
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "html-5qP58-9V73XkCdk2lR9JG",
+                      "type": "html",
+                      "tag": "img",
+                      "props": {
+                        "src": "/.lunagraph-assets/1769543880086-mx8c6b.png",
+                        "alt": "Image"
+                      },
+                      "styles": {
+                        "maxWidth": 400,
+                        "height": "auto",
+                        "display": "block"
+                      },
+                      "canvasPosition": {
+                        "x": 120,
+                        "y": 120
+                      },
+                      "children": []
+                    }
+                  ],
+                  "props": {
+                    "className": "grid grid-cols-2"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "html-8c7i0MYjO6oylxydzaNxz",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "32px"
+              },
+              "children": [
+                {
+                  "id": "el-1769543391748-22",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "className": "bg-white flex flex-col gap-2 p-4 rounded-lg h-fit"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1769543391748-17",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xs font-semibold text-blue-600 tracking-wide"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-16",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "EASY MIGRATION"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-19",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xl font-bold text-gray-900"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-18",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Switch in minutes, not weeks"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-21",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-20",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Our Neptune compatibility layer lets you dual-log to both platforms simultaneously — validate Pluto against real production usage before committing."
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": {
+                    "width": "500px"
+                  }
+                },
+                {
+                  "id": "html-LmnoBUf-lDRs5ItDAhzQx",
+                  "type": "html",
+                  "tag": "img",
+                  "props": {
+                    "src": "/.lunagraph-assets/1769543524755-20gnfz.png",
+                    "alt": "Image"
+                  },
+                  "styles": {
+                    "maxWidth": 400,
+                    "height": "auto",
+                    "display": "block"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "html-iR0vlKgyEOtNkFqGOCgXy",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "32px"
+              },
+              "children": [
+                {
+                  "id": "el-1769543391748-29",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "className": "bg-white flex flex-col gap-2 p-4 rounded-lg h-fit"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1769543391748-24",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xs font-semibold text-blue-600 tracking-wide"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-23",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "OPEN SOURCE"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-26",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xl font-bold text-gray-900"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-25",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Always open source: Run the server on your own infrastructure"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-28",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-27",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Never get locked out again. Self-host Pluto on your own servers with full source access — no vendor can sunset your experiment tracking."
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": {
+                    "width": "500px"
+                  }
+                },
+                {
+                  "id": "html-uyWClbonhhkZZXCbQ6I3u",
+                  "type": "html",
+                  "tag": "div",
+                  "styles": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "gap": 8
+                  },
+                  "children": [
+                    {
+                      "id": "html-eulmn6QFTzBZQupLaJngV",
+                      "type": "html",
+                      "tag": "img",
+                      "props": {
+                        "src": "/.lunagraph-assets/1769543635624-c9p8k6.png",
+                        "alt": "Image"
+                      },
+                      "styles": {
+                        "height": "auto",
+                        "display": "block",
+                        "width": "200px"
+                      },
+                      "canvasPosition": {
+                        "x": 60.88350734338771,
+                        "y": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "html-534p522EJSgiz62gb4kdv",
+                      "type": "html",
+                      "tag": "img",
+                      "props": {
+                        "src": "/.lunagraph-assets/1769543784841-5nszkd.png",
+                        "alt": "Image"
+                      },
+                      "styles": {
+                        "maxWidth": 400,
+                        "height": "auto",
+                        "display": "block"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "html-iqlWuseidsGCmnBwp3ZoH",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "32px"
+              },
+              "children": [
+                {
+                  "id": "el-1769543391748-36",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "className": "bg-white flex flex-col gap-2 p-4 rounded-lg h-fit"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1769543391748-31",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xs font-semibold text-blue-600 tracking-wide"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-30",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "BENEFITS"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-33",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xl font-bold text-gray-900"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-32",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Built for researchers who live in their dashboards"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-35",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-34",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "The speed and scale you loved about Neptune, maintained and improved."
+                        }
+                      ]
+                    },
+                    {
+                      "id": "html-zgKhAsGAD23HLqVpywesd",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "text-yCmQMBtUF83B_u5-60bI9",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "- Responsive"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "html-kxCZS7h5HstTpFM-v6Yzr",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "text-1yZmJ4BzC6eEVrWjubhC9",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "- Scalable"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "html-S2cGERuE2qYsdmdp11Tny",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "text-Hm_FQ49N9gBX_tn8oVLlE",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "- ???"
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": {
+                    "width": "500px"
+                  }
+                },
+                {
+                  "id": "html-2rz3tdA7GBTSBRDb63zLZ",
+                  "type": "html",
+                  "tag": "img",
+                  "props": {
+                    "src": "/.lunagraph-assets/1769543864019-z2rvqk.png",
+                    "alt": "Image"
+                  },
+                  "styles": {
+                    "maxWidth": 400,
+                    "height": "auto",
+                    "display": "block"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "html-Tjog00ph52gK_vdzZdbpQ",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "32px"
+              },
+              "children": [
+                {
+                  "id": "el-1769543391748-43",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "className": "bg-white flex flex-col gap-2 p-4 rounded-lg h-fit"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1769543391748-38",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xs font-semibold text-blue-600 tracking-wide"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-37",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "PRICING"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-40",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-xl font-bold text-gray-900"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-39",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Simple, predictable pricing"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769543391748-42",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769543391748-41",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "$250/seat/month — same as Neptune. Free for active Trainy customers."
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": {
+                    "width": "500px"
+                  }
+                },
+                {
+                  "id": "html-vAGl8qOICEUs-1m7BcgP_",
+                  "type": "html",
+                  "tag": "img",
+                  "props": {
+                    "src": "/.lunagraph-assets/1769544111317-j0sar5.png",
+                    "alt": "Image"
+                  },
+                  "styles": {
+                    "maxWidth": 400,
+                    "height": "auto",
+                    "display": "block"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "html-PObT_nzSFDV622yDadQ8x",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "32px"
+              },
+              "children": [
+                {
+                  "id": "el-1769544298870-6",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "id": "el-1769543595252-6",
+                    "className": "bg-white flex flex-col gap-2 p-4 rounded-lg h-fit"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1769544298870-1",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "id": "el-1769543595252-1",
+                        "className": "text-xs font-semibold text-blue-600 tracking-wide"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769544298870-0",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "SECURITY"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769544298870-3",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "id": "el-1769543595252-3",
+                        "className": "text-xl font-bold text-gray-900"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769544298870-2",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "SOC 2 Type 1 Certified"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1769544298870-5",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "id": "el-1769543595252-5",
+                        "className": "text-gray-600"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1769544298870-4",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "We take security seriously. Your experiment data is protected with enterprise-grade security controls. SOC 2 Type 2 certification in progress."
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": {
+                    "width": "500px"
+                  }
+                },
+                {
+                  "id": "html-5WqDVL-Kh58ON5t2VefVg",
+                  "type": "html",
+                  "tag": "img",
+                  "props": {
+                    "src": "/.lunagraph-assets/1769543570724-7nxpwf.png",
+                    "alt": "Image"
+                  },
+                  "styles": {
+                    "maxWidth": 400,
+                    "height": "auto",
+                    "display": "block"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ],
+          "canvasPosition": {
+            "x": 1209.2256047137034,
+            "y": 245.67621430387166
+          },
+          "styles": {
+            "width": "1200px",
+            "height": "auto",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "paddingTop": "100px",
+            "paddingRight": "100px",
+            "paddingBottom": "100px",
+            "paddingLeft": "100px",
+            "backgroundColor": "#ababab",
+            "gap": "64px"
+          }
+        },
+        {
+          "id": "html-er5-ZWWGK4xG_oM58MVYf",
+          "type": "html",
+          "tag": "div",
+          "styles": {
+            "width": 897.0741258625633,
+            "height": "auto",
+            "backgroundColor": "#f3f4f6",
+            "display": "flex",
+            "flexDirection": "column",
+            "padding": "16px"
+          },
+          "canvasPosition": {
+            "x": -1222.2372117031684,
+            "y": 231.0975953766426
+          },
+          "children": [
+            {
+              "id": "html-qTFUMBWS8sH77-pFD_ZD6",
+              "type": "html",
+              "tag": "p",
+              "styles": {
+                "fontSize": "16px",
+                "color": "#374151",
+                "margin": "0",
+                "lineHeight": "1.5",
+                "fontWeight": "700"
+              },
+              "children": [
+                {
+                  "id": "text-5o8z1dgcenbXYzA4WvFhC",
+                  "type": "text",
+                  "tag": "span",
+                  "text": "YC Launch"
+                }
+              ]
+            },
+            {
+              "id": "html-MyOl34UN1x80VrP67R5_w",
+              "type": "html",
+              "tag": "p",
+              "styles": {
+                "fontSize": "16px",
+                "color": "#374151",
+                "margin": "0",
+                "lineHeight": "1.5"
+              },
+              "children": [
+                {
+                  "id": "text-icGfXvGuqJc-G8MexFIQH",
+                  "type": "text",
+                  "tag": "span",
+                  "text": "Launch BF: Trainy (S23) — OSS experiment tracking for teams displaced by Neptune.ai’s shutdown\nTLDR: Neptune is shutting down in March. We built Pluto so AI teams can migrate their experiment tracking safely and with ease. Since side-by-side comparisons with Neptune are valuable to us, we’ll give any YC company that signs up in the next week (or next 2 days) a ___ discount (maybe 1 month free hosted, or just 50% off until neptune’s shutdown?).\nHey Bookface, we’re Roanak & Andrew, founders of Trainy. We build GPU scheduling & management software for AI teams running large clusters.\nNeptune’s shutdown in March is creating a migration fire drill for a lot of AI teams. Nearly all of our customers are in that boat, so we shipped Pluto: a maintained fork of the mlop experiment tracking repo.  We’ve focused a lot of our work on increasing the performance and reliability of the log/metrics shipper during multi-node/gpu usage as well as a better user experience around searching/filtering runs via tags.  \nDocs: https://trainy.mintlify.app/pluto/overview\nGithub: https://github.com/Trainy-ai/pluto\nQuickstart: https://trainy.mintlify.app/pluto/quickstart\nWhy You Should Try Pluto:\nWe’ve enabled dual-logging to Neptune and Pluto simultaneously, so teams can migrate gradually without disrupting workflows. Teams can validate Pluto against real prod usage before committing to a cutover.\nimport pluto.compat.neptune # Add this line\nimport neptune # Your existing Neptune import\n# Your existing Neptune code works unchanged\nrun = neptune.init_run(project=\"my-workspace/my-project\")\nrun[\"parameters\"] = {\"lr\": 0.001, \"batch_size\": 32}\nrun[\"train/loss\"].log(0.5)\nrun.stop()\nAI teams can self-host Pluto, making it suitable for orgs working with sensitive data in restricted environments. We will also offer a hosted solution, free for active Trainy customers or $250/seat/month. Our goal is to support Pluto as a long-term experiment tracking option for teams post-Neptune.\nFrom talking to our users, we’ve consistently heard people love Neptune for its scalability and responsiveness of the UI. Pluto is being built for researchers that are constantly jumping between runs, comparing metrics, and inspecting results throughout the day.\nHow to Try Pluto:\nThe fastest (& safest) way to get started is following the quickstart (link) and using our Neptune compatibility layer for dual logging.\nIf you want to try the hosted version, reach out to us directly once you’ve made an account on pluto.trainy.ai. We’re onboarding teams manually for now and can help get permissions set up quickly while we finish self-serve.\nAsks:\nIf you’re a Neptune power user, try running Pluto with dual logging before the shutdown in March. We’re especially interested in feedback from people running Pluto and Neptune side-by-side: any gaps you notice, mismatches that would block a cutover, or places where the UI feels meaningfully slower or different. Feel free to share thoughts in the comments or email roanak@trainy.ai.\nDrop us a star on github! https://github.com/Trainy-ai/pluto\n(idk where to put this/if this should even be in) Pluto’s client is Apache-2 licensed & the server includes some GPL components to discourage hosted resale. Details are in the repo.\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
