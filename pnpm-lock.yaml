@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@lunagraph/editor':
-        specifier: ^0.1.46
-        version: 0.1.46(@babel/runtime@7.28.6)(@codemirror/autocomplete@6.20.0)(@codemirror/language@6.12.1)(@codemirror/lint@6.9.2)(@codemirror/search@6.6.0)(@codemirror/state@6.5.4)(@codemirror/theme-one-dark@6.1.3)(@codemirror/view@6.39.11)(@types/react-dom@19.2.3(@types/react@19.2.9))(@types/react@19.2.9)(codemirror@6.0.2)(prop-types@15.8.1)(react-dom@19.2.3(react@19.2.3))(react-is@19.2.3)(react@19.2.3)
+        specifier: ^0.1.47
+        version: 0.1.47(@babel/runtime@7.28.6)(@codemirror/autocomplete@6.20.0)(@codemirror/language@6.12.1)(@codemirror/lint@6.9.2)(@codemirror/search@6.6.0)(@codemirror/state@6.5.4)(@codemirror/theme-one-dark@6.1.3)(@codemirror/view@6.39.11)(@types/react-dom@19.2.3(@types/react@19.2.9))(@types/react@19.2.9)(codemirror@6.0.2)(prop-types@15.8.1)(react-dom@19.2.3(react@19.2.3))(react-is@19.2.3)(react@19.2.3)
       '@radix-ui/react-alert-dialog':
         specifier: ^1.1.15
         version: 1.1.15(@types/react-dom@19.2.3(@types/react@19.2.9))(@types/react@19.2.9)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
@@ -79,11 +79,11 @@ importers:
         version: 3.4.0
     devDependencies:
       '@lunagraph/cli':
-        specifier: ^0.1.46
-        version: 0.1.46
+        specifier: ^0.1.47
+        version: 0.1.47
       '@lunagraph/dev-server':
-        specifier: ^0.1.46
-        version: 0.1.46
+        specifier: ^0.1.47
+        version: 0.1.47
       '@tailwindcss/postcss':
         specifier: ^4
         version: 4.1.18
@@ -511,19 +511,19 @@ packages:
   '@lezer/lr@1.4.8':
     resolution: {integrity: sha512-bPWa0Pgx69ylNlMlPvBPryqeLYQjyJjqPx+Aupm5zydLIF3NE+6MMLT8Yi23Bd9cif9VS00aUebn+6fDIGBcDA==}
 
-  '@lunagraph/cli@0.1.46':
-    resolution: {integrity: sha512-2zasynC+EMrHoxI6adcyiJZ6SCmWqfcftp7qkMbtaEuBTldSSnXviwunWnxe0kSc8uOTawWHgTQbVgMNwRk+Zw==, tarball: https://npm.pkg.github.com/download/@lunagraph/cli/0.1.46/f3e76aeb7dad4145ee6ae9620ac328b06ac73557}
+  '@lunagraph/cli@0.1.47':
+    resolution: {integrity: sha512-Z3swZ7/nv+EPwVE0JOaIqz60HuveZ7OvnerMYT1VF+tf5j3XXR9BZTTFaS4SZiMsmKPamYMACUzlc2m+rAm0lw==, tarball: https://npm.pkg.github.com/download/@lunagraph/cli/0.1.47/76c4c9276c9966f2a2c1dfc9c51307ac83e193fa}
     hasBin: true
 
-  '@lunagraph/codegen@0.1.46':
-    resolution: {integrity: sha512-JoQJbncGMfc2xue44eUmvm1ezErIigA4cbw/F6rE3XvLnxIyUTxKUNryXfrMHLbsyNYxLhQNYaJe5yinw1aGFA==, tarball: https://npm.pkg.github.com/download/@lunagraph/codegen/0.1.46/0931332221cbda509be60943082b0c17c1e87b2c}
+  '@lunagraph/codegen@0.1.47':
+    resolution: {integrity: sha512-rIf0279KDBSbJul9hUVpk4TC+8ojF9xFFBHqs5opDcyeXrOn847t0oR+5G3Kd8F4a0AYIoTiQWaQ0qe1EVEDMQ==, tarball: https://npm.pkg.github.com/download/@lunagraph/codegen/0.1.47/56a57b48ab35c6d82f2714a22f390bae4adb2ba3}
 
-  '@lunagraph/dev-server@0.1.46':
-    resolution: {integrity: sha512-8kyVp4s2ujNYgVBqpxih2nQcrUyLo1W6xVfWxa6cAfJNUcRrVAHehouV33GKoMc+Wtom0XgyW+mJ+ECeADlJhQ==, tarball: https://npm.pkg.github.com/download/@lunagraph/dev-server/0.1.46/f452bb09c54a75660b2825a3711514442ecf1920}
+  '@lunagraph/dev-server@0.1.47':
+    resolution: {integrity: sha512-+fpZ4kR9oBImKzzdidwUl/L1gkX1R9CRm4kq1F7nPmtlCBxOZPQPqtHhWSan3r8/bXxcEDZ/DfI0S3qzQtWj2g==, tarball: https://npm.pkg.github.com/download/@lunagraph/dev-server/0.1.47/fab62e07bad8de0182948826cb6d1b2e963b00ce}
     hasBin: true
 
-  '@lunagraph/editor@0.1.46':
-    resolution: {integrity: sha512-SfNLEfSvDhd5FemmvV3ZezhIpmV7zP7CQLXQ1kmQJ/YQBfrZbUkerppC1Qnm+MBtWSl7LUH0oEDH4cOiUyEQ8w==, tarball: https://npm.pkg.github.com/download/@lunagraph/editor/0.1.46/d845c798712cba358f37c6a1d2c2424e58af138a}
+  '@lunagraph/editor@0.1.47':
+    resolution: {integrity: sha512-pnhOYSSvCgbyTcOHGOAuANg7ZmW3ukokKcm5k+oL/EHjd0uxXr9NV+LYv57poOMfuCaDfnegRDf+VJthoA/9+A==, tarball: https://npm.pkg.github.com/download/@lunagraph/editor/0.1.47/06b7eb571a347a34b80fc196e738133409df6b3d}
     peerDependencies:
       react: ^18.0.0 || ^19.0.0
       react-dom: ^18.0.0 || ^19.0.0
@@ -3677,9 +3677,9 @@ snapshots:
     dependencies:
       '@lezer/common': 1.5.0
 
-  '@lunagraph/cli@0.1.46':
+  '@lunagraph/cli@0.1.47':
     dependencies:
-      '@lunagraph/codegen': 0.1.46
+      '@lunagraph/codegen': 0.1.47
       chalk: 5.6.2
       chokidar: 3.6.0
       commander: 12.1.0
@@ -3688,7 +3688,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@lunagraph/codegen@0.1.46':
+  '@lunagraph/codegen@0.1.47':
     dependencies:
       '@babel/generator': 7.28.6
       '@babel/parser': 7.28.6
@@ -3697,11 +3697,11 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@lunagraph/dev-server@0.1.46':
+  '@lunagraph/dev-server@0.1.47':
     dependencies:
       '@ai-sdk/anthropic': 3.0.27(zod@4.3.6)
       '@anthropic-ai/sdk': 0.52.0
-      '@lunagraph/codegen': 0.1.46
+      '@lunagraph/codegen': 0.1.47
       ai: 6.0.55(zod@4.3.6)
       chalk: 5.6.2
       chokidar: 3.6.0
@@ -3716,13 +3716,13 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@lunagraph/editor@0.1.46(@babel/runtime@7.28.6)(@codemirror/autocomplete@6.20.0)(@codemirror/language@6.12.1)(@codemirror/lint@6.9.2)(@codemirror/search@6.6.0)(@codemirror/state@6.5.4)(@codemirror/theme-one-dark@6.1.3)(@codemirror/view@6.39.11)(@types/react-dom@19.2.3(@types/react@19.2.9))(@types/react@19.2.9)(codemirror@6.0.2)(prop-types@15.8.1)(react-dom@19.2.3(react@19.2.3))(react-is@19.2.3)(react@19.2.3)':
+  '@lunagraph/editor@0.1.47(@babel/runtime@7.28.6)(@codemirror/autocomplete@6.20.0)(@codemirror/language@6.12.1)(@codemirror/lint@6.9.2)(@codemirror/search@6.6.0)(@codemirror/state@6.5.4)(@codemirror/theme-one-dark@6.1.3)(@codemirror/view@6.39.11)(@types/react-dom@19.2.3(@types/react@19.2.9))(@types/react@19.2.9)(codemirror@6.0.2)(prop-types@15.8.1)(react-dom@19.2.3(react@19.2.3))(react-is@19.2.3)(react@19.2.3)':
     dependencies:
       '@babel/standalone': 7.28.6
       '@codemirror/lang-javascript': 6.2.4
       '@dnd-kit/core': 6.3.1(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       '@dnd-kit/utilities': 3.2.2(react@19.2.3)
-      '@lunagraph/codegen': 0.1.46
+      '@lunagraph/codegen': 0.1.47
       '@phosphor-icons/react': 2.1.10(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       '@radix-ui/react-dialog': 1.1.15(@types/react-dom@19.2.3(@types/react@19.2.9))(@types/react@19.2.9)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       '@radix-ui/react-dropdown-menu': 2.1.16(@types/react-dom@19.2.3(@types/react@19.2.9))(@types/react@19.2.9)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)

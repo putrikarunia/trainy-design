@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T03:55:34.381Z",
+  "generatedAt": "2026-01-30T22:17:34.073Z",
   "pages": [
     {
       "id": "canvas-1",
@@ -960,7 +960,7 @@
           },
           "children": [
             {
-              "id": "html-uHd7WqhqGXFDxU93cWAkS",
+              "id": "html-qiFu-GUAIo7XHnGQ-iniG",
               "type": "html",
               "tag": "div",
               "styles": {
@@ -975,7 +975,7 @@
               },
               "children": [
                 {
-                  "id": "html-Qsx5T_NV8M85u8bKyQGiF",
+                  "id": "html-kGnu7ZlQt3pUtbm529mnB",
                   "type": "html",
                   "tag": "section",
                   "props": {
@@ -983,7 +983,7 @@
                   },
                   "children": [
                     {
-                      "id": "html-o55XMIt3KuOqPFiX8Ee5b",
+                      "id": "html-C-yyFvc7q_bYtsSAsQ07b",
                       "type": "html",
                       "tag": "div",
                       "props": {
@@ -991,7 +991,7 @@
                       },
                       "children": [
                         {
-                          "id": "html-qDg0NmtUZkjLmoKp3Af9G",
+                          "id": "html-_seuAOFy5aMPhXxLcwiMo",
                           "type": "html",
                           "tag": "div",
                           "props": {
@@ -999,7 +999,7 @@
                           },
                           "children": [
                             {
-                              "id": "html--tQ2GygiViHctYt8KzpAR",
+                              "id": "html-1t6f-DeZeJF689dEeD2UM",
                               "type": "html",
                               "tag": "div",
                               "props": {
@@ -1007,7 +1007,7 @@
                               },
                               "children": [
                                 {
-                                  "id": "html-A8-fdUeikVzeL1UUUp3RX",
+                                  "id": "html-6V-vYrAPkZKcXpfzDEfgq",
                                   "type": "html",
                                   "tag": "div",
                                   "styles": {
@@ -1017,7 +1017,7 @@
                                   },
                                   "children": [
                                     {
-                                      "id": "html-DilBd-PARFWdhT_p0cT7x",
+                                      "id": "html-oYVTBoyGfUpqFk_bO53DR",
                                       "type": "html",
                                       "tag": "h1",
                                       "props": {
@@ -1025,7 +1025,7 @@
                                       },
                                       "children": [
                                         {
-                                          "id": "text-wARP0odKPXK1oKCkgVRx9",
+                                          "id": "text-7Ej3IqK6F4ImPqhHaQTxH",
                                           "type": "text",
                                           "tag": "span",
                                           "text": "Neptune is sunsetting."
@@ -1033,7 +1033,7 @@
                                       ]
                                     },
                                     {
-                                      "id": "html-msXNp2ri6Xa8Q4tOi2ViA",
+                                      "id": "html--kFAbMXCIZM-9Ygx9ExFS",
                                       "type": "html",
                                       "tag": "h1",
                                       "props": {
@@ -1041,7 +1041,7 @@
                                       },
                                       "children": [
                                         {
-                                          "id": "text-h44-ayw_0N9b2OUm0O3xo",
+                                          "id": "text-wrRaYkzzcpK5D7PgJSBtn",
                                           "type": "text",
                                           "tag": "span",
                                           "text": "Your experiments don't have to."
@@ -1053,7 +1053,7 @@
                               ]
                             },
                             {
-                              "id": "html-EWK2n2IKjbhxQcLO-p9Oi",
+                              "id": "html-_3m2_KLg60dCdUGVGAnuN",
                               "type": "html",
                               "tag": "p",
                               "props": {
@@ -1061,7 +1061,7 @@
                               },
                               "children": [
                                 {
-                                  "id": "text-PLmFIiQh4WXz1K7tiEkjb",
+                                  "id": "text-ZGdBtxrZ-Xbtz0MY9N2QI",
                                   "type": "text",
                                   "tag": "span",
                                   "text": "Migrate your ML experiment tracking to Pluto — a maintained, high-performance alternative with dual-logging support for a seamless transition."
@@ -1069,7 +1069,7 @@
                               ]
                             },
                             {
-                              "id": "component-mhZYf58dtmzfZfa9Pbrx_",
+                              "id": "component-RQBXr90VmzgvSLe7ffr5Z",
                               "type": "component",
                               "componentName": "Button",
                               "props": {},
@@ -1079,7 +1079,7 @@
                               },
                               "children": [
                                 {
-                                  "id": "text-lJ-hUYmr-lDA0pTsshrEa",
+                                  "id": "text-0X6iM3n_so9BZ7nfrIdxh",
                                   "type": "text",
                                   "tag": "span",
                                   "text": "Start your migration",
@@ -1095,7 +1095,7 @@
                           }
                         },
                         {
-                          "id": "html-PcQWUltJeZ7LS0ERUcn0N",
+                          "id": "html-ORDrUD15tGQ2LLScJeFxe",
                           "type": "html",
                           "tag": "div",
                           "props": {
@@ -1103,7 +1103,7 @@
                           },
                           "children": [
                             {
-                              "id": "html-wBGVECqHgqKxebnmGSH0r",
+                              "id": "html-p6YrUs_Dtj9lATxQAoT8D",
                               "type": "html",
                               "tag": "div",
                               "props": {
@@ -1111,7 +1111,7 @@
                               },
                               "children": [
                                 {
-                                  "id": "html-yZunf78xnDvP3CLnxgynS",
+                                  "id": "html-FfMNr90jEuajHaj8qVKv5",
                                   "type": "html",
                                   "tag": "div",
                                   "props": {
@@ -1119,7 +1119,7 @@
                                   },
                                   "children": [
                                     {
-                                      "id": "html-N7hOMLpmVEyxNyCboYo5p",
+                                      "id": "html-4YVNCQu1gfOOdFPQdCfI1",
                                       "type": "html",
                                       "tag": "div",
                                       "props": {
@@ -1127,7 +1127,7 @@
                                       },
                                       "children": [
                                         {
-                                          "id": "html-wME4Psb2CdJb6IIOqxxnN",
+                                          "id": "html--Imicq9oBqA7r3buWGUrs",
                                           "type": "html",
                                           "tag": "img",
                                           "props": {
@@ -1144,7 +1144,7 @@
                                   ]
                                 },
                                 {
-                                  "id": "html-f1awZIo-taFV00K6nyXYC",
+                                  "id": "html-2LMoQOj_nQJZu87k9toGh",
                                   "type": "html",
                                   "tag": "div",
                                   "styles": {
@@ -1156,7 +1156,7 @@
                                   },
                                   "children": [
                                     {
-                                      "id": "html-jnxKetWM4Rys7pefGjRnm",
+                                      "id": "html-nvFM3BouTKZj8CiFTqVSO",
                                       "type": "html",
                                       "tag": "div",
                                       "props": {
@@ -1165,7 +1165,7 @@
                                       "children": []
                                     },
                                     {
-                                      "id": "html-HSvzw-HcDrat_Tthk1JpM",
+                                      "id": "html-3bkf-43Hn07abPjlgujNJ",
                                       "type": "html",
                                       "tag": "div",
                                       "props": {
@@ -1176,7 +1176,7 @@
                                   ]
                                 },
                                 {
-                                  "id": "html-7-f5OUPPoAlry1OA_LvZ8",
+                                  "id": "html-nO0_1bBJ0FcLAwBNXWZQK",
                                   "type": "html",
                                   "tag": "div",
                                   "props": {
@@ -1184,7 +1184,7 @@
                                   },
                                   "children": [
                                     {
-                                      "id": "html-097dbcoXxRxj1MEdaefyf",
+                                      "id": "html-MeGuOQLQe36ECgSxx0_GF",
                                       "type": "html",
                                       "tag": "div",
                                       "props": {
@@ -1192,7 +1192,7 @@
                                       },
                                       "children": [
                                         {
-                                          "id": "text-RYmjyrgNjZHQeTqUYH8BA",
+                                          "id": "text-La807qsusl0EtVBh85ofQ",
                                           "type": "text",
                                           "tag": "span",
                                           "text": "🪐"
@@ -1480,6 +1480,1348 @@
                     "flexDirection": "column",
                     "justifyContent": "center",
                     "alignItems": "flex-start"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "html-uHd7WqhqGXFDxU93cWAkS",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "8",
+                "width": "100%",
+                "justifyContent": "flex-start",
+                "alignItems": "center",
+                "position": "relative"
+              },
+              "children": [
+                {
+                  "id": "html-yENBCSvTpXSGkUgqJGxsO",
+                  "type": "html",
+                  "tag": "section",
+                  "props": {
+                    "className": "container mx-auto"
+                  },
+                  "children": [
+                    {
+                      "id": "html-i44HLNqQMflNmYcuxCmer",
+                      "type": "html",
+                      "tag": "img",
+                      "styles": {
+                        "display": "block",
+                        "width": "800px"
+                      },
+                      "props": {
+                        "src": "/.lunagraph-assets/background.svg",
+                        "alt": "Image",
+                        "className": "absolute -right-[100px] -top-[50px]"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "html-BRaKvRXg7Qon0692krFP4",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "className": "grid grid-cols-1 lg:grid-cols-2 gap-16 items-center"
+                      },
+                      "children": [
+                        {
+                          "id": "html-_DJhqWcI81KllFydoWD7q",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": ""
+                          },
+                          "children": [
+                            {
+                              "id": "html-SSJOzYid6YEeCkRsEVHx_",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "space-y-2"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-zblaA8m_VYskpRY_8IxtV",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "styles": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "gap": 8
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "html-kboDzbPutrMvFdo4b3wtD",
+                              "type": "html",
+                              "tag": "h2",
+                              "styles": {
+                                "width": "500px"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-veLbK3ZqW2zVMmhl1KJBs",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Safe migration with dual-logging, with one line of code"
+                                }
+                              ],
+                              "props": {
+                                "className": "text-foreground font-medium text-3xl"
+                              }
+                            },
+                            {
+                              "id": "html-n0LUxOuuEsXjL2BqhM2Z8",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {
+                                "className": "text-xl max-w-lg leading-relaxed text-muted-foreground"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-NSKCYPi6wlzrv8xSHZ95k",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Our Neptune compatibility layer lets you dual-log to both platforms simultaneously, validate Pluto against real production usage before committing."
+                                }
+                              ]
+                            }
+                          ],
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "gap": "16px"
+                          }
+                        },
+                        {
+                          "id": "html-KhnDeGD7-aeSsdETZ0J-a",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": "flex items-center justify-center"
+                          },
+                          "children": [
+                            {
+                              "id": "html-g07ZHx9jx1RmK_MJT6k5W",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "rounded-2xl flex items-center justify-center bg-linear-to-br border border-glow-orange backdrop-blur-[15px] font-mono from-slate-800/90 to-slate-950/50 from-slate-900/90"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-KmraiC8HG_aemB1XjovqO",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "styles": {
+                                    "fontSize": "16px",
+                                    "color": "#374151",
+                                    "lineHeight": "1.5"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "icon-m7huPmvtjb0zu6wMm8I2G",
+                                      "type": "icon",
+                                      "library": "lucide-react",
+                                      "iconName": "ArrowRight",
+                                      "props": {
+                                        "size": 32,
+                                        "className": "text-orange-200 absolute right-[100%] -ml-2 top-1"
+                                      },
+                                      "styles": {}
+                                    },
+                                    {
+                                      "id": "html-5XjwEV-o40WclTDAELk9F",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2453.532903382455,
+                                        "y": 1096.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-q4_M1PX0XznquvCEKge6Q",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "import "
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-purple-300"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-5tc_ZWJ1JhW9dlXPknjEZ",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2473.532903382455,
+                                        "y": 1116.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-fhV1OnSqCdQmQ146fceK6",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "pluto.compat.neptune  "
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-PBXBi3Am8tLmJEB9D0XjC",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2473.532903382455,
+                                        "y": 1116.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-iOJPIPKgCZyo2KXhdpSoC",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "# Add this line"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-orange-300"
+                                      }
+                                    }
+                                  ],
+                                  "props": {
+                                    "className": "text-foreground rounded-sm p-2 bg-black border font-bold px-4 -ml-4 relative"
+                                  }
+                                },
+                                {
+                                  "id": "html-GMy6kg2Kml6ZqD2HAFmYP",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "styles": {
+                                    "fontSize": "16px",
+                                    "color": "#374151",
+                                    "margin": "0",
+                                    "lineHeight": "1.5",
+                                    "marginBottom": "32px"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-1eZz5mARWnYoKK6ITotsq",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2473.532903382455,
+                                        "y": 1116.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-bG8QBOrVBSeu3-mYwxSSY",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "import "
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-purple-300"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-OhxDQ-6h_MHnTuh_tjRAw",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2493.532903382455,
+                                        "y": 1136.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-Mx1oYnIGCu7ZhCk8XzL-q",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "neptune"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-LYzujb95o_Gg2Fjolqd78",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2493.532903382455,
+                                        "y": 1136.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-hsZbLamnwf9-f_evIXmli",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "  # Your existing Neptune import"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-green-300"
+                                      }
+                                    }
+                                  ],
+                                  "props": {
+                                    "className": "text-foreground"
+                                  }
+                                },
+                                {
+                                  "id": "html-WtRupNAlnXKm1d-KtPBit",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "styles": {
+                                    "fontSize": "16px",
+                                    "color": "#374151",
+                                    "margin": "0",
+                                    "lineHeight": "1.5"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-z1U77-DReRkczg80ILGhP",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2513.532903382455,
+                                        "y": 1156.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-dO6kdMdUqq94oyMJLGfB6",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "# Your existing Neptune code works unchanged\n"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-green-300"
+                                      }
+                                    }
+                                  ],
+                                  "props": {
+                                    "className": "text-foreground"
+                                  }
+                                },
+                                {
+                                  "id": "html-ONrPaLxv5ECi1EWD-Ogi-",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "styles": {
+                                    "fontSize": "16px",
+                                    "color": "#374151",
+                                    "margin": "0",
+                                    "lineHeight": "1.5"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-0-IuZ87TJL7J4erBG7e1_",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2493.532903382455,
+                                        "y": 1136.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-1pbssSNN6s8wTYft7Tot7",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "run = neptune.init_run("
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-hRIpuVsAVZBUokNQpJ3gw",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2513.532903382455,
+                                        "y": 1156.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-yDj7Y82S-fA4Qt2YH18wC",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "project"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-blue-200"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-hN_FSofSrZeGVoK0mroTI",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2533.532903382455,
+                                        "y": 1176.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-nXvP8fTa8JujGNHbELU2Y",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "="
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-l8MaYZ0U4o9nLHQRv-ta0",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2513.532903382455,
+                                        "y": 1156.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-f-ObkoCBs4XikNhGBeQU-",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "\"my-workspace/my-project\""
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-orange-200"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-5KYV2ElKe-MVtSnHcItBp",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2533.532903382455,
+                                        "y": 1176.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-IUxWg6HwwDbv7N2Tj0OMI",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": ")"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    }
+                                  ],
+                                  "props": {
+                                    "className": "text-foreground"
+                                  }
+                                },
+                                {
+                                  "id": "html-Hwc3LYiHREphq6wZfxph9",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "styles": {
+                                    "fontSize": "16px",
+                                    "color": "#374151",
+                                    "margin": "0",
+                                    "lineHeight": "1.5"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-_vP9oNO20Lp6CVRV3crzS",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2513.532903382455,
+                                        "y": 1156.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-Do3mK4r7L4Gs8R_jiSLfD",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "run["
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-t9pmhJr27RBYjudqOkgPz",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2533.532903382455,
+                                        "y": 1176.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-2xiD5rlPTMk8CAsFOMayY",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "\"parameters\""
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-orange-200"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-tw9T6t69bPfcgPvjrdmaX",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2573.532903382455,
+                                        "y": 1216.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-e9qrEJXwiNI8U4T3vvcOr",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "] = {"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-NI6ZQZmrgRxyUBFc4TjY-",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2573.532903382455,
+                                        "y": 1216.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-mvzgUzw6KPFnyMcBimcCL",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "\"parameters\""
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-orange-200"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-WvbpT36_I2kzw9Dj58y2p",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2573.532903382455,
+                                        "y": 1216.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-LeqFUMniKLqL8haN6WF9A",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": ": "
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-PXiQMpN_-cA65Ru97Jpy8",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2573.532903382455,
+                                        "y": 1216.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-PqcjXec6Ae38pSmAoPnFS",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "0.001"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-green-50"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-hU6rdgFYH7Yeaa7mKCSf-",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2533.532903382455,
+                                        "y": 1176.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-htG4eUy7R5GoO0sHWUU6G",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": ", "
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-ySWIEH2PcN7jGB5HIKWpK",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2553.532903382455,
+                                        "y": 1196.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-lxatGCV_hLbJpZx1Vp6GB",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "\"batch_size\""
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-orange-200"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-98tsacoXPXPfrqGL9EcQO",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2553.532903382455,
+                                        "y": 1196.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-DuEiH1vLhkl7pywBsKZri",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": ": "
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-sfJSBk9Z3JTdBH0GT5FYJ",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2553.532903382455,
+                                        "y": 1196.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-rNrXEjg_fKT7bbbeUsS7N",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "32"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-green-50"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-fgrmI6cOUwfcHQ-BFGrcD",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2553.532903382455,
+                                        "y": 1196.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-HwTPdbi1hL8HAuj_6E8cL",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "}"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    }
+                                  ],
+                                  "props": {
+                                    "className": "text-foreground"
+                                  }
+                                },
+                                {
+                                  "id": "html-_fBMiyj8cn8WZZpD_2Pe-",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "styles": {
+                                    "fontSize": "16px",
+                                    "color": "#374151",
+                                    "margin": "0",
+                                    "lineHeight": "1.5"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-aP6FhnuRAUWskIK-QLIqe",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2533.532903382455,
+                                        "y": 1176.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-672NnIlEvD1lNlm85qCDS",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "run["
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-LqkSmiBukWJLxNgnE9EZA",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2553.532903382455,
+                                        "y": 1196.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-OyvLArJdZjA9xOZdCntOw",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "\"train/loss\""
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-orange-200"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-I-9CQaNuN30MUHf8Zj1B5",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2593.532903382455,
+                                        "y": 1236.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-U81qgzY1W10ZAP2yu90Cb",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "].log("
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-eP73x4nfsytOI8TUh4Dh2",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2593.532903382455,
+                                        "y": 1236.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-hxkQg6to9okLGcvx0gxNf",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "0.001"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-green-50"
+                                      }
+                                    },
+                                    {
+                                      "id": "html-EpFFplGn4F3ZWavMhemMa",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2573.532903382455,
+                                        "y": 1216.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-tKS7S31a6XaBIxxvG6YZ-",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": ")"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    }
+                                  ],
+                                  "props": {
+                                    "className": "text-foreground"
+                                  }
+                                },
+                                {
+                                  "id": "html-quKHB2V7EwmmB5CqVbslU",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "styles": {
+                                    "fontSize": "16px",
+                                    "color": "#374151",
+                                    "margin": "0",
+                                    "lineHeight": "1.5"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-TZzp7TTXALTya2zROH9aA",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "canvasPosition": {
+                                        "x": 2513.532903382455,
+                                        "y": 1156.6715565517334
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-rqXSQVcNooUQZiRypm96f",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "run.stop()"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    }
+                                  ],
+                                  "props": {
+                                    "className": "text-foreground"
+                                  }
+                                }
+                              ],
+                              "styles": {
+                                "paddingTop": "16px",
+                                "paddingRight": "16px",
+                                "paddingBottom": "16px",
+                                "paddingLeft": "32px",
+                                "gap": "8px",
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "justifyContent": "center",
+                                "alignItems": "flex-start",
+                                "width": "650px"
+                              }
+                            }
+                          ],
+                          "styles": {
+                            "width": "650px"
+                          }
+                        }
+                      ],
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "row"
+                      }
+                    }
+                  ],
+                  "styles": {
+                    "width": "100%",
+                    "maxWidth": "1200px",
+                    "height": "auto",
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "justifyContent": "center",
+                    "alignItems": "flex-start",
+                    "paddingTop": "64px",
+                    "paddingRight": "",
+                    "paddingBottom": "64px",
+                    "paddingLeft": ""
+                  }
+                }
+              ]
+            },
+            {
+              "id": "html--SlYbc6ZkHmOCB6xVHrEJ",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "8",
+                "width": "100%",
+                "justifyContent": "flex-start",
+                "alignItems": "center",
+                "position": "relative"
+              },
+              "children": [
+                {
+                  "id": "html-EXXrNdhLe8OGfbP0gV1M3",
+                  "type": "html",
+                  "tag": "section",
+                  "props": {
+                    "className": "container mx-auto"
+                  },
+                  "children": [
+                    {
+                      "id": "html-1hAoHWUnZjF2XlqNwIwve",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "className": "gap-16 items-center"
+                      },
+                      "children": [
+                        {
+                          "id": "html-PXUp22Oqu0LKwZXzunMKf",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": "flex items-center justify-center flex-1"
+                          },
+                          "children": [
+                            {
+                              "id": "html-UQCWIfQ0bpUXUNk2zB00W",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "gap": 8,
+                                "paddingTop": "48px",
+                                "paddingRight": "48px",
+                                "paddingBottom": "48px",
+                                "paddingLeft": "48px",
+                                "justifyContent": "center",
+                                "alignItems": "center"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-go8y1F3d9qqDG9SVfAVro",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "props": {
+                                    "className": "rounded-2xl flex items-center justify-center bg-linear-to-br border border-glow-orange backdrop-blur-[15px] font-mono w-fit from-slate-800 to-slate-950"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-ELHMjUDAa5EbF3YgYJvyd",
+                                      "type": "html",
+                                      "tag": "img",
+                                      "props": {
+                                        "src": "/.lunagraph-assets/1769810964609-r2bkxp.png",
+                                        "alt": "Image",
+                                        "className": "grayscale brightness-0 invert"
+                                      },
+                                      "styles": {
+                                        "height": "auto",
+                                        "display": "block",
+                                        "width": "24px"
+                                      },
+                                      "canvasPosition": {
+                                        "x": 120,
+                                        "y": 120
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "id": "html-P3kfvU8XR0R6FK7LxDfdC",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "children": [
+                                        {
+                                          "id": "text-Wtlamc3zLOo6Id1bUu8TR",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "trainy-ai/pluto"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    }
+                                  ],
+                                  "styles": {
+                                    "paddingTop": "16px",
+                                    "paddingRight": "16px",
+                                    "paddingBottom": "16px",
+                                    "paddingLeft": "32px",
+                                    "gap": "8px",
+                                    "display": "flex",
+                                    "flexDirection": "row",
+                                    "justifyContent": "center",
+                                    "alignItems": "flex-start",
+                                    "width": "auto"
+                                  }
+                                }
+                              ],
+                              "props": {
+                                "className": "bg-black border border-border rounded-xl w-full"
+                              }
+                            }
+                          ],
+                          "styles": {}
+                        },
+                        {
+                          "id": "html-W17HXiZiyGimPO0HZHZ5Z",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": "flex-1"
+                          },
+                          "children": [
+                            {
+                              "id": "html--FkwgzPXU-hfO7Z3UubKp",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "space-y-2"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-U-lyupB2vUVuJGEh9-aQ0",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "styles": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "gap": 8
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "html-TcKzjkTUaVwOElgp7tOUB",
+                              "type": "html",
+                              "tag": "h2",
+                              "styles": {
+                                "width": "500px"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-l7go25ThSt_GnYEo_3Wzr",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Always open source"
+                                }
+                              ],
+                              "props": {
+                                "className": "text-foreground font-medium text-3xl"
+                              }
+                            },
+                            {
+                              "id": "html-ed7IqR_a1l66_basr0l25",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {
+                                "className": "text-xl max-w-lg leading-relaxed text-muted-foreground"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-mKbL2oT8s6qMtcg9PBy5y",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Never get locked out again. Self-host Pluto on your own servers with full source access. No vendor can sunset your experiment tracking."
+                                }
+                              ]
+                            }
+                          ],
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "gap": "16px"
+                          }
+                        }
+                      ],
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "row",
+                        "width": "100%",
+                        "gap": "64px"
+                      }
+                    }
+                  ],
+                  "styles": {
+                    "width": "100%",
+                    "maxWidth": "1200px",
+                    "height": "auto",
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "justifyContent": "center",
+                    "alignItems": "flex-start",
+                    "paddingTop": "100px",
+                    "paddingRight": "",
+                    "paddingBottom": "100px",
+                    "paddingLeft": ""
+                  }
+                }
+              ]
+            },
+            {
+              "id": "html-JN-jK_RPRT1aKMFGL-uud",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "8",
+                "width": "100%",
+                "justifyContent": "flex-start",
+                "alignItems": "center",
+                "position": "relative",
+                "opacity": "0.3"
+              },
+              "children": [
+                {
+                  "id": "html-LrsLdCypu04ZA34Rfa9vF",
+                  "type": "html",
+                  "tag": "section",
+                  "props": {
+                    "className": "container mx-auto"
+                  },
+                  "children": [
+                    {
+                      "id": "html-69rcgkL0lfnXUwITlWKWD",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "className": "gap-16 items-center"
+                      },
+                      "children": [
+                        {
+                          "id": "html-VxZeGVBbW8mb62uNKWpx1",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": "flex-1"
+                          },
+                          "children": [
+                            {
+                              "id": "html-tif6bUbg7LD_shVaC4mWk",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "space-y-2"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-D3gQk-9QYdsgsA75GzpY2",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "styles": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "gap": 8
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "html-M4MmsVLDRwKP8ujuHkRks",
+                              "type": "html",
+                              "tag": "h2",
+                              "styles": {
+                                "width": "500px"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-kjvWAGwk9ax7B6T147Fsr",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Built for researchers who live in their dashboards"
+                                }
+                              ],
+                              "props": {
+                                "className": "text-foreground font-medium text-3xl text-center"
+                              }
+                            },
+                            {
+                              "id": "html-aVIyj0Gksk-qrApus1QJV",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {
+                                "className": "text-xl max-w-lg leading-relaxed text-muted-foreground text-center"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-nDUrQk7NFiebepniGx93b",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Never get locked out again. Self-host Pluto on your own servers with full source access. No vendor can sunset your experiment tracking."
+                                }
+                              ]
+                            }
+                          ],
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "gap": "16px",
+                            "justifyContent": "center",
+                            "alignItems": "center"
+                          }
+                        },
+                        {
+                          "id": "html-Q3tbciDTa47zZcWkPNrBL",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": "flex items-center justify-center flex-1"
+                          },
+                          "children": [
+                            {
+                              "id": "html-JKe5Ry1QN2Tf5FdtvRtSx",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "gap": 8,
+                                "paddingTop": "48px",
+                                "paddingRight": "48px",
+                                "paddingBottom": "48px",
+                                "paddingLeft": "48px",
+                                "justifyContent": "center",
+                                "alignItems": "center"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-AHC4YESq9yOfkqIl8RrRh",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "props": {
+                                    "className": "rounded-2xl flex items-center justify-center bg-linear-to-br border border-glow-orange backdrop-blur-[15px] font-mono w-fit from-slate-800 to-slate-950"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-hq0nc0jl8hKr-clnaoSAW",
+                                      "type": "html",
+                                      "tag": "img",
+                                      "props": {
+                                        "src": "/.lunagraph-assets/1769810964609-r2bkxp.png",
+                                        "alt": "Image",
+                                        "className": "grayscale brightness-0 invert"
+                                      },
+                                      "styles": {
+                                        "height": "auto",
+                                        "display": "block",
+                                        "width": "24px"
+                                      },
+                                      "canvasPosition": {
+                                        "x": 160,
+                                        "y": 160
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "id": "html-r8tcjl9B1qDqD2p9TKfyD",
+                                      "type": "html",
+                                      "tag": "span",
+                                      "styles": {},
+                                      "children": [
+                                        {
+                                          "id": "text-4OBCZDPtiDlE0DCKuLgPU",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "trainy-ai/pluto"
+                                        }
+                                      ],
+                                      "props": {
+                                        "className": "text-foreground"
+                                      }
+                                    }
+                                  ],
+                                  "styles": {
+                                    "paddingTop": "16px",
+                                    "paddingRight": "16px",
+                                    "paddingBottom": "16px",
+                                    "paddingLeft": "32px",
+                                    "gap": "8px",
+                                    "display": "flex",
+                                    "flexDirection": "row",
+                                    "justifyContent": "center",
+                                    "alignItems": "flex-start",
+                                    "width": "auto"
+                                  }
+                                }
+                              ],
+                              "props": {
+                                "className": "bg-black border border-border rounded-xl w-full"
+                              }
+                            }
+                          ],
+                          "styles": {}
+                        }
+                      ],
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "width": "100%"
+                      }
+                    }
+                  ],
+                  "styles": {
+                    "width": "100%",
+                    "maxWidth": "1200px",
+                    "height": "auto",
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "justifyContent": "center",
+                    "alignItems": "flex-start",
+                    "paddingTop": "100px",
+                    "paddingRight": "",
+                    "paddingBottom": "100px",
+                    "paddingLeft": ""
                   }
                 }
               ]

@@ -9,14 +9,14 @@ export default function HeroPageSnapshot({
 } & { __onRender?: (element: React.ReactElement) => void }) {
 
   const __element = (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background font-sans">
       {/* Hero Section */}
       <section className="container mx-auto px-6 py-24">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           {/* Left Content */}
           <div className="space-y-8">
             {/* Eyebrow */}
-            <p className="text-sm font-semibold tracking-widest text-primary uppercase">
+            <p className="text-sm font-semibold tracking-widest text-accent uppercase">
               Hero Section
             </p>
 
@@ -26,7 +26,7 @@ export default function HeroPageSnapshot({
                 Neptune is sunsetting.
               </h1>
               <h1 className="text-5xl font-bold tracking-tight text-foreground">
-                Your experiments don't have to.
+                Your experiments don&apos;t have to.
               </h1>
             </div>
 
@@ -55,14 +55,14 @@ export default function HeroPageSnapshot({
 
               {/* Pluto Logo (prominent/foreground) */}
               <div className="relative z-10 ml-16">
-                <div className="w-48 h-48 rounded-3xl bg-primary/10 border border-primary/20 flex items-center justify-center shadow-2xl">
+                <div className="w-48 h-48 rounded-3xl bg-muted border border-border flex items-center justify-center shadow-2xl">
                   <span className="text-8xl">🪐</span>
                 </div>
               </div>
 
               {/* Connector line decoration */}
-              <div className="absolute top-1/2 left-16 w-8 h-px bg-border -translate-y-1/2" />
-              <div className="absolute top-1/2 left-16 w-2 h-2 rounded-full bg-border -translate-y-1/2 -translate-x-1" />
+              <div className="absolute top-1/2 left-16 w-8 h-px bg-secondary -translate-y-1/2" />
+              <div className="absolute top-1/2 left-16 w-2 h-2 rounded-full bg-secondary -translate-y-1/2 -translate-x-1" />
             </div>
           </div>
         </div>
