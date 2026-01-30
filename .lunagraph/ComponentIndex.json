@@ -2680,5 +2680,9 @@
   "Page": {
     "path": "app/page.tsx",
     "exportName": "default"
+  },
+  "HeroPage": {
+    "path": "app/hero/page.tsx",
+    "exportName": "HeroPage"
   }
 }

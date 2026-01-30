@@ -24,10 +24,11 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from './../components/ui/tab
 import { Textarea } from './../components/ui/textarea'
 import { Tooltip, TooltipTrigger, TooltipContent, TooltipProvider } from './../components/ui/tooltip'
 import Page from './../app/page'
+import { HeroPage } from './../app/hero/page'
 import componentIndexData from './ComponentIndex.json'
 
 // Export all components
-export { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogMedia, AlertDialogOverlay, AlertDialogPortal, AlertDialogTitle, AlertDialogTrigger, Avatar, AvatarImage, AvatarFallback, AvatarBadge, AvatarGroup, AvatarGroupCount, Badge, Button, Card, CardHeader, CardFooter, CardTitle, CardAction, CardDescription, CardContent, Checkbox, Dialog, DialogClose, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogOverlay, DialogPortal, DialogTitle, DialogTrigger, DropdownMenu, DropdownMenuPortal, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuGroup, DropdownMenuLabel, DropdownMenuItem, DropdownMenuCheckboxItem, DropdownMenuRadioGroup, DropdownMenuRadioItem, DropdownMenuSeparator, DropdownMenuShortcut, DropdownMenuSub, DropdownMenuSubTrigger, DropdownMenuSubContent, Input, Label, Popover, PopoverTrigger, PopoverContent, PopoverAnchor, PopoverHeader, PopoverTitle, PopoverDescription, RadioGroup, RadioGroupItem, Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectScrollDownButton, SelectScrollUpButton, SelectSeparator, SelectTrigger, SelectValue, Separator, Sheet, SheetTrigger, SheetClose, SheetContent, SheetHeader, SheetFooter, SheetTitle, SheetDescription, Skeleton, Slider, Switch, Table, TableHeader, TableBody, TableFooter, TableHead, TableRow, TableCell, TableCaption, Tabs, TabsList, TabsTrigger, TabsContent, Textarea, Tooltip, TooltipTrigger, TooltipContent, TooltipProvider, Page }
+export { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogMedia, AlertDialogOverlay, AlertDialogPortal, AlertDialogTitle, AlertDialogTrigger, Avatar, AvatarImage, AvatarFallback, AvatarBadge, AvatarGroup, AvatarGroupCount, Badge, Button, Card, CardHeader, CardFooter, CardTitle, CardAction, CardDescription, CardContent, Checkbox, Dialog, DialogClose, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogOverlay, DialogPortal, DialogTitle, DialogTrigger, DropdownMenu, DropdownMenuPortal, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuGroup, DropdownMenuLabel, DropdownMenuItem, DropdownMenuCheckboxItem, DropdownMenuRadioGroup, DropdownMenuRadioItem, DropdownMenuSeparator, DropdownMenuShortcut, DropdownMenuSub, DropdownMenuSubTrigger, DropdownMenuSubContent, Input, Label, Popover, PopoverTrigger, PopoverContent, PopoverAnchor, PopoverHeader, PopoverTitle, PopoverDescription, RadioGroup, RadioGroupItem, Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectScrollDownButton, SelectScrollUpButton, SelectSeparator, SelectTrigger, SelectValue, Separator, Sheet, SheetTrigger, SheetClose, SheetContent, SheetHeader, SheetFooter, SheetTitle, SheetDescription, Skeleton, Slider, Switch, Table, TableHeader, TableBody, TableFooter, TableHead, TableRow, TableCell, TableCaption, Tabs, TabsList, TabsTrigger, TabsContent, Textarea, Tooltip, TooltipTrigger, TooltipContent, TooltipProvider, Page, HeroPage }
 
 // Export as components object
 export const components = {
@@ -134,7 +135,8 @@ export const components = {
   TooltipTrigger,
   TooltipContent,
   TooltipProvider,
-  Page
+  Page,
+  HeroPage
 }
 
 // Export component index metadata

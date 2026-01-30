@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T23:02:00.301Z",
+  "generatedAt": "2026-01-30T03:55:34.381Z",
   "pages": [
     {
       "id": "canvas-1",
@@ -929,6 +929,569 @@
               ]
             }
           ]
+        },
+        {
+          "id": "html-S5Z5P-4TUNF7PDGXbOtNG",
+          "type": "html",
+          "tag": "div",
+          "styles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": 8,
+            "width": "1512px"
+          },
+          "children": [],
+          "canvasPosition": {
+            "x": 2812.4193197166373,
+            "y": 289.6681547611415
+          }
+        },
+        {
+          "id": "html-vKx9fi_rWLpqq9jNzjsk5",
+          "type": "html",
+          "tag": "div",
+          "styles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8",
+            "width": "1512px",
+            "justifyContent": "flex-start",
+            "alignItems": "center"
+          },
+          "children": [
+            {
+              "id": "html-uHd7WqhqGXFDxU93cWAkS",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "8",
+                "width": "100%",
+                "justifyContent": "flex-start",
+                "alignItems": "center",
+                "background": "var(--gradient-with-light, linear-gradient(235deg, rgba(9, 9, 11, 0.50) 56.01%, rgba(9, 9, 11, 0.00) 60%), linear-gradient(50deg, #09090B 27.12%, rgba(9, 9, 11, 0.00) 34.63%), linear-gradient(246deg, #09090B 46.44%, rgba(9, 9, 11, 0.00) 61.13%), linear-gradient(320deg, #09090B 62.43%, #232328 91.55%))",
+                "position": "relative"
+              },
+              "children": [
+                {
+                  "id": "html-Qsx5T_NV8M85u8bKyQGiF",
+                  "type": "html",
+                  "tag": "section",
+                  "props": {
+                    "className": "container mx-auto px-6 py-24"
+                  },
+                  "children": [
+                    {
+                      "id": "html-o55XMIt3KuOqPFiX8Ee5b",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "className": "grid grid-cols-1 lg:grid-cols-2 gap-16 items-center"
+                      },
+                      "children": [
+                        {
+                          "id": "html-qDg0NmtUZkjLmoKp3Af9G",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": "space-y-8"
+                          },
+                          "children": [
+                            {
+                              "id": "html--tQ2GygiViHctYt8KzpAR",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "space-y-2"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-A8-fdUeikVzeL1UUUp3RX",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "styles": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "gap": 8
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-DilBd-PARFWdhT_p0cT7x",
+                                      "type": "html",
+                                      "tag": "h1",
+                                      "props": {
+                                        "className": "text-5xl tracking-tight text-foreground font-semibold"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-wARP0odKPXK1oKCkgVRx9",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "Neptune is sunsetting."
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "html-msXNp2ri6Xa8Q4tOi2ViA",
+                                      "type": "html",
+                                      "tag": "h1",
+                                      "props": {
+                                        "className": "text-5xl tracking-tight text-foreground font-semibold"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-h44-ayw_0N9b2OUm0O3xo",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "Your experiments don't have to."
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "html-EWK2n2IKjbhxQcLO-p9Oi",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {
+                                "className": "text-xl max-w-lg leading-relaxed text-muted-foreground"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-PLmFIiQh4WXz1K7tiEkjb",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Migrate your ML experiment tracking to Pluto — a maintained, high-performance alternative with dual-logging support for a seamless transition."
+                                }
+                              ]
+                            },
+                            {
+                              "id": "component-mhZYf58dtmzfZfa9Pbrx_",
+                              "type": "component",
+                              "componentName": "Button",
+                              "props": {},
+                              "styles": {
+                                "width": "fit-content",
+                                "height": "fit-content"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-lJ-hUYmr-lDA0pTsshrEa",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Start your migration",
+                                  "styles": {}
+                                }
+                              ]
+                            }
+                          ],
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "gap": "16px"
+                          }
+                        },
+                        {
+                          "id": "html-PcQWUltJeZ7LS0ERUcn0N",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": "flex items-center justify-center"
+                          },
+                          "children": [
+                            {
+                              "id": "html-wBGVECqHgqKxebnmGSH0r",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "relative"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-yZunf78xnDvP3CLnxgynS",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "props": {
+                                    "className": ""
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-N7hOMLpmVEyxNyCboYo5p",
+                                      "type": "html",
+                                      "tag": "div",
+                                      "props": {
+                                        "className": "w-32 h-32 rounded-2xl flex items-center justify-center bg-linear-to-br to-slate-300/0 border border-slate-800 from-slate-300/10"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "html-wME4Psb2CdJb6IIOqxxnN",
+                                          "type": "html",
+                                          "tag": "img",
+                                          "props": {
+                                            "src": "/.lunagraph-assets/logo-neptune.svg",
+                                            "alt": "Neptune",
+                                            "width": 80,
+                                            "height": 80,
+                                            "className": "grayscale opacity-50"
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "html-f1awZIo-taFV00K6nyXYC",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "styles": {
+                                    "display": "flex",
+                                    "flexDirection": "row",
+                                    "gap": "0px",
+                                    "alignItems": "center",
+                                    "justifyContent": "flex-start"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-jnxKetWM4Rys7pefGjRnm",
+                                      "type": "html",
+                                      "tag": "div",
+                                      "props": {
+                                        "className": "w-8 h-px bg-border -translate-y-1/2"
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "id": "html-HSvzw-HcDrat_Tthk1JpM",
+                                      "type": "html",
+                                      "tag": "div",
+                                      "props": {
+                                        "className": "w-2 h-2 rounded-full bg-border"
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "html-7-f5OUPPoAlry1OA_LvZ8",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "props": {
+                                    "className": "relative z-10"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-097dbcoXxRxj1MEdaefyf",
+                                      "type": "html",
+                                      "tag": "div",
+                                      "props": {
+                                        "className": "rounded-2xl flex items-center justify-center bg-linear-to-br to-slate-300/0 border from-slate-300/20 w-48 h-48 text-[100px] border-glow-orange"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "text-RYmjyrgNjZHQeTqUYH8BA",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "🪐"
+                                        }
+                                      ],
+                                      "styles": {}
+                                    }
+                                  ]
+                                }
+                              ],
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "row",
+                                "alignItems": "center",
+                                "justifyContent": "flex-start"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": {
+                    "width": "100%",
+                    "maxWidth": "1200px",
+                    "height": "600px",
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "justifyContent": "center",
+                    "alignItems": "flex-start"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "html-fwNX3DsHKpa0JtHX0EUmI",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "8",
+                "width": "100%",
+                "justifyContent": "flex-start",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "id": "html-_jxoapt7SEW-RJ9esTd3b",
+                  "type": "html",
+                  "tag": "section",
+                  "props": {
+                    "className": "container mx-auto px-6 py-24"
+                  },
+                  "children": [
+                    {
+                      "id": "html-ETeVO8hLe0K2PYslMXOMi",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "className": "grid grid-cols-1 lg:grid-cols-2 gap-16 items-center"
+                      },
+                      "children": [
+                        {
+                          "id": "html-dV5WnOl4gGygUsXrBxpXZ",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": "space-y-8 w-full"
+                          },
+                          "children": [
+                            {
+                              "id": "html-3XRsY_9zNimcs8bwoDKni",
+                              "type": "html",
+                              "tag": "h2",
+                              "styles": {
+                                "width": "300px"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-Q9enur40MDjAO8HpZBheR",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Trusted by teams who ran Neptune at scale."
+                                }
+                              ],
+                              "props": {
+                                "className": "text-foreground text-xl font-medium"
+                              }
+                            },
+                            {
+                              "id": "html-plZQmvCMULNO1yQ96q6Zy",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {
+                                "className": "text-xl max-w-lg leading-relaxed text-muted-foreground"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-QaP5qGbwCJmyehmaIxprM",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Companies with millions of logged runs are making the switch."
+                                }
+                              ]
+                            },
+                            {
+                              "id": "html-ZDPNw1fYksnqRaFn-9KWO",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "space-y-2"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-1C669QR-xY11UaA7hu2yu",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "styles": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "gap": 8
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ],
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "gap": "64px"
+                          }
+                        },
+                        {
+                          "id": "html-rVgCYVzsiQjXysOnhiHbs",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "className": "flex justify-center w-full"
+                          },
+                          "children": [
+                            {
+                              "id": "html-sXRkVYyii0bwjr5T9BNjQ",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "rounded-2xl flex bg-linear-to-br to-slate-300/0 border text-[100px] border-glow-orange px-8 from-slate-300/5"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-OSxMuejZ4HJlycwtskm0U",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "styles": {
+                                    "display": "block",
+                                    "height": "36px",
+                                    "width": "auto"
+                                  },
+                                  "props": {
+                                    "src": "/.lunagraph-assets/theforecastingcompany.svg",
+                                    "alt": "Image",
+                                    "className": "opacity-70"
+                                  },
+                                  "children": []
+                                }
+                              ],
+                              "styles": {
+                                "alignItems": "flex-start",
+                                "justifyContent": "flex-start",
+                                "height": "180px",
+                                "width": "350px",
+                                "paddingTop": "32px",
+                                "paddingRight": "32px",
+                                "paddingBottom": "32px",
+                                "paddingLeft": "32px"
+                              }
+                            },
+                            {
+                              "id": "html-_PwbTUUPilUZx13qKZk8k",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "gap": "16px"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-cwyqC1Ydvnt-HydtAGu5T",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "props": {
+                                    "className": "rounded-2xl flex bg-linear-to-br to-slate-300/0 border text-[100px] border-glow-orange px-8 flex-1 from-slate-300/5"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "html-pYW_yC9lhnx-iATMi7GdI",
+                                      "type": "html",
+                                      "tag": "img",
+                                      "styles": {
+                                        "display": "block",
+                                        "height": "16px",
+                                        "width": "auto"
+                                      },
+                                      "props": {
+                                        "src": "/.lunagraph-assets/bioptimus.svg",
+                                        "alt": "Image",
+                                        "className": "brightness-0 invert opacity-70"
+                                      },
+                                      "children": []
+                                    }
+                                  ],
+                                  "styles": {
+                                    "alignItems": "flex-start",
+                                    "justifyContent": "flex-start",
+                                    "width": "350px",
+                                    "paddingTop": "32px",
+                                    "paddingRight": "32px",
+                                    "paddingBottom": "32px",
+                                    "paddingLeft": "32px"
+                                  }
+                                },
+                                {
+                                  "id": "html-KCICdl5tA-huXErmxbOWa",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "props": {
+                                    "className": "rounded-2xl flex bg-linear-to-br to-slate-300/0 border text-[100px] border-glow-orange px-8 flex-1 from-slate-300/5"
+                                  },
+                                  "children": [],
+                                  "styles": {
+                                    "alignItems": "flex-start",
+                                    "justifyContent": "flex-start",
+                                    "width": "350px",
+                                    "paddingTop": "32px",
+                                    "paddingRight": "32px",
+                                    "paddingBottom": "32px",
+                                    "paddingLeft": "32px"
+                                  }
+                                }
+                              ],
+                              "props": {
+                                "className": ""
+                              }
+                            },
+                            {
+                              "id": "html-RlOwit4z_m-69-xRY5-er",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "rounded-2xl flex bg-linear-to-br to-slate-300/0 border text-[100px] border-glow-orange px-8 from-slate-300/5 flex-1"
+                              },
+                              "children": [],
+                              "styles": {
+                                "alignItems": "flex-start",
+                                "justifyContent": "flex-start",
+                                "height": "180px",
+                                "paddingTop": "32px",
+                                "paddingRight": "32px",
+                                "paddingBottom": "32px",
+                                "paddingLeft": "32px"
+                              }
+                            }
+                          ],
+                          "styles": {
+                            "gap": "16px"
+                          }
+                        }
+                      ],
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "width": "100%",
+                        "justifyContent": "flex-start",
+                        "alignItems": "flex-start",
+                        "gap": "64px"
+                      }
+                    }
+                  ],
+                  "styles": {
+                    "width": "100%",
+                    "maxWidth": "1200px",
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "justifyContent": "center",
+                    "alignItems": "flex-start"
+                  }
+                }
+              ]
+            }
+          ],
+          "canvasPosition": {
+            "x": 2504.904773297251,
+            "y": 289.7863007883293
+          },
+          "props": {
+            "className": "bg-background"
+          }
         }
       ]
     }
