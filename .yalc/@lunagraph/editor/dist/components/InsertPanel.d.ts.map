@@ -1,0 +1,1 @@
+{"version":3,"file":"InsertPanel.d.ts","sourceRoot":"","sources":["../../src/components/InsertPanel.tsx"],"names":[],"mappings":"AAGA,OAAO,EAAE,SAAS,EAAqC,MAAM,SAAS,CAAA;AAKtE,UAAU,gBAAgB;IACxB,YAAY,EAAE,CAAC,OAAO,EAAE,SAAS,KAAK,IAAI,CAAA;IAC1C,QAAQ,CAAC,EAAE,OAAO,CAAA;CACnB;AAiDD,eAAO,MAAM,WAAW,GAAI,4BAAoC,gBAAgB,4CAsI/E,CAAA"}

@@ -14,7 +14,8 @@
     "dev:all": "concurrently \"LUNAGRAPH_PORT=4008 pnpm lunagraph:server\" \"pnpm dev --port 3008\""
   },
   "dependencies": {
-    "@lunagraph/editor": "^0.1.50",
+    "@lunagraph/codegen": "file:.yalc/@lunagraph/codegen",
+    "@lunagraph/editor": "file:.yalc/@lunagraph/editor",
     "@radix-ui/react-alert-dialog": "^1.1.15",
     "@radix-ui/react-avatar": "^1.1.11",
     "@radix-ui/react-checkbox": "^1.3.3",
@@ -39,8 +40,8 @@
     "tailwind-merge": "^3.3.1"
   },
   "devDependencies": {
-    "@lunagraph/cli": "^0.1.50",
-    "@lunagraph/dev-server": "^0.1.50",
+    "@lunagraph/cli": "file:.yalc/@lunagraph/cli",
+    "@lunagraph/dev-server": "file:.yalc/@lunagraph/dev-server",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",

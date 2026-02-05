@@ -1,0 +1,186 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  /* Standard shadcn tokens (for canvas/project content) */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-selection: var(--selection);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+
+  /* Editor-specific tokens (ed- prefix for editor UI - avoids Tailwind directional conflict) */
+  --color-ed-background: var(--ed-background);
+  --color-ed-foreground: var(--ed-foreground);
+  --color-ed-card: var(--ed-card);
+  --color-ed-card-foreground: var(--ed-card-foreground);
+  --color-ed-popover: var(--ed-popover);
+  --color-ed-popover-foreground: var(--ed-popover-foreground);
+  --color-ed-primary: var(--ed-primary);
+  --color-ed-primary-foreground: var(--ed-primary-foreground);
+  --color-ed-secondary: var(--ed-secondary);
+  --color-ed-secondary-foreground: var(--ed-secondary-foreground);
+  --color-ed-muted: var(--ed-muted);
+  --color-ed-muted-foreground: var(--ed-muted-foreground);
+  --color-ed-accent: var(--ed-accent);
+  --color-ed-accent-foreground: var(--ed-accent-foreground);
+  --color-ed-destructive: var(--ed-destructive);
+  --color-ed-border: var(--ed-border);
+  --color-ed-input: var(--ed-input);
+  --color-ed-ring: var(--ed-ring);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  --radius: 0.625rem;
+
+  /* Standard shadcn tokens (for canvas/project content) */
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --selection: oklch(0.488 0.243 264.376);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+
+  /* Editor-specific tokens (ed- prefix for editor UI) */
+  --ed-background: oklch(1 0 0);
+  --ed-foreground: oklch(0.145 0 0);
+  --ed-card: oklch(1 0 0);
+  --ed-card-foreground: oklch(0.145 0 0);
+  --ed-popover: oklch(1 0 0);
+  --ed-popover-foreground: oklch(0.145 0 0);
+  --ed-primary: oklch(0.205 0 0);
+  --ed-primary-foreground: oklch(0.985 0 0);
+  --ed-secondary: oklch(0.97 0 0);
+  --ed-secondary-foreground: oklch(0.205 0 0);
+  --ed-muted: oklch(0.97 0 0);
+  --ed-muted-foreground: oklch(0.556 0 0);
+  --ed-accent: oklch(0.97 0 0);
+  --ed-accent-foreground: oklch(0.205 0 0);
+  --ed-destructive: oklch(0.577 0.245 27.325);
+  --ed-border: oklch(0.922 0 0);
+  --ed-input: oklch(0.922 0 0);
+  --ed-ring: oklch(0.708 0 0);
+}
+
+.dark {
+  /* Standard shadcn tokens (for canvas/project content) */
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --selection: oklch(0.488 0.243 264.376);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.556 0 0);
+
+  /* Editor-specific tokens (ed- prefix for editor UI) */
+  --ed-background: oklch(0.145 0 0);
+  --ed-foreground: oklch(0.985 0 0);
+  --ed-card: oklch(0.205 0 0);
+  --ed-card-foreground: oklch(0.985 0 0);
+  --ed-popover: oklch(0.205 0 0);
+  --ed-popover-foreground: oklch(0.985 0 0);
+  --ed-primary: oklch(0.922 0 0);
+  --ed-primary-foreground: oklch(0.205 0 0);
+  --ed-secondary: oklch(0.269 0 0);
+  --ed-secondary-foreground: oklch(0.985 0 0);
+  --ed-muted: oklch(0.269 0 0);
+  --ed-muted-foreground: oklch(0.708 0 0);
+  --ed-accent: oklch(0.269 0 0);
+  --ed-accent-foreground: oklch(0.985 0 0);
+  --ed-destructive: oklch(0.704 0.191 22.216);
+  --ed-border: oklch(1 0 0 / 10%);
+  --ed-input: oklch(1 0 0 / 15%);
+  --ed-ring: oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    border-color: var(--ed-border);
+    outline-color: oklch(from var(--ed-ring) l c h / 50%);
+  }
+
+  body {
+    background-color: var(--ed-background);
+    color: var(--ed-foreground);
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}

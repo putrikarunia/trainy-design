@@ -1,0 +1,24 @@
+{
+  "version": "v1",
+  "packages": {
+    "@lunagraph/cli": {
+      "signature": "6444e655721033a07036c95cc7ecad50",
+      "file": true,
+      "replaced": "^0.1.50"
+    },
+    "@lunagraph/codegen": {
+      "signature": "3543d8a4f70b9c94964ff290fd383ab0",
+      "file": true
+    },
+    "@lunagraph/dev-server": {
+      "signature": "78524e0c8384f06eb82f5be019adfa3d",
+      "file": true,
+      "replaced": "^0.1.50"
+    },
+    "@lunagraph/editor": {
+      "signature": "c8b449b7cc0d3415aaf4040c313addde",
+      "file": true,
+      "replaced": "^0.1.50"
+    }
+  }
+}
