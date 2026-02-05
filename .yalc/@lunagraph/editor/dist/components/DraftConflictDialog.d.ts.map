@@ -1,1 +1,0 @@
-{"version":3,"file":"DraftConflictDialog.d.ts","sourceRoot":"","sources":["../../src/components/DraftConflictDialog.tsx"],"names":[],"mappings":"AAYA,UAAU,wBAAwB;IAChC,MAAM,EAAE,OAAO,CAAA;IACf,aAAa,EAAE,MAAM,CAAA;IACrB,cAAc,EAAE,MAAM,IAAI,CAAA;IAC1B,mBAAmB,EAAE,MAAM,IAAI,CAAA;CAChC;AAED,wBAAgB,mBAAmB,CAAC,EAClC,MAAM,EACN,aAAa,EACb,cAAc,EACd,mBAAmB,GACpB,EAAE,wBAAwB,2CAmD1B"}
