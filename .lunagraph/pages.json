@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T04:00:56.903Z",
+  "generatedAt": "2026-02-06T03:06:27.658Z",
   "pages": [
     {
       "id": "canvas-1",
@@ -976,6 +976,258 @@
               },
               "children": [
                 {
+                  "id": "html-hqaRizCffxPLEF5g6lc70",
+                  "type": "html",
+                  "tag": "nav",
+                  "props": {
+                    "id": "html-navbar-pluto-001",
+                    "className": ""
+                  },
+                  "styles": {
+                    "position": "sticky",
+                    "top": "0",
+                    "zIndex": "50",
+                    "width": "100%",
+                    "maxWidth": "1200px"
+                  },
+                  "children": [
+                    {
+                      "id": "html-Ac1FkDzCvmvpmY0J7jZmq",
+                      "type": "html",
+                      "tag": "div",
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "row",
+                        "alignItems": "center",
+                        "justifyContent": "space-between",
+                        "margin": "0 auto",
+                        "height": "64px",
+                        "paddingLeft": "24px",
+                        "paddingRight": "24px"
+                      },
+                      "children": [
+                        {
+                          "id": "html-wVq8miTFER9E-waERcw16",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "href": "/"
+                          },
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "alignItems": "center",
+                            "gap": "8px",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "html-7mq9fKZerhay5227vPFqI",
+                              "type": "html",
+                              "tag": "img",
+                              "props": {
+                                "src": "/.lunagraph-assets/logo.svg",
+                                "alt": "Trainy"
+                              },
+                              "styles": {
+                                "height": "auto",
+                                "display": "block",
+                                "width": "32px"
+                              },
+                              "children": []
+                            },
+                            {
+                              "id": "html-LND3QJuPO_4vYyoU9fRWM",
+                              "type": "html",
+                              "tag": "span",
+                              "props": {
+                                "className": "text-foreground"
+                              },
+                              "styles": {
+                                "fontSize": "18px",
+                                "fontWeight": "600"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-WlHPA7jLH3dbxCZF3r8U1",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Trainy"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-9oFMG6FUlm7R8egHE21ki",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "alignItems": "center",
+                            "gap": "32px"
+                          },
+                          "children": [
+                            {
+                              "id": "html-vdMC-pTKf-_VRFUdD2cLO",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "row",
+                                "alignItems": "center",
+                                "gap": "24px"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-zaoxB1Gtp9WxkPqSQuPgd",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "href": "/on-demand",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "text-W2h1h2KCfST9RgaKNCx0B",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "On-Demand"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "html-1CoIeDausUhQxpyxwc3xe",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "href": "/reserved",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "text-V9Mna_mOZWdFknlvuPS1A",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Reserved"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "html-4JDsLlAlOxw0_T8Cn3q80",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "href": "/pricing",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "text-HMrOXzQdTb918HKKijT5x",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Pricing"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "html-lsN-llW4YhlVPcsSVVIv3",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "href": "/pluto",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "text-y5g2gXf1zUqZ1cd9QAaRG",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Experiment Tracking"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "html-wlxhYFWl-RqBj_YU5cvY-",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "row",
+                                "alignItems": "center",
+                                "gap": "12px"
+                              },
+                              "children": [
+                                {
+                                  "id": "component-Po6uTSKov5vjzF_o1Wj-S",
+                                  "type": "component",
+                                  "componentName": "Button",
+                                  "props": {
+                                    "variant": "secondary",
+                                    "size": "sm"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "text-3i28AhVliYKxoVvLdpW_S",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Docs"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "component-fck4XXoXYh8PysOy6zgaE",
+                                  "type": "component",
+                                  "componentName": "Button",
+                                  "props": {
+                                    "size": "sm"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "text--dpoqWpF33N6If8jOp2wO",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Book a demo"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "canvasPosition": {
+                    "x": 120,
+                    "y": 120
+                  }
+                },
+                {
                   "id": "html-kGnu7ZlQt3pUtbm529mnB",
                   "type": "html",
                   "tag": "section",
@@ -1229,9 +1481,12 @@
               ]
             },
             {
-              "id": "html-fwNX3DsHKpa0JtHX0EUmI",
+              "id": "el-1770346735112-13",
               "type": "html",
               "tag": "div",
+              "props": {
+                "id": "html-fwNX3DsHKpa0JtHX0EUmI"
+              },
               "styles": {
                 "display": "flex",
                 "flexDirection": "column",
@@ -1242,246 +1497,180 @@
               },
               "children": [
                 {
-                  "id": "html-_jxoapt7SEW-RJ9esTd3b",
+                  "id": "el-1770346735112-12",
                   "type": "html",
                   "tag": "section",
                   "props": {
-                    "className": "container mx-auto px-6 py-24"
+                    "className": "container mx-auto"
                   },
-                  "children": [
-                    {
-                      "id": "html-ETeVO8hLe0K2PYslMXOMi",
-                      "type": "html",
-                      "tag": "div",
-                      "props": {
-                        "className": "grid grid-cols-1 lg:grid-cols-2 gap-16 items-center"
-                      },
-                      "children": [
-                        {
-                          "id": "html-dV5WnOl4gGygUsXrBxpXZ",
-                          "type": "html",
-                          "tag": "div",
-                          "props": {
-                            "className": "space-y-8 w-full"
-                          },
-                          "children": [
-                            {
-                              "id": "html-3XRsY_9zNimcs8bwoDKni",
-                              "type": "html",
-                              "tag": "h2",
-                              "styles": {
-                                "width": "300px"
-                              },
-                              "children": [
-                                {
-                                  "id": "text-Q9enur40MDjAO8HpZBheR",
-                                  "type": "text",
-                                  "tag": "span",
-                                  "text": "Trusted by teams who ran Neptune at scale."
-                                }
-                              ],
-                              "props": {
-                                "className": "text-foreground text-xl font-medium"
-                              }
-                            },
-                            {
-                              "id": "html-plZQmvCMULNO1yQ96q6Zy",
-                              "type": "html",
-                              "tag": "p",
-                              "props": {
-                                "className": "text-xl max-w-lg leading-relaxed text-muted-foreground"
-                              },
-                              "children": [
-                                {
-                                  "id": "text-QaP5qGbwCJmyehmaIxprM",
-                                  "type": "text",
-                                  "tag": "span",
-                                  "text": "Companies with millions of logged runs are making the switch."
-                                }
-                              ]
-                            },
-                            {
-                              "id": "html-ZDPNw1fYksnqRaFn-9KWO",
-                              "type": "html",
-                              "tag": "div",
-                              "props": {
-                                "className": "space-y-2"
-                              },
-                              "children": [
-                                {
-                                  "id": "html-1C669QR-xY11UaA7hu2yu",
-                                  "type": "html",
-                                  "tag": "div",
-                                  "styles": {
-                                    "display": "flex",
-                                    "flexDirection": "column",
-                                    "gap": 8
-                                  },
-                                  "children": []
-                                }
-                              ]
-                            }
-                          ],
-                          "styles": {
-                            "display": "flex",
-                            "flexDirection": "row",
-                            "gap": "64px"
-                          }
-                        },
-                        {
-                          "id": "html-rVgCYVzsiQjXysOnhiHbs",
-                          "type": "html",
-                          "tag": "div",
-                          "props": {
-                            "className": "flex justify-center w-full"
-                          },
-                          "children": [
-                            {
-                              "id": "html-sXRkVYyii0bwjr5T9BNjQ",
-                              "type": "html",
-                              "tag": "div",
-                              "props": {
-                                "className": "rounded-2xl flex bg-linear-to-br to-slate-300/0 border text-[100px] border-glow-orange px-8 from-slate-300/5"
-                              },
-                              "children": [
-                                {
-                                  "id": "html-OSxMuejZ4HJlycwtskm0U",
-                                  "type": "html",
-                                  "tag": "img",
-                                  "styles": {
-                                    "display": "block",
-                                    "height": "36px",
-                                    "width": "auto"
-                                  },
-                                  "props": {
-                                    "src": "/.lunagraph-assets/theforecastingcompany.svg",
-                                    "alt": "Image",
-                                    "className": "opacity-70"
-                                  },
-                                  "children": []
-                                }
-                              ],
-                              "styles": {
-                                "alignItems": "flex-start",
-                                "justifyContent": "flex-start",
-                                "height": "180px",
-                                "width": "350px",
-                                "paddingTop": "32px",
-                                "paddingRight": "32px",
-                                "paddingBottom": "32px",
-                                "paddingLeft": "32px"
-                              }
-                            },
-                            {
-                              "id": "html-_PwbTUUPilUZx13qKZk8k",
-                              "type": "html",
-                              "tag": "div",
-                              "styles": {
-                                "display": "flex",
-                                "flexDirection": "column",
-                                "gap": "16px"
-                              },
-                              "children": [
-                                {
-                                  "id": "html-cwyqC1Ydvnt-HydtAGu5T",
-                                  "type": "html",
-                                  "tag": "div",
-                                  "props": {
-                                    "className": "rounded-2xl flex bg-linear-to-br to-slate-300/0 border text-[100px] border-glow-orange px-8 flex-1 from-slate-300/5"
-                                  },
-                                  "children": [
-                                    {
-                                      "id": "html-pYW_yC9lhnx-iATMi7GdI",
-                                      "type": "html",
-                                      "tag": "img",
-                                      "styles": {
-                                        "display": "block",
-                                        "height": "16px",
-                                        "width": "auto"
-                                      },
-                                      "props": {
-                                        "src": "/.lunagraph-assets/bioptimus.svg",
-                                        "alt": "Image",
-                                        "className": "brightness-0 invert opacity-70"
-                                      },
-                                      "children": []
-                                    }
-                                  ],
-                                  "styles": {
-                                    "alignItems": "flex-start",
-                                    "justifyContent": "flex-start",
-                                    "width": "350px",
-                                    "paddingTop": "32px",
-                                    "paddingRight": "32px",
-                                    "paddingBottom": "32px",
-                                    "paddingLeft": "32px"
-                                  }
-                                },
-                                {
-                                  "id": "html-KCICdl5tA-huXErmxbOWa",
-                                  "type": "html",
-                                  "tag": "div",
-                                  "props": {
-                                    "className": "rounded-2xl flex bg-linear-to-br to-slate-300/0 border text-[100px] border-glow-orange px-8 flex-1 from-slate-300/5"
-                                  },
-                                  "children": [],
-                                  "styles": {
-                                    "alignItems": "flex-start",
-                                    "justifyContent": "flex-start",
-                                    "width": "350px",
-                                    "paddingTop": "32px",
-                                    "paddingRight": "32px",
-                                    "paddingBottom": "32px",
-                                    "paddingLeft": "32px"
-                                  }
-                                }
-                              ],
-                              "props": {
-                                "className": ""
-                              }
-                            },
-                            {
-                              "id": "html-RlOwit4z_m-69-xRY5-er",
-                              "type": "html",
-                              "tag": "div",
-                              "props": {
-                                "className": "rounded-2xl flex bg-linear-to-br to-slate-300/0 border text-[100px] border-glow-orange px-8 from-slate-300/5 flex-1"
-                              },
-                              "children": [],
-                              "styles": {
-                                "alignItems": "flex-start",
-                                "justifyContent": "flex-start",
-                                "height": "180px",
-                                "paddingTop": "32px",
-                                "paddingRight": "32px",
-                                "paddingBottom": "32px",
-                                "paddingLeft": "32px"
-                              }
-                            }
-                          ],
-                          "styles": {
-                            "gap": "16px"
-                          }
-                        }
-                      ],
-                      "styles": {
-                        "display": "flex",
-                        "flexDirection": "column",
-                        "width": "100%",
-                        "justifyContent": "flex-start",
-                        "alignItems": "flex-start",
-                        "gap": "64px"
-                      }
-                    }
-                  ],
                   "styles": {
                     "width": "100%",
                     "maxWidth": "1200px",
                     "display": "flex",
                     "flexDirection": "column",
                     "justifyContent": "center",
-                    "alignItems": "flex-start"
-                  }
+                    "alignItems": "center",
+                    "paddingTop": "64px",
+                    "paddingBottom": "120px",
+                    "paddingLeft": "64px",
+                    "paddingRight": "64px"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1770346735112-11",
+                      "type": "html",
+                      "tag": "div",
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "width": "100%",
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "gap": "48px",
+                        "maxWidth": "900px"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1770346858751-1",
+                          "type": "html",
+                          "tag": "p",
+                          "props": {
+                            "id": "el-1770346735112-1",
+                            "className": "text-foreground text-center font-medium text-2xl"
+                          },
+                          "styles": {},
+                          "children": [
+                            {
+                              "id": "el-1770346858751-0",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "\"Trainy removed the stress from neptune.ai being taken off the market. They stepped up, built Pluto, and raced to feature parity and we are working with them as they build the first AI native experiment tracker.\""
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1770346735112-10",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "alignItems": "center",
+                            "gap": "16px"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1770346735112-3",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "className": "bg-muted"
+                              },
+                              "styles": {
+                                "width": "64px",
+                                "height": "64px",
+                                "borderRadius": "9999px",
+                                "overflow": "hidden",
+                                "border": "2px solid rgba(255,255,255,0.1)"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-uboQbokBFYbs-x5GIn6zs",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/1770347111494-iljmsd.png",
+                                    "alt": "Image"
+                                  },
+                                  "styles": {
+                                    "height": "auto",
+                                    "display": "block",
+                                    "width": "100%"
+                                  },
+                                  "canvasPosition": {
+                                    "x": 120,
+                                    "y": 120
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1770346735112-8",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "center",
+                                "gap": "4px"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1770346735112-5",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "props": {
+                                    "className": "text-foreground"
+                                  },
+                                  "styles": {
+                                    "fontSize": "16px",
+                                    "fontWeight": "500",
+                                    "margin": "0"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770346735112-4",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Geoffrey Négiar "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770346735112-7",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "props": {
+                                    "className": "text-muted-foreground"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770346735112-6",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Co-Founder @ The Forecasting Company"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1770346735112-9",
+                              "type": "html",
+                              "tag": "img",
+                              "props": {
+                                "src": "/.lunagraph-assets/theforecastingcompany.svg",
+                                "alt": "Company logo",
+                                "className": ""
+                              },
+                              "styles": {
+                                "height": "28px",
+                                "width": "auto",
+                                "display": "block",
+                                "marginTop": "8px"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -3286,7 +3475,7 @@
                                       "id": "text-Jd-ZOxmLelgOn5X2gFDSU",
                                       "type": "text",
                                       "tag": "span",
-                                      "text": "Unlimited users & projects"
+                                      "text": "10 max seats"
                                     }
                                   ],
                                   "styles": {
@@ -3800,6 +3989,806 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "html-nL3_VcssKCZJ3RL4QkE0M",
+              "type": "html",
+              "tag": "div",
+              "styles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "8",
+                "width": "100%",
+                "justifyContent": "flex-start",
+                "alignItems": "center",
+                "position": "relative",
+                "opacity": "1"
+              },
+              "children": [
+                {
+                  "id": "el-1770345896470-57",
+                  "type": "html",
+                  "tag": "section",
+                  "props": {
+                    "id": "html-vvcJ-doJmRtqE0GyvkUq4",
+                    "className": "container mx-auto"
+                  },
+                  "styles": {
+                    "width": "100%",
+                    "maxWidth": "1200px",
+                    "height": "auto",
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "paddingTop": "50px",
+                    "paddingBottom": "100px",
+                    "gap": "32px"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1770345896470-0",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "id": "html-u-9pfnE363vDn37APWIHU",
+                        "className": "gap-16 items-center"
+                      },
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "width": "100%",
+                        "opacity": "1"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "el-1770345896470-56",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "id": "html-0ZYgT9Qv-DomqbxVowFrt"
+                      },
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "row",
+                        "justifyContent": "space-between",
+                        "maxWidth": "1400px",
+                        "margin": "0 auto",
+                        "gap": "64px",
+                        "width": "100%"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1770345896470-11",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "id": "html-yRfihw2gUCcCU3llA-id3"
+                          },
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "gap": "16px",
+                            "minWidth": "250px"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1770345896470-5",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "id": "html-8GV-S8rao115yEz9fQ_Rb"
+                              },
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "gap": "12px"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1770345896470-2",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "href": "/"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-1",
+                                      "type": "html",
+                                      "tag": "img",
+                                      "props": {
+                                        "id": "html-tvBzMeEqvxs3xzMgWpAO0",
+                                        "src": "/.lunagraph-assets/logo.svg",
+                                        "alt": "Trainy"
+                                      },
+                                      "styles": {
+                                        "height": "auto",
+                                        "display": "block",
+                                        "width": "32px"
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-4",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "props": {
+                                    "id": "html-DHAqYOmuvTPGOzgp4N5rx"
+                                  },
+                                  "styles": {
+                                    "fontSize": "18px",
+                                    "fontWeight": "600",
+                                    "color": "#ffffff",
+                                    "margin": "0"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-3",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Trainy"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1770345896470-10",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "id": "html-EReJc6ZbuxWzYo6tXnOjf"
+                              },
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "gap": "2px"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1770345896470-7",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "props": {
+                                    "id": "html-TkZ6mFtPvnRKfHW9A3D_K"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "color": "#a1a1aa",
+                                    "margin": "0",
+                                    "lineHeight": "1.6"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-6",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "2261 Market Street #5039"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-9",
+                                  "type": "html",
+                                  "tag": "p",
+                                  "props": {
+                                    "id": "html-y2Akyamwvw7gBD2eVqGzz"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "color": "#a1a1aa",
+                                    "margin": "0",
+                                    "lineHeight": "1.6"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-8",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "San Francisco, CA 94114"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1770345896470-23",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "id": "html-rix0uf6yyOkHGSjpWquuW"
+                          },
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "gap": "16px",
+                            "minWidth": "160px"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1770345896470-13",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {
+                                "id": "html-geNM7_FWxnF51gsYsI6RS"
+                              },
+                              "styles": {
+                                "fontSize": "14px",
+                                "fontWeight": "600",
+                                "color": "#ffffff",
+                                "margin": "0"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1770345896470-12",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Product"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1770345896470-22",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "id": "html-iNTPepDU62gMlHRFvU5Mz"
+                              },
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "gap": "12px"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1770345896470-15",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-7QjH0Q9gZKtDFVaEL4Z6Z",
+                                    "href": "/on-demand",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-14",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "On-Demand"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-17",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-8SbqBrCOBKpn1FlfrgfGs",
+                                    "href": "/reserved",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-16",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Reserved"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-19",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-K2651FcQWh64aSfcgYEQx",
+                                    "href": "/pricing",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-18",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Pricing"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-21",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-lSgXKypUsAe8TMarrMK-c",
+                                    "href": "/pluto",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-20",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Experiment Tracking"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1770345896470-39",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "id": "html-OO0u5BVbM6wclcD1yDERQ"
+                          },
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "gap": "16px",
+                            "minWidth": "160px"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1770345896470-25",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {
+                                "id": "html-ztrtX_U17G9oUKbIbpM5g"
+                              },
+                              "styles": {
+                                "fontSize": "14px",
+                                "fontWeight": "600",
+                                "color": "#ffffff",
+                                "margin": "0"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1770345896470-24",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Resources"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1770345896470-38",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "id": "html-5CXh63-ifBcfsG9d9ohwx"
+                              },
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "gap": "12px"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1770345896470-27",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-s4o_01IXwxGpZddTuC78j",
+                                    "href": "/blog",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-26",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Blog"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-29",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-s30zb_dm-ClsXDsxKFdk8",
+                                    "href": "https://docs.trainy.ai/overview",
+                                    "target": "_blank",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-28",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Documentation"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-31",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-omC9t50_7nHL1EmRrh6qK",
+                                    "href": "mailto:sales@trainy.ai?subject=Contact",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-30",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Contact"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-33",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-5iomeuLmfjrYFW3q1-5AK",
+                                    "href": "https://www.iubenda.com/privacy-policy/67976400",
+                                    "target": "_blank",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-32",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Privacy Policy"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-35",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-c8IdI-SZ9GR323qFRT21R",
+                                    "href": "https://www.iubenda.com/privacy-policy/67976400/cookie-policy",
+                                    "target": "_blank",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-34",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Cookie Policy"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-37",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-qZZbqTcpw88DQ6EEtyByH",
+                                    "href": "https://www.iubenda.com/terms-and-conditions/67976400",
+                                    "target": "_blank",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-36",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Terms of service"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1770345896470-55",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "id": "html-sCLmgKVGQybq-s0Fs7XCk"
+                          },
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "gap": "16px",
+                            "minWidth": "160px"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1770345896470-41",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {
+                                "id": "html-6LQVkpbUoE3aUQ46jtYEg"
+                              },
+                              "styles": {
+                                "fontSize": "14px",
+                                "fontWeight": "600",
+                                "color": "#ffffff",
+                                "margin": "0"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1770345896470-40",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Social"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1770345896470-54",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {
+                                "id": "html-vIgLQ6wVNNDW1W7Tmjd8D"
+                              },
+                              "styles": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "gap": "12px"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1770345896470-44",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-0dRtvys_1DgwhE7GDlzVn",
+                                    "href": "https://github.com/Trainy-ai",
+                                    "target": "_blank",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer",
+                                    "display": "flex",
+                                    "flexDirection": "row",
+                                    "alignItems": "center",
+                                    "justifyContent": "flex-start",
+                                    "gap": "8px"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-42",
+                                      "type": "html",
+                                      "tag": "img",
+                                      "props": {
+                                        "id": "html-iob7aowtPILFhxw4HPZvU",
+                                        "src": "/.lunagraph-assets/github.svg",
+                                        "alt": "Github"
+                                      },
+                                      "styles": {
+                                        "height": "auto",
+                                        "display": "block",
+                                        "width": "16px"
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "id": "el-1770345896470-43",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Github"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-47",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-ev0_QFzct7p5C0Ck3DgFV",
+                                    "href": "https://www.linkedin.com/company/trainy-ai/about/",
+                                    "target": "_blank",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer",
+                                    "display": "flex",
+                                    "flexDirection": "row",
+                                    "alignItems": "center",
+                                    "justifyContent": "flex-start",
+                                    "gap": "8px"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-45",
+                                      "type": "html",
+                                      "tag": "img",
+                                      "props": {
+                                        "id": "html-pWsmgEFq3YT9IlB11JoGU",
+                                        "src": "/.lunagraph-assets/linkedin.svg",
+                                        "alt": "LinkedIn"
+                                      },
+                                      "styles": {
+                                        "height": "auto",
+                                        "display": "block",
+                                        "width": "16px"
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "id": "el-1770345896470-46",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "LinkedIn"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-50",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-b7i_lgqdcVhhHKS6VzYh6",
+                                    "href": "https://twitter.com/TrainyAI",
+                                    "target": "_blank",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer",
+                                    "display": "flex",
+                                    "flexDirection": "row",
+                                    "alignItems": "center",
+                                    "justifyContent": "flex-start",
+                                    "gap": "8px"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-48",
+                                      "type": "html",
+                                      "tag": "img",
+                                      "props": {
+                                        "id": "html-kXGg-kq3VKGtXRs5LrqPG",
+                                        "src": "/.lunagraph-assets/x.svg",
+                                        "alt": "Twitter"
+                                      },
+                                      "styles": {
+                                        "height": "auto",
+                                        "display": "block",
+                                        "width": "16px"
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "id": "el-1770345896470-49",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Twitter / X"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1770345896470-53",
+                                  "type": "html",
+                                  "tag": "a",
+                                  "props": {
+                                    "id": "html-wBZGpgV3GGDScSCen9en-",
+                                    "href": "https://discord.gg/HQUBJSVgAP",
+                                    "target": "_blank",
+                                    "className": "text-muted-foreground hover:text-foreground transition-all"
+                                  },
+                                  "styles": {
+                                    "fontSize": "14px",
+                                    "margin": "0",
+                                    "textDecoration": "none",
+                                    "cursor": "pointer",
+                                    "display": "flex",
+                                    "flexDirection": "row",
+                                    "alignItems": "center",
+                                    "justifyContent": "flex-start",
+                                    "gap": "8px"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1770345896470-51",
+                                      "type": "html",
+                                      "tag": "img",
+                                      "props": {
+                                        "id": "html-bjtDY6O5me2Or-pJE3Zdg",
+                                        "src": "/.lunagraph-assets/discord.svg",
+                                        "alt": "Discord"
+                                      },
+                                      "styles": {
+                                        "height": "auto",
+                                        "display": "block",
+                                        "width": "16px"
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "id": "el-1770345896470-52",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Discord"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ],
           "canvasPosition": {
@@ -3808,6 +4797,770 @@
           },
           "props": {
             "className": "bg-background"
+          }
+        },
+        {
+          "id": "html-2n-Qkx4w2Bw3cqM5b0dLJ",
+          "type": "html",
+          "tag": "footer",
+          "props": {
+            "id": "html-footer-pluto-001",
+            "className": "bg-background"
+          },
+          "styles": {
+            "width": "1512px",
+            "borderTop": "1px solid rgba(255,255,255,0.1)",
+            "backgroundColor": "#09090B",
+            "paddingTop": "64px",
+            "paddingBottom": "64px",
+            "paddingLeft": "80px",
+            "paddingRight": "80px"
+          },
+          "children": [
+            {
+              "id": "html-X3SbOYPHe6BmjaBbDWLH8",
+              "type": "html",
+              "tag": "div",
+              "props": {
+                "id": "html-footer-inner-001"
+              },
+              "styles": {
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "maxWidth": "1400px",
+                "margin": "0 auto",
+                "gap": "64px"
+              },
+              "children": [
+                {
+                  "id": "html-5wShqBnxBTRPVdv72Cc6C",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "id": "html-footer-brand-001"
+                  },
+                  "styles": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "gap": "16px",
+                    "minWidth": "250px"
+                  },
+                  "children": [
+                    {
+                      "id": "html-_o1GTVLo5LjqnFYvTYg5B",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "id": "html-footer-logo-001"
+                      },
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "gap": "12px"
+                      },
+                      "children": [
+                        {
+                          "id": "html-EEGwykbggYPRISGhz_MQf",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "id": "html-footer-logoicon-001"
+                          },
+                          "styles": {
+                            "width": "40px",
+                            "height": "40px",
+                            "borderRadius": "8px",
+                            "display": "flex",
+                            "alignItems": "center",
+                            "justifyContent": "center",
+                            "fontSize": "24px",
+                            "fontWeight": "bold",
+                            "background": "linear-gradient(135deg, #d4a574 0%, #c4956a 50%, #a07850 100%)",
+                            "color": "#1a1a1a",
+                            "fontFamily": "serif"
+                          },
+                          "children": [
+                            {
+                              "id": "text-fgcYzwjKtsUa-JICzub09",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "t"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-3HviXC_4FPoSmFDKN_Qyx",
+                          "type": "html",
+                          "tag": "p",
+                          "props": {
+                            "id": "html-footer-brandname-001"
+                          },
+                          "styles": {
+                            "fontSize": "18px",
+                            "fontWeight": "600",
+                            "color": "#ffffff",
+                            "margin": "0"
+                          },
+                          "children": [
+                            {
+                              "id": "text-uSbu3L3WR2VwHu7KGJ99X",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Trainy"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "html-1QyNheG267FFVcL7rPEzD",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "id": "html-footer-address-001"
+                      },
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "gap": "2px"
+                      },
+                      "children": [
+                        {
+                          "id": "html-zQf_7cfmFtYu9k4QYxfUB",
+                          "type": "html",
+                          "tag": "p",
+                          "props": {
+                            "id": "html-footer-addr1-001"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "lineHeight": "1.6"
+                          },
+                          "children": [
+                            {
+                              "id": "text-UKoAXFiABKTKyrBzebHCP",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "2261 Market Street #5039"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-0_QRWAmVHa2eKRB-6IpRO",
+                          "type": "html",
+                          "tag": "p",
+                          "props": {
+                            "id": "html-footer-addr2-001"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "lineHeight": "1.6"
+                          },
+                          "children": [
+                            {
+                              "id": "text-WjlkR3hOUfmpCtEk48JqX",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "San Francisco, CA 94114"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "html-tUtkJw6wyj9aSY_cQqxh9",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "id": "html-footer-product-001"
+                  },
+                  "styles": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "gap": "16px",
+                    "minWidth": "160px"
+                  },
+                  "children": [
+                    {
+                      "id": "html-W4PlHvfDzN7JoXUqEvb7c",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "id": "html-footer-producthdr-001"
+                      },
+                      "styles": {
+                        "fontSize": "14px",
+                        "fontWeight": "600",
+                        "color": "#ffffff",
+                        "margin": "0"
+                      },
+                      "children": [
+                        {
+                          "id": "text-Mi0atIvZPquol1tA_PSN6",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Product"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "html-d5TKfigLggrwKpRNzChtS",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "id": "html-footer-productlinks-001"
+                      },
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "gap": "12px"
+                      },
+                      "children": [
+                        {
+                          "id": "html-L4HBAThx47JkAucXxZ07D",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-pl1"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-rVUoa7XDxengytO6xfVma",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "On-Demand"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-FDltnsO2Gx-TXbbhcUQfG",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-pl2"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-puSTrTXn7HW4eNvV6rbLf",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Reserved"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-DHzOmMZ5iIA7NBLXho0k9",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-pl3"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-0TzYzSPrLtQrVEcV6w0JV",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Pricing"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-1__aQG6MJjIq-iiMbyWan",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-pl4"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-9t_oCkRq4lGuXGluaPqtU",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Experiment Tracking"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "html-abHp5L7-Jc1rcmhWaAspT",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "id": "html-footer-resources-001"
+                  },
+                  "styles": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "gap": "16px",
+                    "minWidth": "160px"
+                  },
+                  "children": [
+                    {
+                      "id": "html-K2EVEwei-0WR8TS0NaDGu",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "id": "html-footer-reshdr-001"
+                      },
+                      "styles": {
+                        "fontSize": "14px",
+                        "fontWeight": "600",
+                        "color": "#ffffff",
+                        "margin": "0"
+                      },
+                      "children": [
+                        {
+                          "id": "text-lLghjY8HX-VA5JFrCp18G",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Resources"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "html-hANKADCxgLRm2eELz0-1Q",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "id": "html-footer-reslinks-001"
+                      },
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "gap": "12px"
+                      },
+                      "children": [
+                        {
+                          "id": "html-j_FknY2eWgeuUFCTjjHo8",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-rl1"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-gytjX-Ru4chOlobswC__p",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Blog"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-TLlqyFOGVeToIO1BLj_Vx",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-rl2"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-hfpdC81I5UlGQEi3tQS6a",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Documentation"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-O4NS1TKBJgM1LbtUIPyJa",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-rl3"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-4DSS84OHr_q4uq8lwuCqH",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Contact"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-YW42fhbc_hnzqCTqDesjk",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-rl4"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-3H8lmMNrrRdZlbHpGhywj",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Privacy Policy"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-S3tBBtxpmP72qiDSrud7v",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-rl5"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-7elH2viydZyLbgavTlNg4",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Cookie Policy"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-5hjse-s-rWIWISD-UqOBi",
+                          "type": "html",
+                          "tag": "a",
+                          "props": {
+                            "id": "html-footer-rl6"
+                          },
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#a1a1aa",
+                            "margin": "0",
+                            "textDecoration": "none",
+                            "cursor": "pointer"
+                          },
+                          "children": [
+                            {
+                              "id": "text-KLfv3wrHiDZD4Z2YNFoZD",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Terms of service"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "html-T8Vm8LYHmb_RFskDJpCdI",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {
+                    "id": "html-footer-social-001"
+                  },
+                  "styles": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "gap": "16px",
+                    "minWidth": "160px"
+                  },
+                  "children": [
+                    {
+                      "id": "html-3mZ0CFswoFyBBqNbFyeAL",
+                      "type": "html",
+                      "tag": "p",
+                      "props": {
+                        "id": "html-footer-socialhdr-001"
+                      },
+                      "styles": {
+                        "fontSize": "14px",
+                        "fontWeight": "600",
+                        "color": "#ffffff",
+                        "margin": "0"
+                      },
+                      "children": [
+                        {
+                          "id": "text-oIm8OF8qqo_ow_zQxYozL",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Social"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "html-4xXGz3CN49gMbgierPMMw",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {
+                        "id": "html-footer-sociallinks-001"
+                      },
+                      "styles": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "gap": "12px"
+                      },
+                      "children": [
+                        {
+                          "id": "html-9Qiz77A1jsAiH-GsXg2Si",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "id": "html-footer-sl1"
+                          },
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "gap": "8px",
+                            "alignItems": "center"
+                          },
+                          "children": [
+                            {
+                              "id": "icon-a4x_vH4snmeFlf2zF0JaY",
+                              "type": "icon",
+                              "library": "lucide-react",
+                              "iconName": "Github",
+                              "props": {},
+                              "styles": {
+                                "width": "16px",
+                                "height": "16px",
+                                "color": "#a1a1aa"
+                              }
+                            },
+                            {
+                              "id": "html-Zstu26LZNzdpuKu3bDvvZ",
+                              "type": "html",
+                              "tag": "a",
+                              "styles": {
+                                "fontSize": "14px",
+                                "color": "#a1a1aa",
+                                "margin": "0",
+                                "textDecoration": "none",
+                                "cursor": "pointer"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-DWybjAuRz6YZtPlpV9Axm",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Features"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-Vp2GjQQpKQU0M0Rtr2VcP",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "id": "html-footer-sl2"
+                          },
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "gap": "8px",
+                            "alignItems": "center"
+                          },
+                          "children": [
+                            {
+                              "id": "icon-WpCLKE34bCgu7jP_Mzp9I",
+                              "type": "icon",
+                              "library": "lucide-react",
+                              "iconName": "Linkedin",
+                              "props": {},
+                              "styles": {
+                                "width": "16px",
+                                "height": "16px",
+                                "color": "#a1a1aa"
+                              }
+                            },
+                            {
+                              "id": "html-Cx2mPudbehXjwyFEZd2LH",
+                              "type": "html",
+                              "tag": "a",
+                              "styles": {
+                                "fontSize": "14px",
+                                "color": "#a1a1aa",
+                                "margin": "0",
+                                "textDecoration": "none",
+                                "cursor": "pointer"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-fX04F4dGjsW-_e-adUGzX",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "LinkedIn"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-W7Z3RgneukawvFCWbqi4_",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "id": "html-footer-sl3"
+                          },
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "gap": "8px",
+                            "alignItems": "center"
+                          },
+                          "children": [
+                            {
+                              "id": "icon-lUUGnAZthY1MS7ZFQ0zct",
+                              "type": "icon",
+                              "library": "lucide-react",
+                              "iconName": "Twitter",
+                              "props": {},
+                              "styles": {
+                                "width": "16px",
+                                "height": "16px",
+                                "color": "#a1a1aa"
+                              }
+                            },
+                            {
+                              "id": "html-smi0h2xEbgCZ5BtwHFwN-",
+                              "type": "html",
+                              "tag": "a",
+                              "styles": {
+                                "fontSize": "14px",
+                                "color": "#a1a1aa",
+                                "margin": "0",
+                                "textDecoration": "none",
+                                "cursor": "pointer"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-6WBXZGdRNlRxdFQLfo_HA",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Twitter / X"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-0IdqiDRmxTWb5YwCiJCmL",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {
+                            "id": "html-footer-sl4"
+                          },
+                          "styles": {
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "gap": "8px",
+                            "alignItems": "center"
+                          },
+                          "children": [
+                            {
+                              "id": "icon-xND8vEuIJ6UDuIxZHL75R",
+                              "type": "icon",
+                              "library": "lucide-react",
+                              "iconName": "MessageCircle",
+                              "props": {},
+                              "styles": {
+                                "width": "16px",
+                                "height": "16px",
+                                "color": "#a1a1aa"
+                              }
+                            },
+                            {
+                              "id": "html-p6OiTQ7CBMxXLYF0nQndy",
+                              "type": "html",
+                              "tag": "a",
+                              "styles": {
+                                "fontSize": "14px",
+                                "color": "#a1a1aa",
+                                "margin": "0",
+                                "textDecoration": "none",
+                                "cursor": "pointer"
+                              },
+                              "children": [
+                                {
+                                  "id": "text-p204UGAERBXxLLrrAchAS",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Discord"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "canvasPosition": {
+            "x": -524.7766275313978,
+            "y": 2495.9095255075654
           }
         }
       ]
