@@ -2684,5 +2684,17 @@
   "HeroPage": {
     "path": "app/hero/page.tsx",
     "exportName": "HeroPage"
+  },
+  "HeroGraphic": {
+    "path": ".lunagraph/canvases/canvas-1/components/HeroGraphic.tsx",
+    "exportName": "HeroGraphic"
+  },
+  "MigrationGraphic": {
+    "path": ".lunagraph/canvases/canvas-1/components/MigrationGraphic.tsx",
+    "exportName": "MigrationGraphic"
+  },
+  "MigrationGraphicMobile": {
+    "path": ".lunagraph/canvases/canvas-1/components/MigrationGraphicMobile.tsx",
+    "exportName": "MigrationGraphicMobile"
   }
 }
