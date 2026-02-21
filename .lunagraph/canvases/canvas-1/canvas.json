@@ -1,6 +1,6 @@
 {
   "id": "canvas-1",
-  "name": "Canvas 1",
+  "name": "Pluto",
   "elements": [
     {
       "id": "html-uZKBCip_inuWVJYVMbdEo",
@@ -2079,7 +2079,7 @@
                           },
                           "children": [],
                           "props": {
-                            "src": ".lunagraph-assets/trainy-pluto-demo.mp4",
+                            "src": "/.lunagraph-assets/trainy-pluto-demo.mp4",
                             "autoplay": true,
                             "loop": true
                           }
@@ -5083,7 +5083,7 @@
                             "height": "auto"
                           },
                           "props": {
-                            "src": ".lunagraph-assets/trainy-pluto-demo.mp4",
+                            "src": "/.lunagraph-assets/trainy-pluto-demo.mp4",
                             "autoplay": true,
                             "loop": true
                           },
@@ -8541,7 +8541,7 @@
                           "type": "html",
                           "tag": "video",
                           "props": {
-                            "src": ".lunagraph-assets/trainy-pluto-demo.mp4",
+                            "src": "/.lunagraph-assets/trainy-pluto-demo.mp4",
                             "autoplay": true,
                             "loop": true
                           },
@@ -10009,7 +10009,7 @@
       }
     }
   ],
+  "zoom": 0.1,
   "createdAt": "2026-01-27T19:11:13.855Z",
-  "updatedAt": "2026-02-07T16:42:17.480Z",
-  "zoom": 0.20723984530520909
+  "updatedAt": "2026-02-20T02:48:45.861Z"
 }
