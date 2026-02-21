@@ -42,11 +42,18 @@ export function Card({ title, description, variant = 'default', children }: Card
 
 ## Scanned Locations
 
-This project scans:
-- `components/**/*.tsx`
-- `app/**/*.tsx` (includes pages)
+Lunagraph scans these patterns by default:
+- `components/**/*.{ts,tsx}`
+- `app/components/**/*.{ts,tsx}`
+- `src/components/**/*.{ts,tsx}`
+- `.lunagraph/canvases/*/components/*.{ts,tsx}` (components created from editor)
 
-You can customize patterns in `package.json` under the `scan` script.
+To scan additional paths (e.g. Next.js pages), use `--pattern` flags:
+```bash
+lunagraph scan --pattern 'components/**/*.tsx' --pattern 'app/**/page.tsx'
+```
+
+When using `--pattern`, it overrides the defaults - so include all patterns you need.
 
 ## Save to Code
 
@@ -54,3 +61,368 @@ When editing components visually and clicking "Save to code":
 - Lunagraph uses Claude CLI (if available) to merge changes back
 - It preserves all imports, hooks, logic, and expressions
 - Only the visual changes (styles, text, structure) are applied
+
+---
+
+## CSS Setup (Important!)
+
+The editor ships with its own CSS (`@lunagraph/editor/styles.css`) that includes:
+- Tailwind theme configuration
+- Light and dark mode CSS variables
+- Base styles and utilities
+
+### Import Order in `app/layout.tsx`
+
+Import editor styles **BEFORE** your globals/Tailwind:
+
+```tsx
+// ✅ Correct order - Tailwind comes LAST so responsive variants win
+import "@lunagraph/editor/styles.css";
+import "./globals.css"; // Contains @tailwind directives
+
+// ❌ Wrong order - responsive variants get overridden
+import "./globals.css";
+import "@lunagraph/editor/styles.css";
+```
+
+This ensures Tailwind's responsive variants (`md:`, `lg:`, etc.) load after component styles and take precedence in the CSS cascade.
+
+### Tailwind v4: Add `@source` directives in `globals.css`
+
+```css
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* Scan Lunagraph editor package for Tailwind classes */
+@source "../../node_modules/@lunagraph/editor/src/**/*.{ts,tsx}";
+/* Scan Lunagraph canvas files for Tailwind classes */
+@source "../.lunagraph/**/*.json";
+
+@custom-variant dark (&:is(.dark *));
+
+/* ... rest of your theme and styles */
+```
+
+Also add these utilities used by the editor:
+
+```css
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+```
+
+### Tailwind v3: Configure `tailwind.config.js`
+
+```js
+// tailwind.config.js
+module.exports = {
+  content: [
+    "./app/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+    "./node_modules/@lunagraph/editor/src/**/*.{js,ts,jsx,tsx}",
+    "./.lunagraph/**/*.json",
+  ],
+  // ... rest of your config
+}
+```
+
+---
+
+## Adding Icon Libraries
+
+Lunagraph supports any React icon library. Icons appear in a searchable panel and generate proper imports in code.
+
+### Lucide Icons
+
+```tsx
+import * as LucideIcons from "lucide-react";
+import { LUCIDE_PROPS_SCHEMA } from "@lunagraph/editor";
+
+<LunagraphEditor
+  // ...other props
+  iconLibraries={{
+    "lucide-react": {
+      icons: LucideIcons,
+      displayName: "Lucide",
+      defaultProps: { size: 24 },
+      propsSchema: LUCIDE_PROPS_SCHEMA,
+    }
+  }}
+/>
+```
+
+### Phosphor Icons
+
+```tsx
+import * as PhosphorIcons from "@phosphor-icons/react";
+import { PHOSPHOR_PROPS_SCHEMA } from "@lunagraph/editor";
+
+<LunagraphEditor
+  // ...other props
+  iconLibraries={{
+    "@phosphor-icons/react": {
+      icons: PhosphorIcons,
+      displayName: "Phosphor",
+      defaultProps: { size: 24, weight: "regular" },
+      propsSchema: PHOSPHOR_PROPS_SCHEMA,
+    }
+  }}
+/>
+```
+
+### Multiple Libraries
+
+```tsx
+iconLibraries={{
+  "lucide-react": { icons: LucideIcons, displayName: "Lucide", ... },
+  "@phosphor-icons/react": { icons: PhosphorIcons, displayName: "Phosphor", ... }
+}}
+```
+
+---
+
+## Read-Only Mode (Required for Production)
+
+The read-only editor page is **required** for production deployments. It allows users to view designs and component structures without needing the dev server.
+
+### Step 1: Add build scripts to `package.json`
+
+```json
+{
+  "scripts": {
+    "scan": "lunagraph scan",
+    "generate-snapshots": "lunagraph generate-snapshots",
+    "prebuild": "pnpm scan && pnpm generate-snapshots",
+    "lunagraph:server": "lunagraph-dev"
+  }
+}
+```
+
+### Step 2: Create `app/editor-read-only/page.tsx` (REQUIRED)
+
+```tsx
+'use client'
+
+import '@lunagraph/editor/styles.css';
+import { LunagraphEditor, LUCIDE_PROPS_SCHEMA, type FEElement } from "@lunagraph/editor";
+import * as lunagraph from '../../.lunagraph/components';
+import { snapshots } from '../../.lunagraph/snapshots';
+import snapshotMetadata from '../../.lunagraph/snapshots/metadata.json';
+import canvasData from '../../.lunagraph/canvases/canvas-1/canvas.json'
+import * as LucideIcons from "lucide-react";
+
+export default function EditorReadOnly() {
+  return (
+    <LunagraphEditor
+      {...lunagraph}
+      components={lunagraph.components}
+      snapshots={snapshots}
+      snapshotMetadata={snapshotMetadata}
+      initialElements={canvasData.elements as FEElement[]}
+      iconLibraries={{
+        "lucide-react": {
+          icons: LucideIcons,
+          displayName: "Lucide",
+          defaultProps: { size: 24 },
+          propsSchema: LUCIDE_PROPS_SCHEMA,
+        }
+      }}
+      readOnly
+    />
+  )
+}
+```
+
+**Important props for read-only mode:**
+- `snapshots` - Pre-generated snapshot components
+- `snapshotMetadata` - Metadata for component viewing (from `metadata.json`)
+- `initialElements` - Canvas data to display
+- `readOnly` - Disables editing
+
+Read-only mode:
+- Disables drag-and-drop, resizing, and editing
+- Allows double-click to view component layers and code
+- Works without the dev server running
+- Perfect for stakeholder review and production deployments
+
+---
+
+## Deploying to Vercel
+
+For Vercel deployments, the `prebuild` script automatically generates snapshots before building.
+
+### Option 1: Use `prebuild` script (Recommended)
+
+```json
+{
+  "scripts": {
+    "prebuild": "pnpm scan && pnpm generate-snapshots",
+    "build": "next build"
+  }
+}
+```
+
+### Option 2: Configure in `vercel.json`
+
+```json
+{
+  "buildCommand": "pnpm scan && pnpm generate-snapshots && pnpm build"
+}
+```
+
+### What gets generated
+
+- `.lunagraph/snapshots/*.snapshot.tsx` - Snapshot components
+- `.lunagraph/snapshots/metadata.json` - Metadata for read-only mode
+- `.lunagraph/snapshots/index.ts` - Snapshot exports
+
+These are bundled into production, enabling the read-only editor without a dev server.
+
+---
+
+## Share Links
+
+Share links let you link directly to a specific element:
+
+```
+https://yoursite.com/editor?element=element-id-here
+```
+
+The canvas will automatically center on the element when opened.
+
+---
+
+## Editor Page Setup
+
+Create `app/editor/page.tsx`:
+
+```tsx
+'use client'
+
+import '@lunagraph/editor/styles.css';
+import { LunagraphEditor } from "@lunagraph/editor";
+import * as lunagraph from '../../.lunagraph/components';
+import { snapshots } from '../../.lunagraph/snapshots';
+
+export default function Editor() {
+  return (
+    <LunagraphEditor
+      {...lunagraph}
+      components={lunagraph.components}
+      snapshots={snapshots}
+    />
+  )
+}
+```
+
+---
+
+## Dev Server Setup
+
+The dev server enables saving canvas state, editing components, and generating snapshots.
+
+Add to `package.json`:
+
+```json
+{
+  "scripts": {
+    "lunagraph:server": "lunagraph-dev"
+  }
+}
+```
+
+The dev server runs on port 4001 by default and handles:
+- Saving canvas state to `.lunagraph/canvases/`
+- Component file editing
+- Snapshot generation for components
+
+### Custom Port
+
+To use a different port, set `LUNAGRAPH_PORT` and add the corresponding env var:
+
+```json
+{
+  "scripts": {
+    "lunagraph:server": "LUNAGRAPH_PORT=4002 lunagraph-dev"
+  }
+}
+```
+
+Then add to `.env.local`:
+
+```
+NEXT_PUBLIC_LUNAGRAPH_DEV_SERVER=http://localhost:4002
+```
+
+---
+
+## AI Chat - Accessing Other Repos
+
+The editor's AI chat can only access files in the project root by default. To give it access to other repositories or directories:
+
+### Option 1: package.json (works in both Desktop App and Dev Server)
+
+Add a `lunagraph.allowedPaths` field to your `package.json`:
+
+```json
+{
+  "lunagraph": {
+    "allowedPaths": ["../other-repo", "~/code/shared-lib"]
+  }
+}
+```
+
+Paths are resolved relative to the project root. Tilde (`~`) expands to the home directory. Changes take effect on the next chat message (no restart needed).
+
+### Option 2: Environment variable (Dev Server only)
+
+```bash
+# Single path
+LUNAGRAPH_ALLOWED_PATHS=../other-repo lunagraph-dev
+
+# Multiple paths (comma-separated)
+LUNAGRAPH_ALLOWED_PATHS=../other-repo,~/code/shared-lib lunagraph-dev
+```
+
+Or add it to your `package.json` script:
+
+```json
+{
+  "scripts": {
+    "lunagraph:server": "LUNAGRAPH_ALLOWED_PATHS=../other-repo lunagraph-dev"
+  }
+}
+```
+
+The AI chat tools (Read, Write, LS, Glob, Grep) will then be able to access files in those directories.
+
+---
+
+## Running the Editor
+
+Start both your Next.js app and the Lunagraph dev server:
+
+```bash
+# Terminal 1 - Start Lunagraph dev server first
+pnpm lunagraph:server
+
+# Terminal 2 - Then start Next.js
+pnpm dev
+```
+
+Then open [http://localhost:3000/editor](http://localhost:3000/editor) in your browser.
+
+> **Tip:** Add a combined script to `package.json` using [concurrently](https://www.npmjs.com/package/concurrently):
+> ```json
+> {
+>   "scripts": {
+>     "dev:all": "concurrently \"pnpm lunagraph:server\" \"pnpm dev\""
+>   }
+> }
+> ```
