@@ -1,6 +1,6 @@
 {
   "id": "canvas-1",
-  "name": "Canvas 1",
+  "name": "Pluto",
   "elements": [
     {
       "id": "html-uZKBCip_inuWVJYVMbdEo",
@@ -2079,7 +2079,7 @@
                           },
                           "children": [],
                           "props": {
-                            "src": ".lunagraph-assets/trainy-pluto-demo.mp4",
+                            "src": "/.lunagraph-assets/trainy-pluto-demo.mp4",
                             "autoplay": true,
                             "loop": true
                           }
@@ -5083,7 +5083,7 @@
                             "height": "auto"
                           },
                           "props": {
-                            "src": ".lunagraph-assets/trainy-pluto-demo.mp4",
+                            "src": "/.lunagraph-assets/trainy-pluto-demo.mp4",
                             "autoplay": true,
                             "loop": true
                           },
@@ -8541,7 +8541,7 @@
                           "type": "html",
                           "tag": "video",
                           "props": {
-                            "src": ".lunagraph-assets/trainy-pluto-demo.mp4",
+                            "src": "/.lunagraph-assets/trainy-pluto-demo.mp4",
                             "autoplay": true,
                             "loop": true
                           },
@@ -9250,7 +9250,9 @@
                               "type": "icon",
                               "library": "lucide-react",
                               "iconName": "LoaderCircle",
-                              "props": {}
+                              "props": {
+                                "className": "text-emerald-500"
+                              }
                             },
                             {
                               "id": "el-1770439759626-133",
@@ -9520,7 +9522,7 @@
                   "tag": "div",
                   "styles": {
                     "display": "flex",
-                    "flexDirection": "row",
+                    "flexDirection": "column",
                     "gap": "32px",
                     "width": "100%",
                     "flexWrap": "wrap"
@@ -10002,12 +10004,12 @@
         }
       ],
       "canvasPosition": {
-        "x": 6026.79543656987,
-        "y": 171.85656113067859
+        "x": 6001.558594292417,
+        "y": 294.6772192257105
       }
     }
   ],
+  "zoom": 0.46719263696990465,
   "createdAt": "2026-01-27T19:11:13.855Z",
-  "updatedAt": "2026-02-07T05:19:27.769Z",
-  "zoom": 0.6937088135234682
+  "updatedAt": "2026-02-22T20:05:24.939Z"
 }

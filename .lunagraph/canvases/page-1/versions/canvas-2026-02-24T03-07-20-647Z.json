@@ -1329,7 +1329,7 @@
                                       "id": "text-_WyQ_6FljpFJ59tzT2blR",
                                       "type": "text",
                                       "tag": "span",
-                                      "text": "The complete GPU workflow for modern AI teams"
+                                      "text": "The complete GPU workflow for "
                                     }
                                   ]
                                 }
@@ -1349,71 +1349,26 @@
                               "id": "text-Cl1WEPEGvCZYWkSPdDYc1",
                               "type": "text",
                               "tag": "span",
-                              "text": "One platform to schedule jobs, track experiments, and scale AI workload, without the infrastructure headaches"
+                              "text": "Migrate your ML experiment tracking to Pluto — a maintained, high-performance alternative with dual-logging support for a seamless transition."
                             }
                           ]
                         },
                         {
-                          "id": "html-_BkFUWWyrqZ8elgOSkhnv",
-                          "type": "html",
-                          "tag": "div",
+                          "id": "component-CpLRmMXmW0qaYWjFbcEs_",
+                          "type": "component",
+                          "componentName": "Button",
+                          "props": {},
                           "styles": {
-                            "display": "flex",
-                            "flexDirection": "row",
-                            "gap": 8,
-                            "alignItems": "center",
-                            "justifyContent": "flex-start"
+                            "width": "fit-content",
+                            "height": "fit-content"
                           },
                           "children": [
                             {
-                              "id": "component-CpLRmMXmW0qaYWjFbcEs_",
-                              "type": "component",
-                              "componentName": "Button",
-                              "props": {},
-                              "styles": {
-                                "width": "fit-content",
-                                "height": "fit-content"
-                              },
-                              "children": [
-                                {
-                                  "id": "text-aQ748x99DuehRzLZxxmRj",
-                                  "type": "text",
-                                  "tag": "span",
-                                  "text": "Book a demo",
-                                  "styles": {}
-                                }
-                              ]
-                            },
-                            {
-                              "id": "component-ROEly3DYXz23V8h6MTJEF",
-                              "type": "component",
-                              "componentName": "Button",
-                              "props": {
-                                "variant": "link"
-                              },
-                              "styles": {
-                                "width": "fit-content",
-                                "height": "fit-content"
-                              },
-                              "children": [
-                                {
-                                  "id": "text-IOya9yQVhWZsc7L2UyEDk",
-                                  "type": "text",
-                                  "tag": "span",
-                                  "text": "Read the docs",
-                                  "styles": {}
-                                },
-                                {
-                                  "id": "icon-SJ9xlSnCIQsnfii-KkhbQ",
-                                  "type": "icon",
-                                  "library": "lucide-react",
-                                  "iconName": "ArrowRight",
-                                  "props": {
-                                    "size": 24
-                                  },
-                                  "styles": {}
-                                }
-                              ]
+                              "id": "text-aQ748x99DuehRzLZxxmRj",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "Start your migration",
+                              "styles": {}
                             }
                           ]
                         }
@@ -1433,40 +1388,21 @@
                       },
                       "children": [
                         {
-                          "id": "html-WJA151wi9Fi615b5zYiLu",
-                          "type": "html",
-                          "tag": "img",
-                          "props": {
-                            "src": "/.lunagraph-assets/1771903464660-2bb6cfbe.png",
-                            "alt": "Image"
-                          },
-                          "styles": {
-                            "width": "auto",
-                            "objectFit": "cover",
-                            "display": "block",
-                            "height": "500px"
-                          },
-                          "canvasPosition": {
-                            "x": 120,
-                            "y": 120
-                          },
+                          "id": "component-SEh89XKxGbePKNIU8Q1We",
+                          "type": "component",
+                          "componentName": "HeroGraphic",
+                          "props": {},
                           "children": []
                         }
-                      ],
-                      "styles": {
-                        "height": "auto"
-                      }
+                      ]
                     }
-                  ],
-                  "styles": {
-                    "height": "auto"
-                  }
+                  ]
                 }
               ],
               "styles": {
                 "width": "100%",
                 "maxWidth": "1200px",
-                "height": "auto",
+                "height": "600px",
                 "display": "flex",
                 "flexDirection": "column",
                 "justifyContent": "center",
@@ -2630,7 +2566,7 @@
       }
     }
   ],
-  "zoom": 0.5257611367809852,
+  "zoom": 0.8974375034848042,
   "createdAt": "2026-02-20T01:24:35.105Z",
-  "updatedAt": "2026-02-24T03:26:07.767Z"
+  "updatedAt": "2026-02-24T03:04:39.912Z"
 }
