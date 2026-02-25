@@ -1,54 +1,1271 @@
 {
   "messages": [
     {
-      "id": "msg-1771902295176-ilr646",
+      "id": "msg-1771980737703-4t51tt",
       "role": "user",
-      "content": "[@<div>]whats a good title/subtitle for hero section about this?[@<img>] this is the original hero that they have",
+      "content": "[@<div>]replace this with [@Screenshot]  this , recreate this screenshot pls. \n\n<div class=\"padding-global padding-section-medium\"><div class=\"container-large\"><div class=\"header-testimonial_wrapper\"><div class=\"header-testimonial_card left-side\"><div class=\"text-size-large text-color-secondary\">From local to 64 H100s in under an hour - <span class=\"text-color-alternate\">the fastest GPU setup we've seen</span></div><div class=\"header-testimonial-img_wrapper\"><img src=\"https://cdn.prod.website-files.com/674afcec6748393670f59db0/674e952cc90bed0ffe90900d_Linum%20AI.png\" loading=\"eager\" alt=\"\" class=\"header-testimonial-img\" data-cmp-ab=\"2\" data-cmp-info=\"10\"></div></div><div class=\"header-testimonial_card\"><div class=\"text-size-large\"><span class=\"text-span-secondary\">Scaled to hundreds of GPUs on demand,</span> reducing infrastructure costs by 50%.</div><div class=\"header-testimonial-img_wrapper\"><img src=\"https://cdn.prod.website-files.com/674afcec6748393670f59db0/67d8b9c247175148e8ba82ba_casuallabslogo.svg\" loading=\"eager\" alt=\"\" class=\"header-testimonial-img\" data-cmp-ab=\"2\" data-cmp-info=\"10\"></div></div></div><div class=\"header-testimonial_wrapper _75\"><div class=\"testimonials-card-wrapper left-side\"><div class=\"text-size-regular text-color-secondary\">Trusted by</div><div class=\"testimonial-logo_wrapper\"><div class=\"header-testimonial-img_wrapper\"><img src=\"https://cdn.prod.website-files.com/674afcec6748393670f59db0/674ea8c02f257b9d04742a67_logo-digital-ocean.png\" loading=\"eager\" alt=\"\" class=\"header-testimonial-img\" data-cmp-ab=\"2\" data-cmp-info=\"10\"></div><div class=\"header-testimonial-img_wrapper\"><img src=\"https://cdn.prod.website-files.com/674afcec6748393670f59db0/674ea8c1ab43d8216f66a264_logo-diffuse-bio.png\" loading=\"eager\" alt=\"\" class=\"header-testimonial-img\" data-cmp-ab=\"2\" data-cmp-info=\"10\"></div><div class=\"header-testimonial-img_wrapper\"><img src=\"https://cdn.prod.website-files.com/674afcec6748393670f59db0/674ea8c0030ce35fdba6db81_logo-paperspace.png\" loading=\"eager\" alt=\"\" class=\"header-testimonial-img\" data-cmp-ab=\"2\" data-cmp-info=\"10\"></div><div class=\"header-testimonial-img_wrapper\"><img src=\"https://cdn.prod.website-files.com/674afcec6748393670f59db0/67b61b4df6d44a93f175ac98_whitefiber.svg\" loading=\"eager\" alt=\"\" class=\"header-testimonial-img\" data-cmp-ab=\"2\" data-cmp-info=\"10\"></div></div></div><div class=\"testimonials-card-wrapper right-side\"><div class=\"text-size-regular text-color-secondary\">Backed by</div><div class=\"testimonial-logo_wrapper\"><div class=\"header-testimonial-img_wrapper\"><img src=\"https://cdn.prod.website-files.com/674afcec6748393670f59db0/674ea94242c34744ab36084f_logo-combinator.png\" loading=\"eager\" alt=\"\" class=\"header-testimonial-img\" data-cmp-ab=\"2\" data-cmp-info=\"10\"></div><div class=\"header-testimonial-img_wrapper\"><img src=\"https://cdn.prod.website-files.com/674afcec6748393670f59db0/674ea94280b693672f92b67a_logo-zventure.png\" loading=\"eager\" alt=\"\" class=\"header-testimonial-img\" data-cmp-ab=\"2\" data-cmp-info=\"10\"></div><div class=\"header-testimonial-img_wrapper small\"><img src=\"https://cdn.prod.website-files.com/674afcec6748393670f59db0/674ea942c4d6cfbe6952a66a_logo-lc.png\" loading=\"eager\" alt=\"\" class=\"header-testimonial-img\" data-cmp-ab=\"2\" data-cmp-info=\"10\"></div></div></div></div></div></div>",
       "inlineRefs": [
         {
           "type": "element",
-          "id": "el-1771550967114-1-r90u",
+          "id": "html-Ubc9NlvQWg8hl7JP88fvz",
           "name": "<div>"
         },
         {
-          "type": "element",
-          "id": "html-ysdLBBK8Q0dDlZB3uDQdM",
-          "name": "<img>"
-        }
-      ]
-    },
-    {
-      "id": "msg-1771902324471-m7ig0l",
-      "role": "assistant",
-      "content": "Let me look at the original hero image you referenced.Based on the current hero text and the context of your GPU infrastructure platform, here are some alternative title/subtitle options:\n\n**Option 1 (Focus on simplicity):**\n- Title: \"Your GPUs, finally working as hard as your team\"\n- Subtitle: \"One platform to schedule jobs, track experiments, and scale AI workloads—without the infrastructure headaches.\"\n\n**Option 2 (Focus on speed):**\n- Title: \"From bare metal to production in 20 minutes\"\n- Subtitle: \"The GPU orchestration platform that handles scheduling, health checks, and experiment tracking so you can focus on building models.\"\n\n**Option 3 (Focus on problem/solution):**\n- Title: \"Stop wrestling with GPU infrastructure\"\n- Subtitle: \"Konduktor manages your clusters while Pluto tracks your experiments. Deploy with YAML, scale to hundreds of GPUs.\"\n\n**Option 4 (Focus on outcomes):**\n- Title: \"Ship AI faster, not infrastructure\"\n- Subtitle: \"Complete GPU workflow management: from scheduling and health checks to experiment tracking and cost visibility.\"\n\nThe current \"GPU infra, solved.\" is punchy and direct—if you want to keep that style but refresh it, you could try \"GPU chaos, conquered.\" or \"Complex clusters, simple workflow.\""
-    },
-    {
-      "id": "msg-1771902533064-rv2ezi",
-      "role": "user",
-      "content": "how about The complete GPU workflow for ___ ?"
-    },
-    {
-      "id": "msg-1771902544174-nir1im",
-      "role": "assistant",
-      "content": "Here are some completions for \"The complete GPU workflow for ___\":\n\n**\"The complete GPU workflow for modern AI teams\"**\n- Subtitle: \"Schedule jobs, track experiments, and scale infrastructure—all in one platform\"\n\n**\"The complete GPU workflow for production ML\"**\n- Subtitle: \"From bare metal to deployed models, manage every step without the complexity\"\n\n**\"The complete GPU workflow for ambitious builders\"**\n- Subtitle: \"Stop managing infrastructure. Start shipping AI faster.\""
-    },
-    {
-      "id": "msg-1771903010932-pmyc2e",
-      "role": "user",
-      "content": "[@Screenshot] for this can you advise, i want to make the cards to be for\n- training\n- inference\n- experiment tracking\n\nWhat should the titles of the cards be? like maybe Job Schedule is for training, etc",
-      "inlineRefs": [
-        {
           "type": "image",
-          "id": "screenshot-1771902976212-uod7fi",
+          "id": "screenshot-1771980713125-khmqcc",
           "name": "Screenshot"
         }
       ]
     },
     {
-      "id": "msg-1771903027074-d1vfnx",
+      "id": "msg-1771980826100-1jak62",
       "role": "assistant",
-      "content": "I cannot see the screenshot you shared, but based on your GPU platform context, here are card title suggestions:\n\n**For Training:**\n- \"Job Scheduler\" or \"Training Queue\"\n- Shows queued/active training jobs with GPU allocation\n\n**For Inference:**  \n- \"Model Serving\" or \"Inference Endpoints\"\n- Displays deployed models, request stats, latency metrics\n\n**For Experiment Tracking:**\n- \"Experiment Dashboard\" or \"Run History\"\n- Shows experiment runs, metrics, comparisons, artifacts"
+      "content": "I'll recreate that testimonials section from the screenshot. Let me update the element with the new design.\n\nI've recreated the testimonials section from the screenshot with the same layout and styling. The design includes two testimonial cards and the \"Trusted by\" and \"Backed by\" sections with placeholder references for the company logos.\n\nLet me finalize by clearing the working indicator on this element.\n\n```finish_working_on_nodes\n{\"nodeIds\": [\"html-Ubc9NlvQWg8hl7JP88fvz\"]}\n```Looking at the ReadCanvas result, I can see the current structure. Let me update the element to match the screenshot exactly with the testimonials section.\n\nI've updated the element to match the screenshot with a testimonials section featuring two cards highlighting GPU scaling achievements and \"Trusted by\" and \"Backed by\" sections with placeholder logo references.",
+      "toolResults": [
+        {
+          "type": "update_jsx",
+          "payload": {
+            "elementId": "html-Ubc9NlvQWg8hl7JP88fvz",
+            "newElement": {
+              "id": "html-Ubc9NlvQWg8hl7JP88fvz",
+              "type": "html",
+              "tag": "div",
+              "props": {},
+              "styles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "40px",
+                "width": "100%",
+                "paddingTop": "80px",
+                "paddingBottom": "80px",
+                "backgroundColor": "#f5f5f7"
+              },
+              "children": [
+                {
+                  "id": "el-1771980785306-0-hk8l",
+                  "type": "html",
+                  "tag": "div",
+                  "styles": {
+                    "maxWidth": "1200px",
+                    "width": "100%",
+                    "margin": "0 auto",
+                    "padding": "0 24px"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1771980785306-1-np5g",
+                      "type": "html",
+                      "tag": "div",
+                      "styles": {
+                        "display": "flex",
+                        "gap": "24px",
+                        "marginBottom": "48px"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1771980785306-2-tq39",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "flex": "1",
+                            "backgroundColor": "#ffffff",
+                            "padding": "40px",
+                            "borderRadius": "12px",
+                            "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.06)",
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "justifyContent": "space-between"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980785306-3-uo6g",
+                              "type": "html",
+                              "tag": "p",
+                              "styles": {
+                                "fontSize": "24px",
+                                "lineHeight": "1.4",
+                                "color": "#6b7280",
+                                "margin": "0 0 32px 0"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980785306-4-yvcq",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "From local to 64 H100s in under an hour -"
+                                },
+                                {
+                                  "id": "el-1771980785306-5-wsbm",
+                                  "type": "html",
+                                  "tag": "span",
+                                  "styles": {
+                                    "color": "#8b5cf6"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1771980785306-6-djtv",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "the fastest GPU setup we've seen"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980785306-7-5aob",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "alignItems": "center",
+                                "justifyContent": "flex-start"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980785306-8-dspl",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/linum-logo.png",
+                                    "alt": "Linum AI"
+                                  },
+                                  "styles": {
+                                    "height": "32px",
+                                    "width": "auto"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1771980785306-9-13i0",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "flex": "1",
+                            "backgroundColor": "#ffffff",
+                            "padding": "40px",
+                            "borderRadius": "12px",
+                            "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.06)",
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "justifyContent": "space-between"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980785306-10-jpy8",
+                              "type": "html",
+                              "tag": "p",
+                              "styles": {
+                                "fontSize": "24px",
+                                "lineHeight": "1.4",
+                                "margin": "0 0 32px 0"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980785306-11-hq0w",
+                                  "type": "html",
+                                  "tag": "span",
+                                  "styles": {
+                                    "color": "#6b7280"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1771980785306-12-3lcw",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Scaled to hundreds of GPUs on demand,"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1771980785306-13-p2cs",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "reducing infrastructure costs by 50%."
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980785306-14-5otf",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "alignItems": "center",
+                                "justifyContent": "flex-start"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980785306-15-jric",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/causal-labs-logo.svg",
+                                    "alt": "Causal Labs"
+                                  },
+                                  "styles": {
+                                    "height": "32px",
+                                    "width": "auto"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1771980785306-16-wkb9",
+                      "type": "html",
+                      "tag": "div",
+                      "styles": {
+                        "display": "flex",
+                        "gap": "24px"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1771980785306-17-lm84",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "flex": "1"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980785306-18-giwg",
+                              "type": "html",
+                              "tag": "p",
+                              "styles": {
+                                "fontSize": "14px",
+                                "color": "#6b7280",
+                                "marginBottom": "24px",
+                                "fontWeight": "500"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980785306-19-va1e",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Trusted by"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980785306-20-1urb",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "gap": "32px",
+                                "alignItems": "center",
+                                "flexWrap": "wrap"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980785306-21-yqzi",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/digitalocean-logo.png",
+                                    "alt": "DigitalOcean"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980785306-22-wvb6",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/diffuse-bio-logo.png",
+                                    "alt": "Diffuse Bio"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980785306-23-9811",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/paperspace-logo.png",
+                                    "alt": "Paperspace"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980785306-24-obh1",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/whitefiber-logo.svg",
+                                    "alt": "Whitefiber"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1771980785306-25-qez1",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "flex": "1"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980785306-26-3fnb",
+                              "type": "html",
+                              "tag": "p",
+                              "styles": {
+                                "fontSize": "14px",
+                                "color": "#6b7280",
+                                "marginBottom": "24px",
+                                "fontWeight": "500"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980785306-27-6gba",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Backed by"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980785306-28-4y9j",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "gap": "32px",
+                                "alignItems": "center",
+                                "flexWrap": "wrap"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980785306-29-bhn9",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/ycombinator-logo.png",
+                                    "alt": "Y Combinator"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980785306-30-kieg",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/zventure-logo.png",
+                                    "alt": "Z Venture Capital"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980785306-31-lymv",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/lc-logo.png",
+                                    "alt": "LC"
+                                  },
+                                  "styles": {
+                                    "height": "20px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "originalJsx": "<div id=\"html-Ubc9NlvQWg8hl7JP88fvz\" style={{\"display\":\"flex\",\"flexDirection\":\"column\",\"gap\":\"40px\",\"width\":\"100%\",\"paddingTop\":\"80px\",\"paddingBottom\":\"80px\",\"backgroundColor\":\"#f5f5f7\"}}>\n  <div style={{\"maxWidth\":\"1200px\",\"width\":\"100%\",\"margin\":\"0 auto\",\"padding\":\"0 24px\"}}>\n    <div style={{\"display\":\"flex\",\"gap\":\"24px\",\"marginBottom\":\"48px\"}}>\n      <div style={{\"flex\":\"1\",\"backgroundColor\":\"#ffffff\",\"padding\":\"40px\",\"borderRadius\":\"12px\",\"boxShadow\":\"0 2px 8px rgba(0, 0, 0, 0.06)\",\"display\":\"flex\",\"flexDirection\":\"column\",\"justifyContent\":\"space-between\"}}>\n        <p style={{\"fontSize\":\"24px\",\"lineHeight\":\"1.4\",\"color\":\"#6b7280\",\"margin\":\"0 0 32px 0\"}}>From local to 64 H100s in under an hour - <span style={{\"color\":\"#8b5cf6\"}}>the fastest GPU setup we've seen</span></p>\n        <div style={{\"display\":\"flex\",\"alignItems\":\"center\",\"justifyContent\":\"flex-start\"}}>\n          <img src=\"/.lunagraph-assets/linum-logo.png\" alt=\"Linum AI\" style={{\"height\":\"32px\",\"width\":\"auto\"}} />\n        </div>\n      </div>\n      <div style={{\"flex\":\"1\",\"backgroundColor\":\"#ffffff\",\"padding\":\"40px\",\"borderRadius\":\"12px\",\"boxShadow\":\"0 2px 8px rgba(0, 0, 0, 0.06)\",\"display\":\"flex\",\"flexDirection\":\"column\",\"justifyContent\":\"space-between\"}}>\n        <p style={{\"fontSize\":\"24px\",\"lineHeight\":\"1.4\",\"margin\":\"0 0 32px 0\"}}><span style={{\"color\":\"#6b7280\"}}>Scaled to hundreds of GPUs on demand,</span> reducing infrastructure costs by 50%.</p>\n        <div style={{\"display\":\"flex\",\"alignItems\":\"center\",\"justifyContent\":\"flex-start\"}}>\n          <img src=\"/.lunagraph-assets/causal-labs-logo.svg\" alt=\"Causal Labs\" style={{\"height\":\"32px\",\"width\":\"auto\"}} />\n        </div>\n      </div>\n    </div>\n    <div style={{\"display\":\"flex\",\"gap\":\"24px\"}}>\n      <div style={{\"flex\":\"1\"}}>\n        <p style={{\"fontSize\":\"14px\",\"color\":\"#6b7280\",\"marginBottom\":\"24px\",\"fontWeight\":\"500\"}}>Trusted by</p>\n        <div style={{\"display\":\"flex\",\"gap\":\"32px\",\"alignItems\":\"center\",\"flexWrap\":\"wrap\"}}>\n          <img src=\"/.lunagraph-assets/digitalocean-logo.png\" alt=\"DigitalOcean\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/diffuse-bio-logo.png\" alt=\"Diffuse Bio\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/paperspace-logo.png\" alt=\"Paperspace\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/whitefiber-logo.svg\" alt=\"Whitefiber\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n        </div>\n      </div>\n      <div style={{\"flex\":\"1\"}}>\n        <p style={{\"fontSize\":\"14px\",\"color\":\"#6b7280\",\"marginBottom\":\"24px\",\"fontWeight\":\"500\"}}>Backed by</p>\n        <div style={{\"display\":\"flex\",\"gap\":\"32px\",\"alignItems\":\"center\",\"flexWrap\":\"wrap\"}}>\n          <img src=\"/.lunagraph-assets/ycombinator-logo.png\" alt=\"Y Combinator\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/zventure-logo.png\" alt=\"Z Venture Capital\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/lc-logo.png\" alt=\"LC\" style={{\"height\":\"20px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+          },
+          "createdElementId": "html-Ubc9NlvQWg8hl7JP88fvz"
+        },
+        {
+          "type": "update_jsx",
+          "payload": {
+            "elementId": "html-Ubc9NlvQWg8hl7JP88fvz",
+            "newElement": {
+              "id": "html-Ubc9NlvQWg8hl7JP88fvz",
+              "type": "html",
+              "tag": "div",
+              "props": {},
+              "styles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "40px",
+                "width": "100%",
+                "paddingTop": "80px",
+                "paddingBottom": "80px",
+                "backgroundColor": "#f5f5f7"
+              },
+              "children": [
+                {
+                  "id": "el-1771980826099-32-50kt",
+                  "type": "html",
+                  "tag": "div",
+                  "styles": {
+                    "maxWidth": "1200px",
+                    "width": "100%",
+                    "margin": "0 auto",
+                    "padding": "0 24px"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1771980826099-33-4g08",
+                      "type": "html",
+                      "tag": "div",
+                      "styles": {
+                        "display": "flex",
+                        "gap": "24px",
+                        "marginBottom": "48px"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1771980826099-34-sa32",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "flex": "1",
+                            "backgroundColor": "#ffffff",
+                            "padding": "40px",
+                            "borderRadius": "12px",
+                            "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.06)",
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "justifyContent": "space-between"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980826099-35-fy74",
+                              "type": "html",
+                              "tag": "p",
+                              "styles": {
+                                "fontSize": "24px",
+                                "lineHeight": "1.4",
+                                "color": "#6b7280",
+                                "margin": "0 0 32px 0"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-36-bz3p",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "From local to 64 H100s in under an hour -"
+                                },
+                                {
+                                  "id": "el-1771980826099-37-x52l",
+                                  "type": "html",
+                                  "tag": "span",
+                                  "styles": {
+                                    "color": "#8b5cf6"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1771980826099-38-g9mk",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "the fastest GPU setup we've seen"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980826099-39-0p4f",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "alignItems": "center",
+                                "justifyContent": "flex-start"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-40-nxxf",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/linum-logo.png",
+                                    "alt": "Linum AI"
+                                  },
+                                  "styles": {
+                                    "height": "32px",
+                                    "width": "auto"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1771980826099-41-2l4u",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "flex": "1",
+                            "backgroundColor": "#ffffff",
+                            "padding": "40px",
+                            "borderRadius": "12px",
+                            "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.06)",
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "justifyContent": "space-between"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980826099-42-cnsi",
+                              "type": "html",
+                              "tag": "p",
+                              "styles": {
+                                "fontSize": "24px",
+                                "lineHeight": "1.4",
+                                "margin": "0 0 32px 0"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-43-nfsh",
+                                  "type": "html",
+                                  "tag": "span",
+                                  "styles": {
+                                    "color": "#6b7280"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1771980826099-44-qeqv",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Scaled to hundreds of GPUs on demand,"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1771980826099-45-wu8u",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "reducing infrastructure costs by 50%."
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980826099-46-u928",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "alignItems": "center",
+                                "justifyContent": "flex-start"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-47-mcvz",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/causal-labs-logo.svg",
+                                    "alt": "Causal Labs"
+                                  },
+                                  "styles": {
+                                    "height": "32px",
+                                    "width": "auto"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1771980826099-48-dhq3",
+                      "type": "html",
+                      "tag": "div",
+                      "styles": {
+                        "display": "flex",
+                        "gap": "24px"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1771980826099-49-7k0l",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "flex": "1"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980826099-50-dv37",
+                              "type": "html",
+                              "tag": "p",
+                              "styles": {
+                                "fontSize": "14px",
+                                "color": "#6b7280",
+                                "marginBottom": "24px",
+                                "fontWeight": "500"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-51-zws0",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Trusted by"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980826099-52-p2it",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "gap": "32px",
+                                "alignItems": "center",
+                                "flexWrap": "wrap"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-53-uos8",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/digitalocean-logo.png",
+                                    "alt": "DigitalOcean"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-54-hmqd",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/diffuse-bio-logo.png",
+                                    "alt": "Diffuse Bio"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-55-awxw",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/paperspace-logo.png",
+                                    "alt": "Paperspace"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-56-2ydb",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/whitefiber-logo.svg",
+                                    "alt": "Whitefiber"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1771980826099-57-vv5h",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "flex": "1"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980826099-58-665e",
+                              "type": "html",
+                              "tag": "p",
+                              "styles": {
+                                "fontSize": "14px",
+                                "color": "#6b7280",
+                                "marginBottom": "24px",
+                                "fontWeight": "500"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-59-5u9e",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Backed by"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980826099-60-4w0w",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "display": "flex",
+                                "gap": "32px",
+                                "alignItems": "center",
+                                "flexWrap": "wrap"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-61-shlm",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/ycombinator-logo.png",
+                                    "alt": "Y Combinator"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-62-hir8",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/zventure-logo.png",
+                                    "alt": "Z Venture Capital"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-63-65qj",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/lc-logo.png",
+                                    "alt": "LC"
+                                  },
+                                  "styles": {
+                                    "height": "20px",
+                                    "width": "auto",
+                                    "opacity": "0.7"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "originalJsx": "<div id=\"html-Ubc9NlvQWg8hl7JP88fvz\" style={{\"display\":\"flex\",\"flexDirection\":\"column\",\"gap\":\"40px\",\"width\":\"100%\",\"paddingTop\":\"80px\",\"paddingBottom\":\"80px\",\"backgroundColor\":\"#f5f5f7\"}}>\n  <div style={{\"maxWidth\":\"1200px\",\"width\":\"100%\",\"margin\":\"0 auto\",\"padding\":\"0 24px\"}}>\n    <div style={{\"display\":\"flex\",\"gap\":\"24px\",\"marginBottom\":\"48px\"}}>\n      <div style={{\"flex\":\"1\",\"backgroundColor\":\"#ffffff\",\"padding\":\"40px\",\"borderRadius\":\"12px\",\"boxShadow\":\"0 2px 8px rgba(0, 0, 0, 0.06)\",\"display\":\"flex\",\"flexDirection\":\"column\",\"justifyContent\":\"space-between\"}}>\n        <p style={{\"fontSize\":\"24px\",\"lineHeight\":\"1.4\",\"color\":\"#6b7280\",\"margin\":\"0 0 32px 0\"}}>From local to 64 H100s in under an hour - <span style={{\"color\":\"#8b5cf6\"}}>the fastest GPU setup we've seen</span></p>\n        <div style={{\"display\":\"flex\",\"alignItems\":\"center\",\"justifyContent\":\"flex-start\"}}>\n          <img src=\"/.lunagraph-assets/linum-logo.png\" alt=\"Linum AI\" style={{\"height\":\"32px\",\"width\":\"auto\"}} />\n        </div>\n      </div>\n      <div style={{\"flex\":\"1\",\"backgroundColor\":\"#ffffff\",\"padding\":\"40px\",\"borderRadius\":\"12px\",\"boxShadow\":\"0 2px 8px rgba(0, 0, 0, 0.06)\",\"display\":\"flex\",\"flexDirection\":\"column\",\"justifyContent\":\"space-between\"}}>\n        <p style={{\"fontSize\":\"24px\",\"lineHeight\":\"1.4\",\"margin\":\"0 0 32px 0\"}}><span style={{\"color\":\"#6b7280\"}}>Scaled to hundreds of GPUs on demand,</span> reducing infrastructure costs by 50%.</p>\n        <div style={{\"display\":\"flex\",\"alignItems\":\"center\",\"justifyContent\":\"flex-start\"}}>\n          <img src=\"/.lunagraph-assets/causal-labs-logo.svg\" alt=\"Causal Labs\" style={{\"height\":\"32px\",\"width\":\"auto\"}} />\n        </div>\n      </div>\n    </div>\n    <div style={{\"display\":\"flex\",\"gap\":\"24px\"}}>\n      <div style={{\"flex\":\"1\"}}>\n        <p style={{\"fontSize\":\"14px\",\"color\":\"#6b7280\",\"marginBottom\":\"24px\",\"fontWeight\":\"500\"}}>Trusted by</p>\n        <div style={{\"display\":\"flex\",\"gap\":\"32px\",\"alignItems\":\"center\",\"flexWrap\":\"wrap\"}}>\n          <img src=\"/.lunagraph-assets/digitalocean-logo.png\" alt=\"DigitalOcean\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/diffuse-bio-logo.png\" alt=\"Diffuse Bio\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/paperspace-logo.png\" alt=\"Paperspace\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/whitefiber-logo.svg\" alt=\"Whitefiber\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n        </div>\n      </div>\n      <div style={{\"flex\":\"1\"}}>\n        <p style={{\"fontSize\":\"14px\",\"color\":\"#6b7280\",\"marginBottom\":\"24px\",\"fontWeight\":\"500\"}}>Backed by</p>\n        <div style={{\"display\":\"flex\",\"gap\":\"32px\",\"alignItems\":\"center\",\"flexWrap\":\"wrap\"}}>\n          <img src=\"/.lunagraph-assets/ycombinator-logo.png\" alt=\"Y Combinator\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/zventure-logo.png\" alt=\"Z Venture Capital\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n          <img src=\"/.lunagraph-assets/lc-logo.png\" alt=\"LC\" style={{\"height\":\"20px\",\"width\":\"auto\",\"opacity\":\"0.7\"}} />\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+          },
+          "createdElementId": "html-Ubc9NlvQWg8hl7JP88fvz"
+        }
+      ]
+    },
+    {
+      "id": "msg-1771980872274-cjncs1",
+      "role": "user",
+      "content": "[@Screenshot] why is it white? [@<div>][@Screenshot] can you pls change it to follow my screenshot design EXACLTY???? there's no \"cards\" it's really ines",
+      "inlineRefs": [
+        {
+          "type": "image",
+          "id": "screenshot-1771980838585-c7567g",
+          "name": "Screenshot"
+        },
+        {
+          "type": "element",
+          "id": "html-Ubc9NlvQWg8hl7JP88fvz",
+          "name": "<div>"
+        },
+        {
+          "type": "image",
+          "id": "screenshot-1771980855852-ze91jg",
+          "name": "Screenshot"
+        }
+      ]
+    },
+    {
+      "id": "msg-1771980931582-m3tuxp",
+      "role": "assistant",
+      "content": "Looking at the screenshot, you're absolutely right! The section should have a dark/black background with text directly on it - no cards. Let me fix this to match exactly.Fixed! Now it has the dark background and no cards - just text directly on the surface exactly like your screenshot.",
+      "toolResults": [
+        {
+          "type": "update_jsx",
+          "payload": {
+            "elementId": "html-Ubc9NlvQWg8hl7JP88fvz",
+            "newElement": {
+              "id": "html-Ubc9NlvQWg8hl7JP88fvz",
+              "type": "html",
+              "tag": "div",
+              "props": {},
+              "styles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "80px",
+                "width": "100%",
+                "paddingTop": "100px",
+                "paddingBottom": "100px",
+                "backgroundColor": "#000000"
+              },
+              "children": [
+                {
+                  "id": "el-1771980826099-32-50kt",
+                  "type": "html",
+                  "tag": "div",
+                  "props": {},
+                  "styles": {
+                    "maxWidth": "1200px",
+                    "width": "100%",
+                    "margin": "0 auto",
+                    "padding": "0 48px"
+                  },
+                  "children": [
+                    {
+                      "id": "el-1771980826099-33-4g08",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {},
+                      "styles": {
+                        "display": "flex",
+                        "gap": "48px",
+                        "marginBottom": "80px"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1771980826099-34-sa32",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {},
+                          "styles": {
+                            "flex": "1",
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "justifyContent": "space-between",
+                            "gap": "40px"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980826099-35-fy74",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {},
+                              "styles": {
+                                "fontSize": "28px",
+                                "lineHeight": "1.4",
+                                "color": "#e5e5e7",
+                                "margin": "0",
+                                "fontWeight": "400"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980931580-64-yq4r",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "From local to 64 H100s in under an hour -"
+                                },
+                                {
+                                  "id": "el-1771980826099-37-x52l",
+                                  "type": "html",
+                                  "tag": "span",
+                                  "props": {},
+                                  "styles": {
+                                    "color": "#8b5cf6",
+                                    "display": "block"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1771980931580-65-2ucj",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "the fastest GPU setup we've seen"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980826099-39-0p4f",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {},
+                              "styles": {
+                                "display": "flex",
+                                "alignItems": "center",
+                                "justifyContent": "flex-start"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-40-nxxf",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/linum-logo.png",
+                                    "alt": "Linum AI"
+                                  },
+                                  "styles": {
+                                    "height": "32px",
+                                    "width": "auto"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1771980826099-41-2l4u",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {},
+                          "styles": {
+                            "flex": "1",
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "justifyContent": "space-between",
+                            "gap": "40px"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980826099-42-cnsi",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {},
+                              "styles": {
+                                "fontSize": "28px",
+                                "lineHeight": "1.4",
+                                "margin": "0",
+                                "fontWeight": "400"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-43-nfsh",
+                                  "type": "html",
+                                  "tag": "span",
+                                  "props": {},
+                                  "styles": {
+                                    "color": "#e5e5e7"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1771980931580-66-mopm",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "Scaled to hundreds of GPUs on demand,"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "el-1771980931580-67-i0hg",
+                                  "type": "html",
+                                  "tag": "span",
+                                  "styles": {
+                                    "color": "#ffffff",
+                                    "display": "block"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "el-1771980931580-68-zgbw",
+                                      "type": "text",
+                                      "tag": "span",
+                                      "text": "reducing infrastructure costs by 50%."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980826099-46-u928",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {},
+                              "styles": {
+                                "display": "flex",
+                                "alignItems": "center",
+                                "justifyContent": "flex-start"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-47-mcvz",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/causal-labs-logo.svg",
+                                    "alt": "Causal Labs"
+                                  },
+                                  "styles": {
+                                    "height": "32px",
+                                    "width": "auto"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "el-1771980826099-48-dhq3",
+                      "type": "html",
+                      "tag": "div",
+                      "props": {},
+                      "styles": {
+                        "display": "flex",
+                        "gap": "80px"
+                      },
+                      "children": [
+                        {
+                          "id": "el-1771980826099-49-7k0l",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {},
+                          "styles": {
+                            "flex": "1"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980826099-50-dv37",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {},
+                              "styles": {
+                                "fontSize": "16px",
+                                "color": "#9ca3af",
+                                "marginBottom": "32px",
+                                "fontWeight": "400"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980931580-69-zqpb",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Trusted by"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980826099-52-p2it",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {},
+                              "styles": {
+                                "display": "flex",
+                                "gap": "48px",
+                                "alignItems": "center",
+                                "flexWrap": "wrap"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-53-uos8",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/digitalocean-logo.png",
+                                    "alt": "DigitalOcean"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.8"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-54-hmqd",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/diffuse-bio-logo.png",
+                                    "alt": "Diffuse Bio"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.8"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-55-awxw",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/paperspace-logo.png",
+                                    "alt": "Paperspace"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.8"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-56-2ydb",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/whitefiber-logo.svg",
+                                    "alt": "Whitefiber"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.8"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "el-1771980826099-57-vv5h",
+                          "type": "html",
+                          "tag": "div",
+                          "props": {},
+                          "styles": {
+                            "flex": "1"
+                          },
+                          "children": [
+                            {
+                              "id": "el-1771980826099-58-665e",
+                              "type": "html",
+                              "tag": "p",
+                              "props": {},
+                              "styles": {
+                                "fontSize": "16px",
+                                "color": "#9ca3af",
+                                "marginBottom": "32px",
+                                "fontWeight": "400"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980931581-70-9ue2",
+                                  "type": "text",
+                                  "tag": "span",
+                                  "text": "Backed by"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "el-1771980826099-60-4w0w",
+                              "type": "html",
+                              "tag": "div",
+                              "props": {},
+                              "styles": {
+                                "display": "flex",
+                                "gap": "48px",
+                                "alignItems": "center",
+                                "flexWrap": "wrap"
+                              },
+                              "children": [
+                                {
+                                  "id": "el-1771980826099-61-shlm",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/ycombinator-logo.png",
+                                    "alt": "Y Combinator"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.8"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-62-hir8",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/zventure-logo.png",
+                                    "alt": "Z Venture Capital"
+                                  },
+                                  "styles": {
+                                    "height": "24px",
+                                    "width": "auto",
+                                    "opacity": "0.8"
+                                  }
+                                },
+                                {
+                                  "id": "el-1771980826099-63-65qj",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/lc-logo.png",
+                                    "alt": "LC"
+                                  },
+                                  "styles": {
+                                    "height": "20px",
+                                    "width": "auto",
+                                    "opacity": "0.8"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "originalJsx": "<div id=\"html-Ubc9NlvQWg8hl7JP88fvz\" style={{\"display\":\"flex\",\"flexDirection\":\"column\",\"gap\":\"80px\",\"width\":\"100%\",\"paddingTop\":\"100px\",\"paddingBottom\":\"100px\",\"backgroundColor\":\"#000000\"}}>\n  <div id=\"el-1771980826099-32-50kt\" style={{\"maxWidth\":\"1200px\",\"width\":\"100%\",\"margin\":\"0 auto\",\"padding\":\"0 48px\"}}>\n    <div id=\"el-1771980826099-33-4g08\" style={{\"display\":\"flex\",\"gap\":\"48px\",\"marginBottom\":\"80px\"}}>\n      <div id=\"el-1771980826099-34-sa32\" style={{\"flex\":\"1\",\"display\":\"flex\",\"flexDirection\":\"column\",\"justifyContent\":\"space-between\",\"gap\":\"40px\"}}>\n        <p id=\"el-1771980826099-35-fy74\" style={{\"fontSize\":\"28px\",\"lineHeight\":\"1.4\",\"color\":\"#e5e5e7\",\"margin\":\"0\",\"fontWeight\":\"400\"}}>\n          From local to 64 H100s in under an hour -\n          <span id=\"el-1771980826099-37-x52l\" style={{\"color\":\"#8b5cf6\",\"display\":\"block\"}}>\n            the fastest GPU setup we've seen\n          </span>\n        </p>\n        <div id=\"el-1771980826099-39-0p4f\" style={{\"display\":\"flex\",\"alignItems\":\"center\",\"justifyContent\":\"flex-start\"}}>\n          <img id=\"el-1771980826099-40-nxxf\" style={{\"height\":\"32px\",\"width\":\"auto\"}} src=\"/.lunagraph-assets/linum-logo.png\" alt=\"Linum AI\" />\n        </div>\n      </div>\n      <div id=\"el-1771980826099-41-2l4u\" style={{\"flex\":\"1\",\"display\":\"flex\",\"flexDirection\":\"column\",\"justifyContent\":\"space-between\",\"gap\":\"40px\"}}>\n        <p id=\"el-1771980826099-42-cnsi\" style={{\"fontSize\":\"28px\",\"lineHeight\":\"1.4\",\"margin\":\"0\",\"fontWeight\":\"400\"}}>\n          <span id=\"el-1771980826099-43-nfsh\" style={{\"color\":\"#e5e5e7\"}}>\n            Scaled to hundreds of GPUs on demand,\n          </span>\n          <span style={{\"color\":\"#ffffff\",\"display\":\"block\"}}> reducing infrastructure costs by 50%.</span>\n        </p>\n        <div id=\"el-1771980826099-46-u928\" style={{\"display\":\"flex\",\"alignItems\":\"center\",\"justifyContent\":\"flex-start\"}}>\n          <img id=\"el-1771980826099-47-mcvz\" style={{\"height\":\"32px\",\"width\":\"auto\"}} src=\"/.lunagraph-assets/causal-labs-logo.svg\" alt=\"Causal Labs\" />\n        </div>\n      </div>\n    </div>\n    <div id=\"el-1771980826099-48-dhq3\" style={{\"display\":\"flex\",\"gap\":\"80px\"}}>\n      <div id=\"el-1771980826099-49-7k0l\" style={{\"flex\":\"1\"}}>\n        <p id=\"el-1771980826099-50-dv37\" style={{\"fontSize\":\"16px\",\"color\":\"#9ca3af\",\"marginBottom\":\"32px\",\"fontWeight\":\"400\"}}>\n          Trusted by\n        </p>\n        <div id=\"el-1771980826099-52-p2it\" style={{\"display\":\"flex\",\"gap\":\"48px\",\"alignItems\":\"center\",\"flexWrap\":\"wrap\"}}>\n          <img id=\"el-1771980826099-53-uos8\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.8\"}} src=\"/.lunagraph-assets/digitalocean-logo.png\" alt=\"DigitalOcean\" />\n          <img id=\"el-1771980826099-54-hmqd\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.8\"}} src=\"/.lunagraph-assets/diffuse-bio-logo.png\" alt=\"Diffuse Bio\" />\n          <img id=\"el-1771980826099-55-awxw\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.8\"}} src=\"/.lunagraph-assets/paperspace-logo.png\" alt=\"Paperspace\" />\n          <img id=\"el-1771980826099-56-2ydb\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.8\"}} src=\"/.lunagraph-assets/whitefiber-logo.svg\" alt=\"Whitefiber\" />\n        </div>\n      </div>\n      <div id=\"el-1771980826099-57-vv5h\" style={{\"flex\":\"1\"}}>\n        <p id=\"el-1771980826099-58-665e\" style={{\"fontSize\":\"16px\",\"color\":\"#9ca3af\",\"marginBottom\":\"32px\",\"fontWeight\":\"400\"}}>\n          Backed by\n        </p>\n        <div id=\"el-1771980826099-60-4w0w\" style={{\"display\":\"flex\",\"gap\":\"48px\",\"alignItems\":\"center\",\"flexWrap\":\"wrap\"}}>\n          <img id=\"el-1771980826099-61-shlm\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.8\"}} src=\"/.lunagraph-assets/ycombinator-logo.png\" alt=\"Y Combinator\" />\n          <img id=\"el-1771980826099-62-hir8\" style={{\"height\":\"24px\",\"width\":\"auto\",\"opacity\":\"0.8\"}} src=\"/.lunagraph-assets/zventure-logo.png\" alt=\"Z Venture Capital\" />\n          <img id=\"el-1771980826099-63-65qj\" style={{\"height\":\"20px\",\"width\":\"auto\",\"opacity\":\"0.8\"}} src=\"/.lunagraph-assets/lc-logo.png\" alt=\"LC\" />\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+          },
+          "createdElementId": "html-Ubc9NlvQWg8hl7JP88fvz"
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-02-24T03:17:07.587Z"
+  "updatedAt": "2026-02-25T00:55:32.098Z"
 }

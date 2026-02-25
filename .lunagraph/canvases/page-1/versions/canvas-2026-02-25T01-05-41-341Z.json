@@ -1280,7 +1280,7 @@
               "type": "html",
               "tag": "section",
               "props": {
-                "className": "container mx-auto px-6 pt-24"
+                "className": "container mx-auto px-6 py-24"
               },
               "children": [
                 {
@@ -1459,8 +1459,7 @@
                     }
                   ],
                   "styles": {
-                    "height": "auto",
-                    "zIndex": "1"
+                    "height": "auto"
                   }
                 }
               ],
@@ -1471,8 +1470,7 @@
                 "display": "flex",
                 "flexDirection": "column",
                 "justifyContent": "center",
-                "alignItems": "flex-start",
-                "position": "relative"
+                "alignItems": "flex-start"
               }
             }
           ]
@@ -1489,6 +1487,7 @@
             "width": "100%",
             "paddingTop": "100px",
             "paddingBottom": "100px",
+            "backgroundColor": "#000000",
             "justifyContent": "center",
             "alignItems": "center"
           },
@@ -1737,17 +1736,14 @@
                         "paddingLeft": "32px",
                         "width": "auto",
                         "display": "flex",
-                        "flexDirection": "column",
-                        "gap": "8px"
+                        "flexDirection": "column"
                       },
                       "children": [
                         {
                           "id": "el-1771980826099-50-dv37",
                           "type": "html",
                           "tag": "p",
-                          "props": {
-                            "className": "text-muted-foreground"
-                          },
+                          "props": {},
                           "styles": {},
                           "children": [
                             {
@@ -1868,17 +1864,14 @@
                         "paddingLeft": "32px",
                         "width": "fit-content",
                         "display": "flex",
-                        "flexDirection": "column",
-                        "gap": "8px"
+                        "flexDirection": "column"
                       },
                       "children": [
                         {
                           "id": "el-1771980826099-58-665e",
                           "type": "html",
                           "tag": "p",
-                          "props": {
-                            "className": "text-muted-foreground"
-                          },
+                          "props": {},
                           "styles": {},
                           "children": [
                             {
@@ -2932,7 +2925,7 @@
       }
     }
   ],
-  "zoom": 0.5215411040000002,
+  "zoom": 0.6867051475912385,
   "createdAt": "2026-02-20T01:24:35.105Z",
-  "updatedAt": "2026-02-25T01:07:51.860Z"
+  "updatedAt": "2026-02-25T01:05:35.502Z"
 }

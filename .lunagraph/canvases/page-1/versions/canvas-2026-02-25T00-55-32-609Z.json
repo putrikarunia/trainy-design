@@ -1280,7 +1280,7 @@
               "type": "html",
               "tag": "section",
               "props": {
-                "className": "container mx-auto px-6 pt-24"
+                "className": "container mx-auto px-6 py-24"
               },
               "children": [
                 {
@@ -1459,8 +1459,7 @@
                     }
                   ],
                   "styles": {
-                    "height": "auto",
-                    "zIndex": "1"
+                    "height": "auto"
                   }
                 }
               ],
@@ -1471,8 +1470,7 @@
                 "display": "flex",
                 "flexDirection": "column",
                 "justifyContent": "center",
-                "alignItems": "flex-start",
-                "position": "relative"
+                "alignItems": "flex-start"
               }
             }
           ]
@@ -1485,92 +1483,79 @@
           "styles": {
             "display": "flex",
             "flexDirection": "column",
-            "gap": "80px",
+            "gap": "40px",
             "width": "100%",
-            "paddingTop": "100px",
-            "paddingBottom": "100px",
-            "justifyContent": "center",
-            "alignItems": "center"
+            "paddingTop": "80px",
+            "paddingBottom": "80px",
+            "backgroundColor": "#f5f5f7"
           },
           "children": [
             {
               "id": "el-1771980826099-32-50kt",
               "type": "html",
               "tag": "div",
-              "props": {},
               "styles": {
                 "maxWidth": "1200px",
                 "width": "100%",
-                "display": "flex",
-                "flexDirection": "column"
+                "margin": "0 auto",
+                "padding": "0 24px"
               },
               "children": [
                 {
                   "id": "el-1771980826099-33-4g08",
                   "type": "html",
                   "tag": "div",
-                  "props": {},
                   "styles": {
-                    "display": "flex"
+                    "display": "flex",
+                    "gap": "24px",
+                    "marginBottom": "48px"
                   },
                   "children": [
                     {
                       "id": "el-1771980826099-34-sa32",
                       "type": "html",
                       "tag": "div",
-                      "props": {
-                        "className": "border border-l-0"
-                      },
                       "styles": {
                         "flex": "1",
+                        "backgroundColor": "#ffffff",
+                        "padding": "40px",
+                        "borderRadius": "12px",
+                        "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.06)",
                         "display": "flex",
                         "flexDirection": "column",
-                        "justifyContent": "space-between",
-                        "gap": "32px",
-                        "paddingTop": "64px",
-                        "paddingRight": "64px",
-                        "paddingBottom": "64px",
-                        "paddingLeft": "64px"
+                        "justifyContent": "space-between"
                       },
                       "children": [
                         {
                           "id": "el-1771980826099-35-fy74",
                           "type": "html",
                           "tag": "p",
-                          "props": {
-                            "className": "text-2xl"
+                          "styles": {
+                            "fontSize": "24px",
+                            "lineHeight": "1.4",
+                            "color": "#6b7280",
+                            "margin": "0 0 32px 0"
                           },
-                          "styles": {},
                           "children": [
+                            {
+                              "id": "el-1771980826099-36-bz3p",
+                              "type": "text",
+                              "tag": "span",
+                              "text": "From local to 64 H100s in under an hour -"
+                            },
                             {
                               "id": "el-1771980826099-37-x52l",
                               "type": "html",
                               "tag": "span",
-                              "props": {
-                                "className": "text-muted-foreground"
+                              "styles": {
+                                "color": "#8b5cf6"
                               },
-                              "styles": {},
                               "children": [
                                 {
-                                  "id": "el-1771980931580-64-yq4r",
+                                  "id": "el-1771980826099-38-g9mk",
                                   "type": "text",
                                   "tag": "span",
-                                  "text": "From local to 64 H100s in under an hour -"
-                                }
-                              ]
-                            },
-                            {
-                              "id": "html-JiWctxiDzMuX6Ohyl0wDI",
-                              "type": "html",
-                              "tag": "span",
-                              "props": {},
-                              "styles": {},
-                              "children": [
-                                {
-                                  "id": "text-K5WZdAv82wqoT9YLWwt3X",
-                                  "type": "text",
-                                  "tag": "span",
-                                  "text": " the fastest GPU setup we've seen"
+                                  "text": "the fastest GPU setup we've seen"
                                 }
                               ]
                             }
@@ -1580,7 +1565,6 @@
                           "id": "el-1771980826099-39-0p4f",
                           "type": "html",
                           "tag": "div",
-                          "props": {},
                           "styles": {
                             "display": "flex",
                             "alignItems": "center",
@@ -1588,24 +1572,17 @@
                           },
                           "children": [
                             {
-                              "id": "html-JIMNRpRuXsIxsQptrnAFn",
+                              "id": "el-1771980826099-40-nxxf",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1771981019296-e3bfe653.png",
-                                "alt": "Image"
+                                "src": "/.lunagraph-assets/linum-logo.png",
+                                "alt": "Linum AI"
                               },
                               "styles": {
-                                "width": "auto",
-                                "objectFit": "cover",
-                                "display": "block",
-                                "height": "32px"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
+                                "height": "32px",
+                                "width": "auto"
+                              }
                             }
                           ]
                         }
@@ -1615,41 +1592,37 @@
                       "id": "el-1771980826099-41-2l4u",
                       "type": "html",
                       "tag": "div",
-                      "props": {
-                        "className": "border border-l-0 border-r-0"
-                      },
                       "styles": {
                         "flex": "1",
+                        "backgroundColor": "#ffffff",
+                        "padding": "40px",
+                        "borderRadius": "12px",
+                        "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.06)",
                         "display": "flex",
                         "flexDirection": "column",
-                        "justifyContent": "space-between",
-                        "gap": "32px",
-                        "paddingTop": "64px",
-                        "paddingRight": "64px",
-                        "paddingBottom": "64px",
-                        "paddingLeft": "64px"
+                        "justifyContent": "space-between"
                       },
                       "children": [
                         {
                           "id": "el-1771980826099-42-cnsi",
                           "type": "html",
                           "tag": "p",
-                          "props": {
-                            "className": "text-2xl"
+                          "styles": {
+                            "fontSize": "24px",
+                            "lineHeight": "1.4",
+                            "margin": "0 0 32px 0"
                           },
-                          "styles": {},
                           "children": [
                             {
                               "id": "el-1771980826099-43-nfsh",
                               "type": "html",
                               "tag": "span",
-                              "props": {
-                                "className": "text-muted-foreground"
+                              "styles": {
+                                "color": "#6b7280"
                               },
-                              "styles": {},
                               "children": [
                                 {
-                                  "id": "el-1771980931580-66-mopm",
+                                  "id": "el-1771980826099-44-qeqv",
                                   "type": "text",
                                   "tag": "span",
                                   "text": "Scaled to hundreds of GPUs on demand,"
@@ -1657,21 +1630,10 @@
                               ]
                             },
                             {
-                              "id": "el-1771980931580-67-i0hg",
-                              "type": "html",
+                              "id": "el-1771980826099-45-wu8u",
+                              "type": "text",
                               "tag": "span",
-                              "styles": {
-                                "color": "#ffffff",
-                                "display": "block"
-                              },
-                              "children": [
-                                {
-                                  "id": "el-1771980931580-68-zgbw",
-                                  "type": "text",
-                                  "tag": "span",
-                                  "text": "reducing infrastructure costs by 50%."
-                                }
-                              ]
+                              "text": "reducing infrastructure costs by 50%."
                             }
                           ]
                         },
@@ -1679,7 +1641,6 @@
                           "id": "el-1771980826099-46-u928",
                           "type": "html",
                           "tag": "div",
-                          "props": {},
                           "styles": {
                             "display": "flex",
                             "alignItems": "center",
@@ -1687,24 +1648,17 @@
                           },
                           "children": [
                             {
-                              "id": "html-nRXynauzgzlsA2LAPrxKF",
+                              "id": "el-1771980826099-47-mcvz",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1771981041069-235c9684.png",
-                                "alt": "Image"
+                                "src": "/.lunagraph-assets/causal-labs-logo.svg",
+                                "alt": "Causal Labs"
                               },
                               "styles": {
-                                "width": "auto",
-                                "objectFit": "cover",
-                                "display": "block",
-                                "height": "32px"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
+                                "height": "32px",
+                                "width": "auto"
+                              }
                             }
                           ]
                         }
@@ -1716,42 +1670,32 @@
                   "id": "el-1771980826099-48-dhq3",
                   "type": "html",
                   "tag": "div",
-                  "props": {},
                   "styles": {
                     "display": "flex",
-                    "gap": ""
+                    "gap": "24px"
                   },
                   "children": [
                     {
                       "id": "el-1771980826099-49-7k0l",
                       "type": "html",
                       "tag": "div",
-                      "props": {
-                        "className": "flex-1 border-b border-r"
-                      },
                       "styles": {
-                        "flex": "1",
-                        "paddingTop": "32px",
-                        "paddingRight": "32px",
-                        "paddingBottom": "32px",
-                        "paddingLeft": "32px",
-                        "width": "auto",
-                        "display": "flex",
-                        "flexDirection": "column",
-                        "gap": "8px"
+                        "flex": "1"
                       },
                       "children": [
                         {
                           "id": "el-1771980826099-50-dv37",
                           "type": "html",
                           "tag": "p",
-                          "props": {
-                            "className": "text-muted-foreground"
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#6b7280",
+                            "marginBottom": "24px",
+                            "fontWeight": "500"
                           },
-                          "styles": {},
                           "children": [
                             {
-                              "id": "el-1771980931580-69-zqpb",
+                              "id": "el-1771980826099-51-zws0",
                               "type": "text",
                               "tag": "span",
                               "text": "Trusted by"
@@ -1762,93 +1706,68 @@
                           "id": "el-1771980826099-52-p2it",
                           "type": "html",
                           "tag": "div",
-                          "props": {},
                           "styles": {
                             "display": "flex",
-                            "gap": "16px",
+                            "gap": "32px",
                             "alignItems": "center",
                             "flexWrap": "wrap"
                           },
                           "children": [
                             {
-                              "id": "html-LPnmT1RoJTNGnFbct2qgi",
+                              "id": "el-1771980826099-53-uos8",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1771981134906-e079bb3d.png",
-                                "alt": "Image"
+                                "src": "/.lunagraph-assets/digitalocean-logo.png",
+                                "alt": "DigitalOcean"
                               },
                               "styles": {
+                                "height": "24px",
                                 "width": "auto",
-                                "objectFit": "cover",
-                                "display": "block",
-                                "height": "24px"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
+                                "opacity": "0.7"
+                              }
                             },
                             {
-                              "id": "html-IpNNtD8F_6AVww1xGL6V6",
+                              "id": "el-1771980826099-54-hmqd",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1771981143239-841bfcfe.png",
-                                "alt": "Image"
+                                "src": "/.lunagraph-assets/diffuse-bio-logo.png",
+                                "alt": "Diffuse Bio"
                               },
                               "styles": {
+                                "height": "24px",
                                 "width": "auto",
-                                "objectFit": "cover",
-                                "display": "block",
-                                "height": "24px"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
+                                "opacity": "0.7"
+                              }
                             },
                             {
-                              "id": "html--Egy28MazSs_ktLyz5TwW",
+                              "id": "el-1771980826099-55-awxw",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1771981146021-3afc72ad.png",
-                                "alt": "Image"
+                                "src": "/.lunagraph-assets/paperspace-logo.png",
+                                "alt": "Paperspace"
                               },
                               "styles": {
+                                "height": "24px",
                                 "width": "auto",
-                                "objectFit": "cover",
-                                "display": "block",
-                                "height": "24px"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
+                                "opacity": "0.7"
+                              }
                             },
                             {
-                              "id": "html-rFoiEAvh3xTze_kzqjxR5",
+                              "id": "el-1771980826099-56-2ydb",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1771981148598-16aaa4c2.png",
-                                "alt": "Image"
+                                "src": "/.lunagraph-assets/whitefiber-logo.svg",
+                                "alt": "Whitefiber"
                               },
                               "styles": {
+                                "height": "24px",
                                 "width": "auto",
-                                "objectFit": "cover",
-                                "display": "block",
-                                "height": "24px"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
+                                "opacity": "0.7"
+                              }
                             }
                           ]
                         }
@@ -1858,31 +1777,23 @@
                       "id": "el-1771980826099-57-vv5h",
                       "type": "html",
                       "tag": "div",
-                      "props": {
-                        "className": "border-b"
-                      },
                       "styles": {
-                        "paddingTop": "32px",
-                        "paddingRight": "32px",
-                        "paddingBottom": "32px",
-                        "paddingLeft": "32px",
-                        "width": "fit-content",
-                        "display": "flex",
-                        "flexDirection": "column",
-                        "gap": "8px"
+                        "flex": "1"
                       },
                       "children": [
                         {
                           "id": "el-1771980826099-58-665e",
                           "type": "html",
                           "tag": "p",
-                          "props": {
-                            "className": "text-muted-foreground"
+                          "styles": {
+                            "fontSize": "14px",
+                            "color": "#6b7280",
+                            "marginBottom": "24px",
+                            "fontWeight": "500"
                           },
-                          "styles": {},
                           "children": [
                             {
-                              "id": "el-1771980931581-70-9ue2",
+                              "id": "el-1771980826099-59-5u9e",
                               "type": "text",
                               "tag": "span",
                               "text": "Backed by"
@@ -1893,73 +1804,54 @@
                           "id": "el-1771980826099-60-4w0w",
                           "type": "html",
                           "tag": "div",
-                          "props": {},
                           "styles": {
                             "display": "flex",
-                            "gap": "48px",
+                            "gap": "32px",
                             "alignItems": "center",
                             "flexWrap": "wrap"
                           },
                           "children": [
                             {
-                              "id": "html-llvWG6wCBoIHAY0n-_WCf",
+                              "id": "el-1771980826099-61-shlm",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1771981357996-54943450.png",
-                                "alt": "Image"
+                                "src": "/.lunagraph-assets/ycombinator-logo.png",
+                                "alt": "Y Combinator"
                               },
                               "styles": {
+                                "height": "24px",
                                 "width": "auto",
-                                "objectFit": "cover",
-                                "display": "block",
-                                "height": "24px"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
+                                "opacity": "0.7"
+                              }
                             },
                             {
-                              "id": "html-zvBk43JhcmCvNsQF5Y570",
+                              "id": "el-1771980826099-62-hir8",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1771981361348-9b786f3d.png",
-                                "alt": "Image"
+                                "src": "/.lunagraph-assets/zventure-logo.png",
+                                "alt": "Z Venture Capital"
                               },
                               "styles": {
+                                "height": "24px",
                                 "width": "auto",
-                                "objectFit": "cover",
-                                "display": "block",
-                                "height": "24px"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
+                                "opacity": "0.7"
+                              }
                             },
                             {
-                              "id": "html-BMUgqU0Zjd-JmsrxacsDG",
+                              "id": "el-1771980826099-63-65qj",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1771981363112-fa01436e.png",
-                                "alt": "Image"
+                                "src": "/.lunagraph-assets/lc-logo.png",
+                                "alt": "LC"
                               },
                               "styles": {
+                                "height": "20px",
                                 "width": "auto",
-                                "objectFit": "cover",
-                                "display": "block",
-                                "height": "24px"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
+                                "opacity": "0.7"
+                              }
                             }
                           ]
                         }
@@ -2932,7 +2824,7 @@
       }
     }
   ],
-  "zoom": 0.5215411040000002,
+  "zoom": 0.5189719360000001,
   "createdAt": "2026-02-20T01:24:35.105Z",
-  "updatedAt": "2026-02-25T01:07:51.860Z"
+  "updatedAt": "2026-02-25T00:53:55.338Z"
 }
