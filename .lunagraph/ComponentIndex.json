@@ -2696,5 +2696,9 @@
   "MigrationGraphicMobile": {
     "path": ".lunagraph/canvases/canvas-1/components/MigrationGraphicMobile.tsx",
     "exportName": "MigrationGraphicMobile"
+  },
+  "GPUClusterCards": {
+    "path": "components/GPUClusterCards.tsx",
+    "exportName": "default"
   }
 }

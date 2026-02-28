@@ -2839,9 +2839,9 @@
             "justifyContent": "flex-start",
             "alignItems": "center",
             "position": "relative",
-            "paddingTop": "128px",
+            "paddingTop": "64px",
             "paddingRight": "16px",
-            "paddingBottom": "128px",
+            "paddingBottom": "64px",
             "paddingLeft": "16px"
           },
           "children": [
@@ -2928,19 +2928,21 @@
                       },
                       "children": [
                         {
-                          "id": "html-w2q7R7CQRe4RUKrDHxIEm",
+                          "id": "html--icLzv9tPm8vO9aiObRNk",
                           "type": "html",
                           "tag": "div",
                           "props": {
-                            "className": "text-pill text-pink-400 bg-pink-500/20"
+                            "className": "text-pill"
                           },
                           "styles": {
+                            "backgroundColor": "rgb(3, 7, 18)",
                             "borderBottomLeftRadius": "8px",
                             "borderBottomRightRadius": "8px",
                             "borderTopLeftRadius": "8px",
                             "borderTopRightRadius": "8px",
                             "boxSizing": "border-box",
                             "clear": "none",
+                            "color": "rgb(250, 250, 250)",
                             "columnGap": "10px",
                             "display": "flex",
                             "float": "none",
@@ -2960,7 +2962,7 @@
                           },
                           "children": [
                             {
-                              "id": "html-Ac1_rgAnZPx1vHM2n-7Fd",
+                              "id": "html-ATvvuPUNriaA1iUH7WARu",
                               "type": "html",
                               "tag": "div",
                               "props": {
@@ -2969,6 +2971,7 @@
                               "styles": {
                                 "boxSizing": "border-box",
                                 "clear": "none",
+                                "color": "rgb(59, 130, 246)",
                                 "display": "block",
                                 "float": "none",
                                 "fontFamily": "Geist, sans-serif",
@@ -2977,13 +2980,13 @@
                                 "minHeight": "auto",
                                 "minWidth": "auto",
                                 "objectPosition": "50% 50%",
-                                "textDecorationColor": "rgb(251, 191, 36)",
+                                "textDecorationColor": "rgb(59, 130, 246)",
                                 "wordBreak": "normal",
                                 "wordSpacing": "0px"
                               },
                               "children": [
                                 {
-                                  "id": "text-xIZgvYBdIvGpQkqTw4fJP",
+                                  "id": "el-1772139473501-16-obq7",
                                   "type": "text",
                                   "tag": "span",
                                   "text": "INFERENCE"
@@ -3092,388 +3095,668 @@
                             "boxSizing": "border-box",
                             "clear": "none",
                             "color": "rgb(250, 250, 250)",
-                            "display": "flex",
+                            "display": "block",
                             "float": "none",
                             "fontFamily": "Geist, sans-serif",
-                            "justifyContent": "center",
+                            "justifyContent": "flex-start",
                             "lineHeight": "24px",
                             "objectPosition": "50% 50%",
                             "textDecorationColor": "rgb(250, 250, 250)",
                             "wordBreak": "normal",
-                            "wordSpacing": "0px",
-                            "flexDirection": "column"
+                            "wordSpacing": "0px"
                           },
                           "children": [
                             {
-                              "id": "html-uzqD7mMIFQ7K0v2PVpw6O",
+                              "id": "html-SiGBxk9RPKDdGuwqslIMq",
                               "type": "html",
                               "tag": "div",
+                              "props": {},
                               "styles": {
                                 "display": "flex",
                                 "flexDirection": "column",
-                                "gap": "-1px",
-                                "justifyContent": "center",
-                                "alignItems": "center"
+                                "gap": "0",
+                                "background": "linear-gradient(135deg, rgba(9, 9, 11, 0.8), rgba(23, 23, 28, 0.6))",
+                                "borderRadius": "12px",
+                                "padding": "32px",
+                                "width": "616px",
+                                "height": "311.812px",
+                                "position": "relative",
+                                "overflow": "hidden"
                               },
                               "children": [
                                 {
-                                  "id": "html-I7-sYCca_NHlZdIauf7mW",
+                                  "id": "el-1772142463851-0-n0pt",
                                   "type": "html",
                                   "tag": "div",
                                   "styles": {
+                                    "position": "absolute",
+                                    "inset": "-1px",
+                                    "background": "linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)",
+                                    "borderRadius": "12px",
+                                    "opacity": "0.2"
+                                  }
+                                },
+                                {
+                                  "id": "el-1772142463851-1-exls",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "styles": {
+                                    "position": "absolute",
+                                    "inset": "1px",
+                                    "background": "#09090B",
+                                    "borderRadius": "11px"
+                                  }
+                                },
+                                {
+                                  "id": "el-1772142463851-2-gtqe",
+                                  "type": "html",
+                                  "tag": "div",
+                                  "styles": {
+                                    "position": "relative",
+                                    "zIndex": "1",
                                     "display": "flex",
                                     "flexDirection": "row",
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "height": "100%",
                                     "gap": "24px"
                                   },
                                   "children": [
                                     {
-                                      "id": "html-GO9IbW-G8mBFYH6CWjL4T",
+                                      "id": "el-1772142463851-3-oe2r",
                                       "type": "html",
                                       "tag": "div",
                                       "styles": {
+                                        "flex": "0 0 auto",
                                         "display": "flex",
                                         "flexDirection": "column",
-                                        "gap": "",
-                                        "justifyContent": "flex-start",
+                                        "gap": "12px",
                                         "alignItems": "center"
                                       },
                                       "children": [
                                         {
-                                          "id": "html-V53Dz_uAOQEbWbgQu6rZ8",
+                                          "id": "el-1772142463851-4-9mko",
                                           "type": "html",
                                           "tag": "div",
-                                          "props": {
-                                            "className": "relative rounded-xl flex items-center justify-center bg-gradient-to-tr shadow-xl from-[#101013] to-[#181820]"
-                                          },
                                           "styles": {
-                                            "width": "150px",
-                                            "height": "150px",
-                                            "backgroundColor": "#1a1a1a",
-                                            "border": "1px solid #2a2a2a"
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "gap": "8px"
                                           },
                                           "children": [
                                             {
-                                              "id": "html-zx7V_d9WIadYyrsEDur2l",
+                                              "id": "el-1772142463851-5-nput",
                                               "type": "html",
-                                              "tag": "span",
-                                              "props": {
-                                                "className": "text-xl text-muted-foreground"
+                                              "tag": "div",
+                                              "styles": {
+                                                "width": "80px",
+                                                "height": "60px",
+                                                "background": "linear-gradient(135deg, #3b82f6, #1d4ed8)",
+                                                "borderRadius": "8px",
+                                                "display": "flex",
+                                                "alignItems": "center",
+                                                "justifyContent": "center",
+                                                "boxShadow": "0 0 20px rgba(59, 130, 246, 0.3)"
                                               },
                                               "children": [
                                                 {
-                                                  "id": "text-R3biSwgioalMfgmmNX1Gm",
-                                                  "type": "text",
+                                                  "id": "el-1772142463851-6-suwr",
+                                                  "type": "html",
                                                   "tag": "span",
-                                                  "text": "8x GPUs"
+                                                  "styles": {
+                                                    "color": "white",
+                                                    "fontSize": "12px",
+                                                    "fontWeight": "600"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "id": "el-1772142463851-7-d5go",
+                                                      "type": "text",
+                                                      "tag": "span",
+                                                      "text": "GPU"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "id": "el-1772142463851-8-dg2n",
+                                              "type": "html",
+                                              "tag": "div",
+                                              "styles": {
+                                                "width": "80px",
+                                                "height": "60px",
+                                                "background": "linear-gradient(135deg, #3b82f6, #1d4ed8)",
+                                                "borderRadius": "8px",
+                                                "display": "flex",
+                                                "alignItems": "center",
+                                                "justifyContent": "center",
+                                                "boxShadow": "0 0 20px rgba(59, 130, 246, 0.3)"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-9-oj72",
+                                                  "type": "html",
+                                                  "tag": "span",
+                                                  "styles": {
+                                                    "color": "white",
+                                                    "fontSize": "12px",
+                                                    "fontWeight": "600"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "id": "el-1772142463851-10-ky82",
+                                                      "type": "text",
+                                                      "tag": "span",
+                                                      "text": "GPU"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "id": "el-1772142463851-11-nh3u",
+                                              "type": "html",
+                                              "tag": "div",
+                                              "styles": {
+                                                "width": "80px",
+                                                "height": "60px",
+                                                "background": "linear-gradient(135deg, #3b82f6, #1d4ed8)",
+                                                "borderRadius": "8px",
+                                                "display": "flex",
+                                                "alignItems": "center",
+                                                "justifyContent": "center",
+                                                "boxShadow": "0 0 20px rgba(59, 130, 246, 0.3)"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-12-mwge",
+                                                  "type": "html",
+                                                  "tag": "span",
+                                                  "styles": {
+                                                    "color": "white",
+                                                    "fontSize": "12px",
+                                                    "fontWeight": "600"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "id": "el-1772142463851-13-lkpa",
+                                                      "type": "text",
+                                                      "tag": "span",
+                                                      "text": "GPU"
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
                                           ]
-                                        },
-                                        {
-                                          "id": "html-25fMpMoSp5UvJRGfThBpx",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": "bg-gradient-to-b from-[#41353a] to-[#ff6aa7]"
-                                          },
-                                          "styles": {
-                                            "width": "2px",
-                                            "height": "40px"
-                                          },
-                                          "children": []
                                         }
                                       ]
                                     },
                                     {
-                                      "id": "html-aG43G_v_AhYcinqQvKFnW",
+                                      "id": "el-1772142463851-14-a4tk",
                                       "type": "html",
                                       "tag": "div",
                                       "styles": {
+                                        "flex": "1",
+                                        "position": "relative",
+                                        "height": "100%",
                                         "display": "flex",
-                                        "flexDirection": "column",
-                                        "gap": "",
-                                        "justifyContent": "flex-start",
                                         "alignItems": "center"
                                       },
                                       "children": [
                                         {
-                                          "id": "html-za516zD3Ob92u7rsI6wSX",
+                                          "id": "el-1772142463851-15-fxjp",
                                           "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": "relative rounded-xl flex items-center justify-center bg-gradient-to-tr shadow-xl from-[#101013] to-[#181820]"
-                                          },
+                                          "tag": "svg",
                                           "styles": {
-                                            "width": "150px",
-                                            "height": "150px",
-                                            "backgroundColor": "#1a1a1a",
-                                            "border": "1px solid #2a2a2a"
+                                            "width": "100%",
+                                            "height": "200px",
+                                            "position": "absolute"
                                           },
                                           "children": [
                                             {
-                                              "id": "html-xy7sluVlmGT2bLQksoEse",
+                                              "id": "el-1772142463851-16-n6mh",
                                               "type": "html",
-                                              "tag": "span",
-                                              "props": {
-                                                "className": "text-xl text-muted-foreground"
-                                              },
+                                              "tag": "defs",
                                               "children": [
                                                 {
-                                                  "id": "text-uECCv_uCOJLELkzLnVMed",
-                                                  "type": "text",
-                                                  "tag": "span",
-                                                  "text": "8x GPUs"
+                                                  "id": "lineGrad",
+                                                  "type": "html",
+                                                  "tag": "lineargradient",
+                                                  "props": {
+                                                    "x1": "0%",
+                                                    "y1": "0%",
+                                                    "x2": "100%",
+                                                    "y2": "0%"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "id": "el-1772142463851-17-jigy",
+                                                      "type": "html",
+                                                      "tag": "stop",
+                                                      "props": {
+                                                        "offset": "0%",
+                                                        "stopColor": "#3b82f6",
+                                                        "stopOpacity": "0.6"
+                                                      }
+                                                    },
+                                                    {
+                                                      "id": "el-1772142463851-18-w1oi",
+                                                      "type": "html",
+                                                      "tag": "stop",
+                                                      "props": {
+                                                        "offset": "100%",
+                                                        "stopColor": "#3b82f6",
+                                                        "stopOpacity": "0.2"
+                                                      }
+                                                    }
+                                                  ]
                                                 }
                                               ]
+                                            },
+                                            {
+                                              "id": "el-1772142463851-19-vby8",
+                                              "type": "html",
+                                              "tag": "path",
+                                              "props": {
+                                                "d": "M 0 100 Q 150 50 300 40",
+                                                "stroke": "url(#lineGrad)",
+                                                "strokeWidth": "2",
+                                                "fill": "none"
+                                              }
+                                            },
+                                            {
+                                              "id": "el-1772142463851-20-ambd",
+                                              "type": "html",
+                                              "tag": "path",
+                                              "props": {
+                                                "d": "M 0 100 Q 150 100 300 100",
+                                                "stroke": "url(#lineGrad)",
+                                                "strokeWidth": "2",
+                                                "fill": "none"
+                                              }
+                                            },
+                                            {
+                                              "id": "el-1772142463851-21-5vtl",
+                                              "type": "html",
+                                              "tag": "path",
+                                              "props": {
+                                                "d": "M 0 100 Q 150 150 300 160",
+                                                "stroke": "url(#lineGrad)",
+                                                "strokeWidth": "2",
+                                                "fill": "none"
+                                              }
                                             }
                                           ]
                                         },
                                         {
-                                          "id": "html-YnGpAeW-gzu4VFUcNBxKk",
+                                          "id": "el-1772142463851-22-69sz",
                                           "type": "html",
                                           "tag": "div",
-                                          "props": {
-                                            "className": "bg-gradient-to-b from-[#41353a] to-[#ff6aa7]"
-                                          },
                                           "styles": {
-                                            "width": "2px",
-                                            "height": "60px",
-                                            "backgroundColor": "#ff6aa7"
+                                            "position": "absolute",
+                                            "left": "50%",
+                                            "top": "50%",
+                                            "transform": "translate(-50%, -50%)",
+                                            "background": "rgba(59, 130, 246, 0.1)",
+                                            "border": "1px solid rgba(59, 130, 246, 0.3)",
+                                            "borderRadius": "8px",
+                                            "padding": "16px 24px"
                                           },
-                                          "children": []
+                                          "children": [
+                                            {
+                                              "id": "el-1772142463851-23-3xll",
+                                              "type": "html",
+                                              "tag": "span",
+                                              "styles": {
+                                                "color": "#3b82f6",
+                                                "fontSize": "14px",
+                                                "fontWeight": "500"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-24-6rgb",
+                                                  "type": "text",
+                                                  "tag": "span",
+                                                  "text": "API Gateway"
+                                                }
+                                              ]
+                                            }
+                                          ]
                                         }
                                       ]
                                     },
                                     {
-                                      "id": "html-ynrlnq-YRY1m1cDQ3HjjG",
+                                      "id": "el-1772142463851-25-vrnp",
                                       "type": "html",
                                       "tag": "div",
                                       "styles": {
+                                        "flex": "0 0 auto",
                                         "display": "flex",
                                         "flexDirection": "column",
-                                        "gap": "",
-                                        "justifyContent": "flex-start",
-                                        "alignItems": "center"
+                                        "gap": "16px",
+                                        "alignItems": "flex-end"
                                       },
                                       "children": [
                                         {
-                                          "id": "html-Cueamz1CXaBbJPMTATvQq",
+                                          "id": "el-1772142463851-26-7zli",
                                           "type": "html",
                                           "tag": "div",
-                                          "props": {
-                                            "className": "relative rounded-xl flex items-center justify-center bg-gradient-to-tr shadow-xl from-[#101013] to-[#181820]"
-                                          },
                                           "styles": {
-                                            "width": "150px",
-                                            "height": "150px",
-                                            "backgroundColor": "#1a1a1a",
-                                            "border": "1px solid #2a2a2a"
+                                            "display": "flex",
+                                            "alignItems": "center",
+                                            "gap": "8px"
                                           },
                                           "children": [
                                             {
-                                              "id": "html-sTj0R_M04-GqwIEtRNlmq",
+                                              "id": "el-1772142463851-27-ue1l",
                                               "type": "html",
-                                              "tag": "span",
-                                              "props": {
-                                                "className": "text-xl text-muted-foreground"
+                                              "tag": "div",
+                                              "styles": {
+                                                "width": "32px",
+                                                "height": "32px",
+                                                "borderRadius": "50%",
+                                                "background": "rgba(59, 130, 246, 0.2)",
+                                                "border": "1px solid rgba(59, 130, 246, 0.3)",
+                                                "display": "flex",
+                                                "alignItems": "center",
+                                                "justifyContent": "center"
                                               },
                                               "children": [
                                                 {
-                                                  "id": "text-_9zxQwscooVwVOMm7iD9f",
+                                                  "id": "el-1772142463851-28-0dh3",
+                                                  "type": "icon",
+                                                  "library": "lucide-react",
+                                                  "iconName": "User",
+                                                  "props": {},
+                                                  "styles": {
+                                                    "className": "w-4 h-4 text-blue-500"
+                                                  }
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "id": "el-1772142463851-29-69mg",
+                                              "type": "html",
+                                              "tag": "span",
+                                              "styles": {
+                                                "color": "#a1a1aa",
+                                                "fontSize": "12px"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-30-n1sl",
                                                   "type": "text",
                                                   "tag": "span",
-                                                  "text": "8x GPUs"
+                                                  "text": "10K req/s"
                                                 }
                                               ]
                                             }
                                           ]
                                         },
                                         {
-                                          "id": "html-Pe4g5XUgDJEkm7NiK2DY6",
+                                          "id": "el-1772142463851-31-h3uw",
                                           "type": "html",
                                           "tag": "div",
-                                          "props": {
-                                            "className": "bg-gradient-to-b from-[#41353a] to-[#ff6aa7]"
-                                          },
                                           "styles": {
-                                            "width": "2px",
-                                            "height": "40px"
+                                            "display": "flex",
+                                            "alignItems": "center",
+                                            "gap": "8px"
                                           },
-                                          "children": []
+                                          "children": [
+                                            {
+                                              "id": "el-1772142463851-32-uwu2",
+                                              "type": "html",
+                                              "tag": "div",
+                                              "styles": {
+                                                "width": "32px",
+                                                "height": "32px",
+                                                "borderRadius": "50%",
+                                                "background": "rgba(59, 130, 246, 0.2)",
+                                                "border": "1px solid rgba(59, 130, 246, 0.3)",
+                                                "display": "flex",
+                                                "alignItems": "center",
+                                                "justifyContent": "center"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-33-6ogq",
+                                                  "type": "icon",
+                                                  "library": "lucide-react",
+                                                  "iconName": "Users",
+                                                  "props": {},
+                                                  "styles": {
+                                                    "className": "w-4 h-4 text-blue-500"
+                                                  }
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "id": "el-1772142463851-34-e2oj",
+                                              "type": "html",
+                                              "tag": "span",
+                                              "styles": {
+                                                "color": "#a1a1aa",
+                                                "fontSize": "12px"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-35-y8s6",
+                                                  "type": "text",
+                                                  "tag": "span",
+                                                  "text": "50K req/s"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": "el-1772142463851-36-6tln",
+                                          "type": "html",
+                                          "tag": "div",
+                                          "styles": {
+                                            "display": "flex",
+                                            "alignItems": "center",
+                                            "gap": "8px"
+                                          },
+                                          "children": [
+                                            {
+                                              "id": "el-1772142463851-37-qzyo",
+                                              "type": "html",
+                                              "tag": "div",
+                                              "styles": {
+                                                "width": "32px",
+                                                "height": "32px",
+                                                "borderRadius": "50%",
+                                                "background": "rgba(59, 130, 246, 0.2)",
+                                                "border": "1px solid rgba(59, 130, 246, 0.3)",
+                                                "display": "flex",
+                                                "alignItems": "center",
+                                                "justifyContent": "center"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-38-z5ci",
+                                                  "type": "icon",
+                                                  "library": "lucide-react",
+                                                  "iconName": "Building2",
+                                                  "props": {},
+                                                  "styles": {
+                                                    "className": "w-4 h-4 text-blue-500"
+                                                  }
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "id": "el-1772142463851-39-72ny",
+                                              "type": "html",
+                                              "tag": "span",
+                                              "styles": {
+                                                "color": "#a1a1aa",
+                                                "fontSize": "12px"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-40-xmun",
+                                                  "type": "text",
+                                                  "tag": "span",
+                                                  "text": "Enterprise"
+                                                }
+                                              ]
+                                            }
+                                          ]
                                         }
                                       ]
                                     }
                                   ]
                                 },
                                 {
-                                  "id": "html-51NGayve8MdGzCepoD8K7",
+                                  "id": "el-1772142463851-41-c9jd",
                                   "type": "html",
                                   "tag": "div",
-                                  "props": {
-                                    "className": "relative flex items-center justify-center shadow-xl rounded-b-xl border-t-0 border-2 border-[#ff6aa7] -mt-[21px]"
-                                  },
                                   "styles": {
-                                    "width": "350px",
-                                    "height": "20px"
-                                  },
-                                  "children": []
-                                },
-                                {
-                                  "id": "html-kudeOZ42AFRMm0d19Zsgu",
-                                  "type": "html",
-                                  "tag": "div",
-                                  "props": {
-                                    "className": "bg-gradient-to-b from-[#ff6aa7]"
-                                  },
-                                  "styles": {
-                                    "width": "2px",
-                                    "height": "30px"
-                                  },
-                                  "children": []
-                                },
-                                {
-                                  "id": "html-Gt4jccQDDzekIyfvjZGOx",
-                                  "type": "html",
-                                  "tag": "div",
-                                  "props": {
-                                    "className": "relative rounded-xl font-mono text-sm leading-relaxed bg-gradient-to-tr shadow-xl from-[#101013] to-[#181820]"
-                                  },
-                                  "styles": {
-                                    "padding": "24px",
-                                    "backgroundColor": "#181820",
-                                    "border": "1px solid #2a2a2a",
-                                    "width": "100%"
+                                    "position": "absolute",
+                                    "bottom": "24px",
+                                    "left": "32px",
+                                    "right": "32px",
+                                    "display": "flex",
+                                    "justifyContent": "space-between",
+                                    "alignItems": "center"
                                   },
                                   "children": [
                                     {
-                                      "id": "html-0OYsdUDS7aKiGyKzHe3gZ",
+                                      "id": "el-1772142463851-42-b52u",
                                       "type": "html",
                                       "tag": "div",
-                                      "props": {
-                                        "className": "space-y-1"
+                                      "styles": {
+                                        "display": "flex",
+                                        "gap": "24px"
                                       },
                                       "children": [
                                         {
-                                          "id": "html-sBAL_PG70fedG-WZglLwM",
+                                          "id": "el-1772142463851-43-4csd",
                                           "type": "html",
                                           "tag": "div",
-                                          "props": {
-                                            "className": "flex items-center gap-3"
-                                          },
                                           "children": [
                                             {
-                                              "id": "html-3dhCwVYQmFQVlfOTwdt4e",
+                                              "id": "el-1772142463851-44-f35l",
                                               "type": "html",
-                                              "tag": "span",
-                                              "props": {
-                                                "className": "flex-1 text-pink-400"
+                                              "tag": "div",
+                                              "styles": {
+                                                "fontSize": "24px",
+                                                "fontWeight": "600",
+                                                "color": "#3b82f6"
                                               },
                                               "children": [
                                                 {
-                                                  "id": "text-WH9h_kUjSQ1KJzfHnk2D6",
+                                                  "id": "el-1772142463851-45-9kza",
                                                   "type": "text",
                                                   "tag": "span",
-                                                  "text": "llama-70b-serve"
-                                                },
-                                                {
-                                                  "id": "text-BZJvjaqddJ46Hg2R8dKav",
-                                                  "type": "text",
-                                                  "tag": "span",
-                                                  "text": " "
+                                                  "text": "99.9%"
                                                 }
                                               ]
                                             },
                                             {
-                                              "id": "component-l_88MMqTcrKUsDxa5SCNv",
-                                              "type": "component",
-                                              "componentName": "Badge",
-                                              "props": {
-                                                "variant": "outline",
-                                                "className": ""
+                                              "id": "el-1772142463851-46-t7oa",
+                                              "type": "html",
+                                              "tag": "div",
+                                              "styles": {
+                                                "fontSize": "12px",
+                                                "color": "#71717a"
                                               },
-                                              "styles": {},
                                               "children": [
                                                 {
-                                                  "id": "html-mz3Bsswx8bF7N1ZHLndc0",
-                                                  "type": "html",
-                                                  "tag": "span",
-                                                  "props": {
-                                                    "className": "text-emerald-400"
-                                                  },
-                                                  "children": [
-                                                    {
-                                                      "id": "text-1SBbP6S4RwvU_eExaWwwa",
-                                                      "type": "text",
-                                                      "tag": "span",
-                                                      "text": "●"
-                                                    }
-                                                  ]
-                                                },
-                                                {
-                                                  "id": "text-A67kDuknLMJi_jx2b_IIS",
+                                                  "id": "el-1772142463851-47-n3r3",
                                                   "type": "text",
                                                   "tag": "span",
-                                                  "text": "Live",
-                                                  "styles": {}
+                                                  "text": "Uptime SLA"
                                                 }
                                               ]
                                             }
                                           ]
                                         },
                                         {
-                                          "id": "html-avkTrmMuIymkWvg7C8dhj",
+                                          "id": "el-1772142463851-48-03nd",
                                           "type": "html",
                                           "tag": "div",
-                                          "props": {
-                                            "className": ""
-                                          },
                                           "children": [
                                             {
-                                              "id": "text-tdY9tUH-1SjkOIq3m1oZb",
-                                              "type": "text",
-                                              "tag": "span",
-                                              "text": "Replicas: 3 → 5 (autoscaling)"
+                                              "id": "el-1772142463851-49-1un2",
+                                              "type": "html",
+                                              "tag": "div",
+                                              "styles": {
+                                                "fontSize": "24px",
+                                                "fontWeight": "600",
+                                                "color": "#3b82f6"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-50-3pcs",
+                                                  "type": "text",
+                                                  "tag": "span",
+                                                  "text": "<50ms"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "id": "el-1772142463851-51-abig",
+                                              "type": "html",
+                                              "tag": "div",
+                                              "styles": {
+                                                "fontSize": "12px",
+                                                "color": "#71717a"
+                                              },
+                                              "children": [
+                                                {
+                                                  "id": "el-1772142463851-52-8eul",
+                                                  "type": "text",
+                                                  "tag": "span",
+                                                  "text": "P95 Latency"
+                                                }
+                                              ]
                                             }
                                           ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "el-1772142463851-53-cq52",
+                                      "type": "html",
+                                      "tag": "div",
+                                      "styles": {
+                                        "fontSize": "12px",
+                                        "color": "#52525b",
+                                        "display": "flex",
+                                        "alignItems": "center",
+                                        "gap": "4px"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "el-1772142463851-54-pkop",
+                                          "type": "icon",
+                                          "library": "lucide-react",
+                                          "iconName": "Zap",
+                                          "props": {},
+                                          "styles": {
+                                            "className": "w-3 h-3"
+                                          }
                                         },
                                         {
-                                          "id": "html-9Eg936aC5I-ls108AbnHe",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": ""
-                                          },
-                                          "children": [
-                                            {
-                                              "id": "text-zK42mqu2OfiPu9-g9nXCA",
-                                              "type": "text",
-                                              "tag": "span",
-                                              "text": "Latency: 42ms  |  1.2K req/sec"
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "html-FigTb-ZCiek58A09R_FZW",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": ""
-                                          },
-                                          "children": [
-                                            {
-                                              "id": "text-PMMG4sqzTe5xw8B4mC57F",
-                                              "type": "text",
-                                              "tag": "span",
-                                              "text": "Health: All nodes passing"
-                                            }
-                                          ]
+                                          "id": "el-1772142463851-55-khyu",
+                                          "type": "text",
+                                          "tag": "span",
+                                          "text": "Auto-scaling enabled"
                                         }
                                       ]
                                     }
                                   ]
                                 }
-                              ]
+                              ],
+                              "canvasPosition": {
+                                "x": 120,
+                                "y": 120
+                              }
                             }
                           ]
                         }
@@ -4295,7 +4578,7 @@
       }
     }
   ],
-  "zoom": 0.3963382775455608,
+  "zoom": 1.0998959956521546,
   "createdAt": "2026-02-20T01:24:35.105Z",
-  "updatedAt": "2026-02-28T05:53:28.291Z"
+  "updatedAt": "2026-02-26T21:47:45.164Z"
 }

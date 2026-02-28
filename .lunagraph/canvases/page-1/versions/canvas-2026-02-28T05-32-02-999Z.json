@@ -2839,9 +2839,9 @@
             "justifyContent": "flex-start",
             "alignItems": "center",
             "position": "relative",
-            "paddingTop": "128px",
+            "paddingTop": "64px",
             "paddingRight": "16px",
-            "paddingBottom": "128px",
+            "paddingBottom": "64px",
             "paddingLeft": "16px"
           },
           "children": [
@@ -3105,375 +3105,23 @@
                           },
                           "children": [
                             {
-                              "id": "html-uzqD7mMIFQ7K0v2PVpw6O",
+                              "id": "html-C8f-UrveLxC1FuYILC8s1",
                               "type": "html",
-                              "tag": "div",
-                              "styles": {
-                                "display": "flex",
-                                "flexDirection": "column",
-                                "gap": "-1px",
-                                "justifyContent": "center",
-                                "alignItems": "center"
+                              "tag": "img",
+                              "props": {
+                                "src": "/.lunagraph-assets/1772145371873-8c06bafd.png",
+                                "alt": "Image"
                               },
-                              "children": [
-                                {
-                                  "id": "html-I7-sYCca_NHlZdIauf7mW",
-                                  "type": "html",
-                                  "tag": "div",
-                                  "styles": {
-                                    "display": "flex",
-                                    "flexDirection": "row",
-                                    "gap": "24px"
-                                  },
-                                  "children": [
-                                    {
-                                      "id": "html-GO9IbW-G8mBFYH6CWjL4T",
-                                      "type": "html",
-                                      "tag": "div",
-                                      "styles": {
-                                        "display": "flex",
-                                        "flexDirection": "column",
-                                        "gap": "",
-                                        "justifyContent": "flex-start",
-                                        "alignItems": "center"
-                                      },
-                                      "children": [
-                                        {
-                                          "id": "html-V53Dz_uAOQEbWbgQu6rZ8",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": "relative rounded-xl flex items-center justify-center bg-gradient-to-tr shadow-xl from-[#101013] to-[#181820]"
-                                          },
-                                          "styles": {
-                                            "width": "150px",
-                                            "height": "150px",
-                                            "backgroundColor": "#1a1a1a",
-                                            "border": "1px solid #2a2a2a"
-                                          },
-                                          "children": [
-                                            {
-                                              "id": "html-zx7V_d9WIadYyrsEDur2l",
-                                              "type": "html",
-                                              "tag": "span",
-                                              "props": {
-                                                "className": "text-xl text-muted-foreground"
-                                              },
-                                              "children": [
-                                                {
-                                                  "id": "text-R3biSwgioalMfgmmNX1Gm",
-                                                  "type": "text",
-                                                  "tag": "span",
-                                                  "text": "8x GPUs"
-                                                }
-                                              ]
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "html-25fMpMoSp5UvJRGfThBpx",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": "bg-gradient-to-b from-[#41353a] to-[#ff6aa7]"
-                                          },
-                                          "styles": {
-                                            "width": "2px",
-                                            "height": "40px"
-                                          },
-                                          "children": []
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "id": "html-aG43G_v_AhYcinqQvKFnW",
-                                      "type": "html",
-                                      "tag": "div",
-                                      "styles": {
-                                        "display": "flex",
-                                        "flexDirection": "column",
-                                        "gap": "",
-                                        "justifyContent": "flex-start",
-                                        "alignItems": "center"
-                                      },
-                                      "children": [
-                                        {
-                                          "id": "html-za516zD3Ob92u7rsI6wSX",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": "relative rounded-xl flex items-center justify-center bg-gradient-to-tr shadow-xl from-[#101013] to-[#181820]"
-                                          },
-                                          "styles": {
-                                            "width": "150px",
-                                            "height": "150px",
-                                            "backgroundColor": "#1a1a1a",
-                                            "border": "1px solid #2a2a2a"
-                                          },
-                                          "children": [
-                                            {
-                                              "id": "html-xy7sluVlmGT2bLQksoEse",
-                                              "type": "html",
-                                              "tag": "span",
-                                              "props": {
-                                                "className": "text-xl text-muted-foreground"
-                                              },
-                                              "children": [
-                                                {
-                                                  "id": "text-uECCv_uCOJLELkzLnVMed",
-                                                  "type": "text",
-                                                  "tag": "span",
-                                                  "text": "8x GPUs"
-                                                }
-                                              ]
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "html-YnGpAeW-gzu4VFUcNBxKk",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": "bg-gradient-to-b from-[#41353a] to-[#ff6aa7]"
-                                          },
-                                          "styles": {
-                                            "width": "2px",
-                                            "height": "60px",
-                                            "backgroundColor": "#ff6aa7"
-                                          },
-                                          "children": []
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "id": "html-ynrlnq-YRY1m1cDQ3HjjG",
-                                      "type": "html",
-                                      "tag": "div",
-                                      "styles": {
-                                        "display": "flex",
-                                        "flexDirection": "column",
-                                        "gap": "",
-                                        "justifyContent": "flex-start",
-                                        "alignItems": "center"
-                                      },
-                                      "children": [
-                                        {
-                                          "id": "html-Cueamz1CXaBbJPMTATvQq",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": "relative rounded-xl flex items-center justify-center bg-gradient-to-tr shadow-xl from-[#101013] to-[#181820]"
-                                          },
-                                          "styles": {
-                                            "width": "150px",
-                                            "height": "150px",
-                                            "backgroundColor": "#1a1a1a",
-                                            "border": "1px solid #2a2a2a"
-                                          },
-                                          "children": [
-                                            {
-                                              "id": "html-sTj0R_M04-GqwIEtRNlmq",
-                                              "type": "html",
-                                              "tag": "span",
-                                              "props": {
-                                                "className": "text-xl text-muted-foreground"
-                                              },
-                                              "children": [
-                                                {
-                                                  "id": "text-_9zxQwscooVwVOMm7iD9f",
-                                                  "type": "text",
-                                                  "tag": "span",
-                                                  "text": "8x GPUs"
-                                                }
-                                              ]
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "html-Pe4g5XUgDJEkm7NiK2DY6",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": "bg-gradient-to-b from-[#41353a] to-[#ff6aa7]"
-                                          },
-                                          "styles": {
-                                            "width": "2px",
-                                            "height": "40px"
-                                          },
-                                          "children": []
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "id": "html-51NGayve8MdGzCepoD8K7",
-                                  "type": "html",
-                                  "tag": "div",
-                                  "props": {
-                                    "className": "relative flex items-center justify-center shadow-xl rounded-b-xl border-t-0 border-2 border-[#ff6aa7] -mt-[21px]"
-                                  },
-                                  "styles": {
-                                    "width": "350px",
-                                    "height": "20px"
-                                  },
-                                  "children": []
-                                },
-                                {
-                                  "id": "html-kudeOZ42AFRMm0d19Zsgu",
-                                  "type": "html",
-                                  "tag": "div",
-                                  "props": {
-                                    "className": "bg-gradient-to-b from-[#ff6aa7]"
-                                  },
-                                  "styles": {
-                                    "width": "2px",
-                                    "height": "30px"
-                                  },
-                                  "children": []
-                                },
-                                {
-                                  "id": "html-Gt4jccQDDzekIyfvjZGOx",
-                                  "type": "html",
-                                  "tag": "div",
-                                  "props": {
-                                    "className": "relative rounded-xl font-mono text-sm leading-relaxed bg-gradient-to-tr shadow-xl from-[#101013] to-[#181820]"
-                                  },
-                                  "styles": {
-                                    "padding": "24px",
-                                    "backgroundColor": "#181820",
-                                    "border": "1px solid #2a2a2a",
-                                    "width": "100%"
-                                  },
-                                  "children": [
-                                    {
-                                      "id": "html-0OYsdUDS7aKiGyKzHe3gZ",
-                                      "type": "html",
-                                      "tag": "div",
-                                      "props": {
-                                        "className": "space-y-1"
-                                      },
-                                      "children": [
-                                        {
-                                          "id": "html-sBAL_PG70fedG-WZglLwM",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": "flex items-center gap-3"
-                                          },
-                                          "children": [
-                                            {
-                                              "id": "html-3dhCwVYQmFQVlfOTwdt4e",
-                                              "type": "html",
-                                              "tag": "span",
-                                              "props": {
-                                                "className": "flex-1 text-pink-400"
-                                              },
-                                              "children": [
-                                                {
-                                                  "id": "text-WH9h_kUjSQ1KJzfHnk2D6",
-                                                  "type": "text",
-                                                  "tag": "span",
-                                                  "text": "llama-70b-serve"
-                                                },
-                                                {
-                                                  "id": "text-BZJvjaqddJ46Hg2R8dKav",
-                                                  "type": "text",
-                                                  "tag": "span",
-                                                  "text": " "
-                                                }
-                                              ]
-                                            },
-                                            {
-                                              "id": "component-l_88MMqTcrKUsDxa5SCNv",
-                                              "type": "component",
-                                              "componentName": "Badge",
-                                              "props": {
-                                                "variant": "outline",
-                                                "className": ""
-                                              },
-                                              "styles": {},
-                                              "children": [
-                                                {
-                                                  "id": "html-mz3Bsswx8bF7N1ZHLndc0",
-                                                  "type": "html",
-                                                  "tag": "span",
-                                                  "props": {
-                                                    "className": "text-emerald-400"
-                                                  },
-                                                  "children": [
-                                                    {
-                                                      "id": "text-1SBbP6S4RwvU_eExaWwwa",
-                                                      "type": "text",
-                                                      "tag": "span",
-                                                      "text": "●"
-                                                    }
-                                                  ]
-                                                },
-                                                {
-                                                  "id": "text-A67kDuknLMJi_jx2b_IIS",
-                                                  "type": "text",
-                                                  "tag": "span",
-                                                  "text": "Live",
-                                                  "styles": {}
-                                                }
-                                              ]
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "html-avkTrmMuIymkWvg7C8dhj",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": ""
-                                          },
-                                          "children": [
-                                            {
-                                              "id": "text-tdY9tUH-1SjkOIq3m1oZb",
-                                              "type": "text",
-                                              "tag": "span",
-                                              "text": "Replicas: 3 → 5 (autoscaling)"
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "html-9Eg936aC5I-ls108AbnHe",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": ""
-                                          },
-                                          "children": [
-                                            {
-                                              "id": "text-zK42mqu2OfiPu9-g9nXCA",
-                                              "type": "text",
-                                              "tag": "span",
-                                              "text": "Latency: 42ms  |  1.2K req/sec"
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "html-FigTb-ZCiek58A09R_FZW",
-                                          "type": "html",
-                                          "tag": "div",
-                                          "props": {
-                                            "className": ""
-                                          },
-                                          "children": [
-                                            {
-                                              "id": "text-PMMG4sqzTe5xw8B4mC57F",
-                                              "type": "text",
-                                              "tag": "span",
-                                              "text": "Health: All nodes passing"
-                                            }
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
+                              "styles": {
+                                "width": 400,
+                                "objectFit": "cover",
+                                "display": "block"
+                              },
+                              "canvasPosition": {
+                                "x": 120,
+                                "y": 120
+                              },
+                              "children": []
                             }
                           ]
                         }
@@ -4293,9 +3941,101 @@
       "props": {
         "className": "bg-background"
       }
+    },
+    {
+      "id": "component-Heeb3ZOtfRbPcuIZ7eBI-",
+      "type": "component",
+      "componentName": "GPUClusterCards",
+      "canvasPosition": {
+        "x": 4179.412029075323,
+        "y": 2309.981703179472
+      },
+      "children": []
+    },
+    {
+      "id": "html-iJAVyTZM9grQ7t4XOM1Sk",
+      "type": "html",
+      "tag": "div",
+      "styles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gap": 8,
+        "width": "1500px",
+        "height": "500px",
+        "justifyContent": "center",
+        "alignItems": "center"
+      },
+      "children": [
+        {
+          "id": "html-s5FEa-VHRABqW_PeRvEIT",
+          "type": "html",
+          "tag": "div",
+          "styles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "",
+            "justifyContent": "flex-start",
+            "alignItems": "center"
+          },
+          "children": [
+            {
+              "id": "html-jRBusJt2AUylMhq-4i_RS",
+              "type": "html",
+              "tag": "div",
+              "props": {
+                "className": "relative rounded-xl flex items-center justify-center bg-gradient-to-tr from-gray-950 to-gray-900 shadow-xl"
+              },
+              "styles": {
+                "width": "150px",
+                "height": "150px",
+                "backgroundColor": "#1a1a1a",
+                "border": "1px solid #2a2a2a"
+              },
+              "children": [
+                {
+                  "id": "html-mLRPFE4QKQ9IQTySy1VqX",
+                  "type": "html",
+                  "tag": "span",
+                  "props": {
+                    "className": "text-xl text-muted-foreground"
+                  },
+                  "children": [
+                    {
+                      "id": "text-nt-zfKUioQqWaIHZL5VQu",
+                      "type": "text",
+                      "tag": "span",
+                      "text": "8x GPUs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "html-N6fstpEtW67B4DESvpzMa",
+              "type": "html",
+              "tag": "div",
+              "props": {
+                "className": ""
+              },
+              "styles": {
+                "width": "2px",
+                "height": "40px",
+                "background": "#facc15"
+              }
+            }
+          ]
+        }
+      ],
+      "canvasPosition": {
+        "x": 3021.373084265605,
+        "y": 4024.8996499248224
+      },
+      "props": {
+        "className": "bg-background"
+      }
     }
   ],
-  "zoom": 0.3963382775455608,
+  "zoom": 1.0266530474879334,
   "createdAt": "2026-02-20T01:24:35.105Z",
-  "updatedAt": "2026-02-28T05:53:28.291Z"
+  "updatedAt": "2026-02-28T05:31:55.643Z"
 }
