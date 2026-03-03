@@ -2700,5 +2700,13 @@
   "GPUClusterCards": {
     "path": "components/GPUClusterCards.tsx",
     "exportName": "default"
+  },
+  "RotatingSteps": {
+    "path": "components/RotatingSteps.tsx",
+    "exportName": "RotatingSteps"
+  },
+  "HowItWorksSection": {
+    "path": "components/HowItWorksSection.tsx",
+    "exportName": "HowItWorksSection"
   }
 }
