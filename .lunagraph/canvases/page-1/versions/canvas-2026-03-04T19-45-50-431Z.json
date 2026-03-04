@@ -1438,8 +1438,7 @@
                           "tag": "img",
                           "props": {
                             "src": "/.lunagraph-assets/1772653520749-ec871b48.png",
-                            "alt": "Image",
-                            "className": "shadow-2xl"
+                            "alt": "Image"
                           },
                           "styles": {
                             "width": 400,
@@ -1453,50 +1452,15 @@
                           "children": []
                         },
                         {
-                          "id": "html-lVgG65FpIF1W503P1-ZH6",
+                          "id": "html-9R0IcSq_NfQLUvhevZ1Zh",
                           "type": "html",
                           "tag": "div",
-                          "styles": {
-                            "display": "flex",
-                            "flexDirection": "column",
-                            "gap": 8,
-                            "width": "400px",
-                            "justifyContent": "center",
-                            "alignItems": "center"
-                          },
-                          "children": [
-                            {
-                              "id": "html-9R0IcSq_NfQLUvhevZ1Zh",
-                              "type": "html",
-                              "tag": "div",
-                              "props": {
-                                "className": "bg-gradient-to-t to-[#FFC165]"
-                              },
-                              "styles": {
-                                "width": "2px",
-                                "height": "30px"
-                              },
-                              "children": []
-                            }
-                          ]
-                        },
-                        {
-                          "id": "html-QKsNEKS2NpY0R6qDXS_7o",
-                          "type": "html",
-                          "tag": "img",
                           "props": {
-                            "src": "/.lunagraph-assets/1772653549366-46550393.png",
-                            "alt": "Image",
-                            "className": "shadow-2xl"
+                            "className": "bg-gradient-to-b from-[#ff6aa7]"
                           },
                           "styles": {
-                            "width": "598px",
-                            "objectFit": "cover",
-                            "display": "block"
-                          },
-                          "canvasPosition": {
-                            "x": 120,
-                            "y": 120
+                            "width": "2px",
+                            "height": "30px"
                           },
                           "children": []
                         }
@@ -1504,9 +1468,7 @@
                       "styles": {
                         "height": "auto",
                         "display": "flex",
-                        "flexDirection": "column",
-                        "justifyContent": "center",
-                        "alignItems": "flex-start"
+                        "flexDirection": "column"
                       }
                     }
                   ],
@@ -2496,14 +2458,14 @@
                     "fontFamily": "Geist, sans-serif",
                     "gridAutoColumns": "1fr",
                     "gridTemplateColumns": "640px 640px",
+                    "gridTemplateRows": "608.172px",
                     "lineHeight": "24px",
                     "minHeight": "auto",
                     "minWidth": "auto",
                     "objectPosition": "50% 50%",
                     "textDecorationColor": "rgb(250, 250, 250)",
                     "wordBreak": "normal",
-                    "wordSpacing": "0px",
-                    "height": "auto"
+                    "wordSpacing": "0px"
                   },
                   "children": [
                     {
@@ -2535,8 +2497,7 @@
                         "rowGap": "48px",
                         "textDecorationColor": "rgb(250, 250, 250)",
                         "wordBreak": "normal",
-                        "wordSpacing": "0px",
-                        "height": "auto"
+                        "wordSpacing": "0px"
                       },
                       "children": [
                         {
@@ -2717,12 +2678,7 @@
                         "rowGap": "48px",
                         "textDecorationColor": "rgb(250, 250, 250)",
                         "wordBreak": "normal",
-                        "wordSpacing": "0px",
-                        "height": "fit-content",
-                        "paddingRight": "",
-                        "paddingBottom": "64px",
-                        "justifyContent": "center",
-                        "alignItems": "center"
+                        "wordSpacing": "0px"
                       },
                       "children": [
                         {
@@ -2779,7 +2735,7 @@
                                   "id": "text-VRV2xrS4IldJFTCv12mG1",
                                   "type": "text",
                                   "tag": "span",
-                                  "text": "Built for zero downtime, engineered for scale"
+                                  "text": "Take control and get visibility across your AI infrastructure"
                                 }
                               ]
                             },
@@ -2811,88 +2767,66 @@
                                   "id": "text--leJsD2Jrxq5rlDKvbO89",
                                   "type": "text",
                                   "tag": "span",
-                                  "text": "Prevent costly GPU failures with comprehensive fault detection, automatic recovery, and direct cloud provider resolution"
+                                  "text": "Get real-time visibility into GPU usage and costs to make smarter infrastructure decisions"
                                 }
                               ]
                             }
                           ]
                         },
                         {
-                          "id": "html-iZUNeKIXCUJdkarx1CC9R",
+                          "id": "html-Qe_5iiDLpBliMYVnyLCe_",
                           "type": "html",
                           "tag": "div",
+                          "props": {
+                            "className": "reliability-cols-img_wrapper"
+                          },
                           "styles": {
-                            "alignItems": "center",
-                            "bottom": "0px",
                             "boxSizing": "border-box",
-                            "columnGap": "0px",
-                            "display": "flex",
-                            "flexDirection": "column",
-                            "justifyContent": "flex-start",
-                            "left": "0px",
-                            "position": "relative",
-                            "right": "0px",
-                            "rowGap": "0px",
-                            "top": "0px",
-                            "width": "100%",
-                            "marginTop": "",
-                            "marginRight": "64px",
-                            "marginBottom": "",
-                            "marginLeft": ""
+                            "clear": "none",
+                            "color": "rgb(250, 250, 250)",
+                            "display": "block",
+                            "float": "none",
+                            "fontFamily": "Geist, sans-serif",
+                            "lineHeight": "24px",
+                            "marginTop": "48px",
+                            "minHeight": "auto",
+                            "minWidth": "auto",
+                            "objectPosition": "50% 50%",
+                            "textDecorationColor": "rgb(250, 250, 250)",
+                            "wordBreak": "normal",
+                            "wordSpacing": "0px"
                           },
                           "children": [
                             {
-                              "id": "html-FjxMOoWtyrUgPXpwgG52Y",
+                              "id": "html-TefIp72yPgn6ZdgLPmdRR",
                               "type": "html",
                               "tag": "img",
                               "props": {
-                                "src": "/.lunagraph-assets/1772653737204-04aa60da.png",
-                                "alt": "Image",
-                                "className": "shadow-2xl"
+                                "src": "https://cdn.prod.website-files.com/674afcec6748393670f59db0/6750153abf0d601887c1a8e6_Group%2019.png",
+                                "alt": "",
+                                "className": "reliability-cols_image shadow-medium",
+                                "data-cmp-ab": "2",
+                                "data-cmp-info": "10"
                               },
                               "styles": {
-                                "width": 400,
-                                "objectFit": "cover",
-                                "display": "block"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
-                              },
-                              "children": []
-                            },
-                            {
-                              "id": "html-ZejmHOKGTuTZ7CnQmQjLu",
-                              "type": "html",
-                              "tag": "div",
-                              "styles": {
-                                "backgroundImage": "linear-gradient(rgb(255, 235, 206), rgb(255, 193, 101) 20%, rgb(25, 25, 30))",
+                                "boxShadow": "rgba(0, 0, 0, 0.08) 0px 12px 16px -4px, rgba(0, 0, 0, 0.03) 0px 4px 6px -2px",
                                 "boxSizing": "border-box",
-                                "height": "32px",
-                                "right": "50%",
-                                "top": "331.2px",
-                                "width": "2px",
-                                "zIndex": "0"
-                              },
-                              "children": []
-                            },
-                            {
-                              "id": "html-5PaouLgwNxJyLAk2E28Xw",
-                              "type": "html",
-                              "tag": "img",
-                              "props": {
-                                "src": "/.lunagraph-assets/1772653787451-7c3ddfb9.png",
-                                "alt": "Image",
-                                "className": "shadow-2xl"
-                              },
-                              "styles": {
-                                "width": 400,
-                                "objectFit": "cover",
-                                "display": "block"
-                              },
-                              "canvasPosition": {
-                                "x": 120,
-                                "y": 120
+                                "clear": "none",
+                                "color": "rgb(250, 250, 250)",
+                                "display": "inline-block",
+                                "float": "none",
+                                "fontFamily": "Geist, sans-serif",
+                                "height": "348.172px",
+                                "lineHeight": "24px",
+                                "maxWidth": "100%",
+                                "objectPosition": "50% 50%",
+                                "overflowX": "clip",
+                                "overflowY": "clip",
+                                "textDecorationColor": "rgb(250, 250, 250)",
+                                "verticalAlign": "middle",
+                                "width": "576px",
+                                "wordBreak": "normal",
+                                "wordSpacing": "0px"
                               },
                               "children": []
                             }
@@ -3417,11 +3351,14 @@
                                   "type": "html",
                                   "tag": "div",
                                   "props": {
-                                    "className": "relative rounded-xl text-sm leading-relaxed shadow-xl bg-gradient-to-tr from-[#101013] to-[#181820] border"
+                                    "className": "relative rounded-xl text-sm leading-relaxed shadow-xl"
                                   },
                                   "styles": {
                                     "padding": "24px",
-                                    "width": "100%"
+                                    "backgroundColor": "#181820",
+                                    "border": "1px solid #2a2a2a",
+                                    "width": "100%",
+                                    "fontFamily": "ui-monospace, SFMono-Regular, 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace"
                                   },
                                   "children": [
                                     {
@@ -6328,7 +6265,7 @@
                                                   "id": "text-80O-4i_CCnIyAfzQYtaPN",
                                                   "type": "text",
                                                   "tag": "span",
-                                                  "text": "Write your config file. "
+                                                  "text": "Write your config file."
                                                 },
                                                 {
                                                   "id": "html-a3WXLKlTWoqMfWOiUyTYz",
@@ -7217,7 +7154,7 @@
                                                   "id": "text-ETeRs23RD6h7VZbLvSgXV",
                                                   "type": "text",
                                                   "tag": "span",
-                                                  "text": "Deploy with one command. "
+                                                  "text": "Deploy with one command."
                                                 },
                                                 {
                                                   "id": "html-oJfqxKGh3V2KLkL2NcEyD",
@@ -8111,7 +8048,7 @@
                                                   "id": "text-vgRd-QBJbPa1O8tDOyfSm",
                                                   "type": "text",
                                                   "tag": "span",
-                                                  "text": "Watch it scale. "
+                                                  "text": "Watch it scale."
                                                 },
                                                 {
                                                   "id": "html-mtaBbLX-OhzojQH8xzwFA",
@@ -8765,9 +8702,9 @@
             "justifyContent": "flex-start",
             "alignItems": "center",
             "position": "relative",
-            "paddingTop": "",
+            "paddingTop": "128px",
             "paddingRight": "16px",
-            "paddingBottom": "",
+            "paddingBottom": "128px",
             "paddingLeft": "16px"
           },
           "children": [
@@ -8798,351 +8735,360 @@
               "children": []
             },
             {
-              "id": "html-uvYFrN5mJGwbkEPTDLZiq",
+              "id": "html-0Pwdzk3KpinheoAPQ0gNZ",
               "type": "html",
               "tag": "div",
-              "props": {
-                "className": "_2col-border-component"
-              },
               "styles": {
-                "borderBottomColor": "rgb(63, 63, 70)",
-                "borderBottomStyle": "solid",
-                "borderBottomWidth": "1px",
-                "borderTopColor": "rgb(63, 63, 70)",
-                "borderTopStyle": "solid",
-                "borderTopWidth": "1px",
+                "alignItems": "center",
                 "boxSizing": "border-box",
-                "clear": "none",
-                "color": "rgb(250, 250, 250)",
+                "columnGap": "48px",
                 "display": "grid",
-                "float": "none",
-                "fontFamily": "Geist, sans-serif",
                 "gridAutoColumns": "1fr",
-                "gridTemplateColumns": "640px 640px",
-                "lineHeight": "24px",
-                "minHeight": "auto",
-                "minWidth": "auto",
-                "objectPosition": "50% 50%",
-                "textDecorationColor": "rgb(250, 250, 250)",
-                "wordBreak": "normal",
-                "wordSpacing": "0px",
-                "height": "auto"
+                "gridTemplateColumns": "673.328px 538.672px",
+                "gridTemplateRows": "408px",
+                "justifyItems": "stretch",
+                "rowGap": "48px",
+                "zIndex": "1"
               },
               "children": [
                 {
-                  "id": "html-Fzn7_bLf9vKF-fsDo4Feb",
+                  "id": "html-mNuFaKxUfDjf7YS_hArK1",
                   "type": "html",
                   "tag": "div",
-                  "props": {
-                    "className": "col-card_content col-card_left"
-                  },
                   "styles": {
-                    "borderRightColor": "rgb(63, 63, 70)",
-                    "borderRightStyle": "solid",
-                    "borderRightWidth": "1px",
+                    "alignItems": "flex-start",
                     "boxSizing": "border-box",
-                    "clear": "none",
-                    "color": "rgb(250, 250, 250)",
-                    "columnGap": "48px",
+                    "columnGap": "16px",
                     "display": "flex",
                     "flexDirection": "column",
-                    "float": "none",
-                    "fontFamily": "Geist, sans-serif",
-                    "lineHeight": "24px",
-                    "minHeight": "auto",
-                    "minWidth": "auto",
-                    "objectPosition": "50% 50%",
-                    "paddingBottom": "64px",
-                    "paddingRight": "64px",
-                    "paddingTop": "64px",
-                    "rowGap": "48px",
-                    "textDecorationColor": "rgb(250, 250, 250)",
-                    "wordBreak": "normal",
-                    "wordSpacing": "0px",
-                    "height": "auto"
+                    "justifyContent": "flex-start",
+                    "rowGap": "16px"
                   },
                   "children": [
                     {
-                      "id": "html-SYxrfadFP3tW8VqY4q6gl",
+                      "id": "html-v10W6lSHwfcTTfgoSL9yU",
                       "type": "html",
                       "tag": "div",
-                      "props": {
-                        "className": "col-content_wrapper"
-                      },
                       "styles": {
+                        "backgroundColor": "rgb(69, 26, 3)",
                         "boxSizing": "border-box",
-                        "clear": "none",
-                        "color": "rgb(250, 250, 250)",
-                        "columnGap": "16px",
+                        "columnGap": "10px",
                         "display": "flex",
-                        "flexDirection": "column",
-                        "float": "none",
-                        "fontFamily": "Geist, sans-serif",
-                        "lineHeight": "24px",
-                        "minHeight": "auto",
-                        "minWidth": "auto",
-                        "objectPosition": "50% 50%",
-                        "rowGap": "16px",
-                        "textDecorationColor": "rgb(250, 250, 250)",
-                        "wordBreak": "normal",
-                        "wordSpacing": "0px"
+                        "rowGap": "10px",
+                        "borderRadius": "8px",
+                        "padding": "2px 8px"
                       },
                       "children": [
                         {
-                          "id": "html-Pgi4BN1AvkS6JbS7T3ipD",
+                          "id": "html-oZHc7YOA8oeGpsrZVXA0g",
                           "type": "html",
                           "tag": "div",
-                          "props": {
-                            "className": "text-size-medium text20"
-                          },
                           "styles": {
                             "boxSizing": "border-box",
-                            "clear": "none",
-                            "color": "rgb(250, 250, 250)",
-                            "display": "block",
-                            "float": "none",
-                            "fontFamily": "Geist, sans-serif",
-                            "fontSize": "20px",
-                            "lineHeight": "30px",
-                            "minHeight": "auto",
-                            "minWidth": "auto",
-                            "objectPosition": "50% 50%",
-                            "textDecorationColor": "rgb(250, 250, 250)",
-                            "wordBreak": "normal",
-                            "wordSpacing": "0px"
+                            "color": "rgb(251, 191, 36)",
+                            "fontSize": "14px",
+                            "lineHeight": "21px",
+                            "whiteSpace": "nowrap"
                           },
                           "children": [
                             {
-                              "id": "text-9bq5vECCzvsvFFXvBKhT4",
+                              "id": "text-VdwgxWi2u8joWZ5L-bWop",
                               "type": "text",
                               "tag": "span",
-                              "text": "Know exactly where your compute is going"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "html-6yRnHUmu35SzFyrrxt1HI",
-                          "type": "html",
-                          "tag": "div",
-                          "props": {
-                            "className": "text-size-medium text-color-secondary"
-                          },
-                          "styles": {
-                            "boxSizing": "border-box",
-                            "clear": "none",
-                            "color": "rgb(161, 161, 170)",
-                            "display": "block",
-                            "float": "none",
-                            "fontFamily": "Geist, sans-serif",
-                            "fontSize": "18px",
-                            "lineHeight": "27px",
-                            "minHeight": "auto",
-                            "minWidth": "auto",
-                            "objectPosition": "50% 50%",
-                            "textDecorationColor": "rgb(161, 161, 170)",
-                            "wordBreak": "normal",
-                            "wordSpacing": "0px"
-                          },
-                          "children": [
-                            {
-                              "id": "text-LVh2ez-h2UJsXnN7E39WR",
-                              "type": "text",
-                              "tag": "span",
-                              "text": "Managers can understand compute usage & GPU spend among teams & engineers, align compute usage with business priorities"
+                              "text": "High Reliability"
                             }
                           ]
                         }
                       ]
                     },
                     {
-                      "id": "html-bf-1vwCNpMYt3CkJGGxXj",
+                      "id": "html-S9QOPVCdqwLfwouF9XzqQ",
                       "type": "html",
-                      "tag": "div",
-                      "props": {
-                        "className": "reliability-cols-img_wrapper"
-                      },
+                      "tag": "h2",
                       "styles": {
                         "boxSizing": "border-box",
-                        "clear": "none",
-                        "color": "rgb(250, 250, 250)",
-                        "display": "block",
-                        "float": "none",
-                        "fontFamily": "Geist, sans-serif",
-                        "lineHeight": "24px",
-                        "marginTop": "48px",
-                        "minHeight": "auto",
-                        "minWidth": "auto",
-                        "objectPosition": "50% 50%",
-                        "textDecorationColor": "rgb(250, 250, 250)",
-                        "wordBreak": "normal",
-                        "wordSpacing": "0px"
+                        "fontSize": "48px",
+                        "fontWeight": "600",
+                        "lineHeight": "57.6px"
                       },
                       "children": [
                         {
-                          "id": "html-iX0rRv5hvXdGC0EWCQmuc",
-                          "type": "html",
-                          "tag": "img",
-                          "props": {
-                            "src": "/.lunagraph-assets/1772654812193-6b6f418d.png",
-                            "alt": "Image",
-                            "className": "shadow-xl"
-                          },
-                          "styles": {
-                            "width": "100%",
-                            "objectFit": "cover",
-                            "display": "block",
-                            "zIndex": "5",
-                            "position": "relative"
-                          },
-                          "canvasPosition": {
-                            "x": 140,
-                            "y": 140
-                          },
-                          "children": []
+                          "id": "text-iihIfWfO8Nz_dxHiBygjl",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Built for zero downtime, engineered for scale"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "html-YFFxSM-puIEhhMW_p1kIo",
+                      "type": "html",
+                      "tag": "div",
+                      "styles": {
+                        "boxSizing": "border-box",
+                        "color": "rgb(161, 161, 170)",
+                        "fontSize": "18px",
+                        "lineHeight": "27px"
+                      },
+                      "children": [
+                        {
+                          "id": "text-Rl3UXEWrCw5-R3doTwugz",
+                          "type": "text",
+                          "tag": "span",
+                          "text": "Prevent costly GPU failures with comprehensive fault detection, automatic recovery, and direct cloud provider resolution"
                         }
                       ]
                     }
                   ]
                 },
                 {
-                  "id": "html-lDpC3RSFztcmnApUQCEjx",
+                  "id": "html-QXabKXSmXfvG7qT8FrwlA",
                   "type": "html",
                   "tag": "div",
                   "props": {
-                    "className": "col-card_content col-card-right"
+                    "id": "w-node-a83698a4-52e3-433c-ac31-3eaceea1e534-70f59df7"
                   },
                   "styles": {
-                    "boxSizing": "border-box",
-                    "clear": "none",
-                    "color": "rgb(250, 250, 250)",
-                    "columnGap": "48px",
-                    "display": "flex",
-                    "flexDirection": "column",
-                    "float": "none",
-                    "fontFamily": "Geist, sans-serif",
-                    "lineHeight": "24px",
-                    "minHeight": "auto",
-                    "minWidth": "auto",
-                    "objectPosition": "50% 50%",
-                    "paddingLeft": "64px",
-                    "paddingTop": "64px",
-                    "rowGap": "48px",
-                    "textDecorationColor": "rgb(250, 250, 250)",
-                    "wordBreak": "normal",
-                    "wordSpacing": "0px",
-                    "height": "fit-content",
-                    "paddingRight": "",
-                    "paddingBottom": "64px",
-                    "justifyContent": "center",
-                    "alignItems": "center"
+                    "boxSizing": "border-box"
                   },
                   "children": [
                     {
-                      "id": "html-kQabD1nky9XgCmU7X7MmN",
+                      "id": "html-TQ3hhO-AcMeMD5_tXx1C4",
                       "type": "html",
                       "tag": "div",
-                      "props": {
-                        "className": "col-content_wrapper"
-                      },
                       "styles": {
+                        "alignItems": "center",
+                        "bottom": "0px",
                         "boxSizing": "border-box",
-                        "clear": "none",
-                        "color": "rgb(250, 250, 250)",
-                        "columnGap": "16px",
+                        "columnGap": "0px",
                         "display": "flex",
                         "flexDirection": "column",
-                        "float": "none",
-                        "fontFamily": "Geist, sans-serif",
-                        "lineHeight": "24px",
-                        "minHeight": "auto",
-                        "minWidth": "auto",
-                        "objectPosition": "50% 50%",
-                        "rowGap": "16px",
-                        "textDecorationColor": "rgb(250, 250, 250)",
-                        "wordBreak": "normal",
-                        "wordSpacing": "0px"
+                        "justifyContent": "flex-start",
+                        "left": "0px",
+                        "maxWidth": "400px",
+                        "position": "relative",
+                        "right": "0px",
+                        "rowGap": "0px",
+                        "top": "0px",
+                        "width": "400px"
                       },
                       "children": [
                         {
-                          "id": "html-cmEMh3noMSgULt0PDI3fY",
+                          "id": "html-Xgic6fCxCM5f2lFuLLavB",
                           "type": "html",
                           "tag": "div",
-                          "props": {
-                            "className": "text-size-medium text20"
-                          },
                           "styles": {
+                            "bottom": "0px",
                             "boxSizing": "border-box",
-                            "clear": "none",
-                            "color": "rgb(250, 250, 250)",
-                            "display": "block",
-                            "float": "none",
-                            "fontFamily": "Geist, sans-serif",
-                            "fontSize": "20px",
-                            "lineHeight": "30px",
-                            "minHeight": "auto",
-                            "minWidth": "auto",
-                            "objectPosition": "50% 50%",
-                            "textDecorationColor": "rgb(250, 250, 250)",
-                            "wordBreak": "normal",
-                            "wordSpacing": "0px"
+                            "left": "0px",
+                            "overflowX": "hidden",
+                            "overflowY": "hidden",
+                            "position": "relative",
+                            "right": "0px",
+                            "top": "0px",
+                            "width": "400px",
+                            "zIndex": "1",
+                            "borderRadius": "16px"
                           },
                           "children": [
                             {
-                              "id": "text-hYaR02YV7is6t8tXuQHmV",
-                              "type": "text",
-                              "tag": "span",
-                              "text": "Deploy anywhere"
+                              "id": "html-PAU7IHJJppnyjeZuK-1Al",
+                              "type": "html",
+                              "tag": "img",
+                              "props": {
+                                "src": "https://cdn.prod.website-files.com/674afcec6748393670f59db0/67d104af2e5f195f1d6a93ed_reliability-1.png",
+                                "alt": "",
+                                "data-cmp-ab": "2",
+                                "data-cmp-info": "10"
+                              },
+                              "styles": {
+                                "boxSizing": "border-box",
+                                "display": "inline-block",
+                                "height": "140px",
+                                "maxWidth": "100%",
+                                "overflowX": "clip",
+                                "overflowY": "clip",
+                                "verticalAlign": "middle",
+                                "width": "400px",
+                                "zIndex": "1"
+                              },
+                              "children": []
+                            },
+                            {
+                              "id": "html-RFCr15blJmszTDdiDv3rJ",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "backdropFilter": "blur(10px)",
+                                "backgroundImage": "linear-gradient(225deg, rgba(28, 28, 36, 0.8), rgba(18, 18, 21, 0.9))",
+                                "bottom": "0px",
+                                "boxSizing": "border-box",
+                                "left": "0px",
+                                "position": "absolute",
+                                "right": "0px",
+                                "top": "0px",
+                                "zIndex": "0"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-sd9P4NpuWP--IiAnr9SL9",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/1772653315123-41fba17e.png",
+                                    "alt": "Image"
+                                  },
+                                  "styles": {
+                                    "width": 400,
+                                    "objectFit": "cover",
+                                    "display": "block"
+                                  },
+                                  "canvasPosition": {
+                                    "x": 120,
+                                    "y": 120
+                                  },
+                                  "children": []
+                                }
+                              ]
                             }
                           ]
                         },
                         {
-                          "id": "html-xkIxIRg8nHQFfs-g3D4fC",
+                          "id": "html-CKmniHfWify9VR4yXWOj4",
                           "type": "html",
                           "tag": "div",
-                          "props": {
-                            "className": "text-size-medium text-color-secondary"
-                          },
                           "styles": {
+                            "backgroundImage": "linear-gradient(rgb(255, 235, 206), rgb(255, 193, 101) 20%, rgb(25, 25, 30))",
                             "boxSizing": "border-box",
-                            "clear": "none",
-                            "color": "rgb(161, 161, 170)",
-                            "display": "block",
-                            "float": "none",
-                            "fontFamily": "Geist, sans-serif",
-                            "fontSize": "18px",
-                            "lineHeight": "27px",
-                            "minHeight": "auto",
-                            "minWidth": "auto",
-                            "objectPosition": "50% 50%",
-                            "textDecorationColor": "rgb(161, 161, 170)",
-                            "wordBreak": "normal",
-                            "wordSpacing": "0px"
+                            "height": "32px",
+                            "right": "50%",
+                            "top": "331.2px",
+                            "width": "2px",
+                            "zIndex": "0"
+                          },
+                          "children": []
+                        },
+                        {
+                          "id": "html-gvMnyf-5NhGmMiHdECz8H",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "bottom": "0px",
+                            "boxSizing": "border-box",
+                            "left": "0px",
+                            "overflowX": "hidden",
+                            "overflowY": "hidden",
+                            "position": "relative",
+                            "right": "0px",
+                            "top": "0px",
+                            "width": "400px",
+                            "zIndex": "1",
+                            "borderRadius": "16px"
                           },
                           "children": [
                             {
-                              "id": "text-Ca0fp_iZgxfqzuvPIDCs7",
-                              "type": "text",
-                              "tag": "span",
-                              "text": "Konduktor can be deployed anywhere, on any cloud provider or on baremetal GPUs. Run your workloads on AWS, GCP, Azure, or your own hardware, with a single consistent interface."
+                              "id": "html-mvMPXfeHFXAnGFeyqVbVf",
+                              "type": "html",
+                              "tag": "img",
+                              "props": {
+                                "src": "https://cdn.prod.website-files.com/674afcec6748393670f59db0/67d104afa8db3dba20e07b89_reliability-2.png",
+                                "alt": "",
+                                "data-cmp-ab": "2",
+                                "data-cmp-info": "10"
+                              },
+                              "styles": {
+                                "boxSizing": "border-box",
+                                "display": "inline-block",
+                                "height": "236px",
+                                "maxWidth": "100%",
+                                "overflowX": "clip",
+                                "overflowY": "clip",
+                                "verticalAlign": "middle",
+                                "width": "400px",
+                                "zIndex": "1"
+                              },
+                              "children": []
+                            },
+                            {
+                              "id": "html-uMGYW_Man55PUtJhU2Ojo",
+                              "type": "html",
+                              "tag": "div",
+                              "styles": {
+                                "backdropFilter": "blur(10px)",
+                                "backgroundImage": "linear-gradient(225deg, rgba(28, 28, 36, 0.8), rgba(18, 18, 21, 0.9))",
+                                "bottom": "0px",
+                                "boxSizing": "border-box",
+                                "left": "0px",
+                                "position": "absolute",
+                                "right": "0px",
+                                "top": "0px",
+                                "zIndex": "0"
+                              },
+                              "children": [
+                                {
+                                  "id": "html-qYo9Ca-c6FQ2BMa48ksC9",
+                                  "type": "html",
+                                  "tag": "img",
+                                  "props": {
+                                    "src": "/.lunagraph-assets/1772653317915-16203fb3.png",
+                                    "alt": "Image"
+                                  },
+                                  "styles": {
+                                    "width": 400,
+                                    "objectFit": "cover",
+                                    "display": "block"
+                                  },
+                                  "canvasPosition": {
+                                    "x": 120,
+                                    "y": 120
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "html-GPOcfIbPz3ByhtUrB2Cma",
+                          "type": "html",
+                          "tag": "div",
+                          "styles": {
+                            "bottom": "-50.8047px",
+                            "boxSizing": "border-box",
+                            "left": "120px",
+                            "maxWidth": "640px",
+                            "position": "absolute",
+                            "right": "-360px",
+                            "top": "-32px",
+                            "width": "640px",
+                            "zIndex": "0"
+                          },
+                          "children": [
+                            {
+                              "id": "html-RJ8gWwz3dz9P0O-wqzG_P",
+                              "type": "html",
+                              "tag": "img",
+                              "props": {
+                                "src": "https://cdn.prod.website-files.com/674afcec6748393670f59db0/6751703ef0e6d785630d9ee3_img-home-realibility.png",
+                                "alt": "",
+                                "data-cmp-ab": "2",
+                                "data-cmp-info": "10"
+                              },
+                              "styles": {
+                                "boxSizing": "border-box",
+                                "display": "inline-block",
+                                "height": "490.805px",
+                                "maxWidth": "100%",
+                                "overflowX": "clip",
+                                "overflowY": "clip",
+                                "verticalAlign": "middle",
+                                "width": "640px"
+                              },
+                              "children": []
                             }
                           ]
                         }
                       ]
-                    },
-                    {
-                      "id": "html-NGHzj1FMbRjM5MzNuzwof",
-                      "type": "html",
-                      "tag": "img",
-                      "props": {
-                        "src": "/.lunagraph-assets/1772654868633-ffab77ee.png",
-                        "alt": "Image"
-                      },
-                      "styles": {
-                        "width": "100%",
-                        "objectFit": "cover",
-                        "display": "block"
-                      },
-                      "children": []
                     }
                   ]
                 }
@@ -17680,7 +17626,7 @@
       }
     }
   ],
-  "zoom": 0.1670160549532607,
+  "zoom": 1.1280918957029364,
   "createdAt": "2026-02-20T01:24:35.105Z",
-  "updatedAt": "2026-03-04T20:13:00.918Z"
+  "updatedAt": "2026-03-04T19:45:24.672Z"
 }
