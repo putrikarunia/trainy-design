@@ -10931,196 +10931,6 @@
           ]
         },
         {
-          "id": "html-21UZuH3BjJmnMgQKlhTD9",
-          "type": "html",
-          "tag": "div",
-          "props": {},
-          "styles": {
-            "display": "flex",
-            "flexDirection": "column",
-            "gap": "8",
-            "width": "100%",
-            "justifyContent": "flex-start",
-            "alignItems": "center",
-            "position": "relative",
-            "paddingTop": "0px",
-            "paddingRight": "16px",
-            "paddingBottom": "0px",
-            "paddingLeft": "16px"
-          },
-          "children": [
-            {
-              "id": "html-w2Kb5_eF7Nn6FHhB-wF-U",
-              "type": "html",
-              "tag": "div",
-              "styles": {
-                "alignItems": "center",
-                "boxSizing": "border-box",
-                "columnGap": "16px",
-                "display": "grid",
-                "fontFamily": "Geist, sans-serif",
-                "gridAutoColumns": "1fr",
-                "gridTemplateColumns": "632px 632px",
-                "gridTemplateRows": "124.781px",
-                "justifyItems": "center",
-                "lineHeight": "24px",
-                "rowGap": "16px",
-                "paddingTop": "128px",
-                "paddingRight": "0px",
-                "paddingBottom": "128px",
-                "paddingLeft": "0px"
-              },
-              "children": [
-                {
-                  "id": "html-YIHVbcW8IwIoZErWJ5jbM",
-                  "type": "html",
-                  "tag": "div",
-                  "styles": {
-                    "boxSizing": "border-box"
-                  },
-                  "children": [
-                    {
-                      "id": "html-o8fa394wOZFDAIlXs5hFp",
-                      "type": "html",
-                      "tag": "div",
-                      "styles": {
-                        "boxSizing": "border-box",
-                        "fontSize": "32px",
-                        "lineHeight": "41.6px"
-                      },
-                      "children": [
-                        {
-                          "id": "text-3acTpMQdLRqyI83Ll2XvB",
-                          "type": "text",
-                          "tag": "span",
-                          "text": "Ready to scale your AI training?"
-                        },
-                        {
-                          "id": "html-zOWo8e9T2-hBeJIYmx3YZ",
-                          "type": "html",
-                          "tag": "span",
-                          "styles": {
-                            "boxSizing": "border-box",
-                            "color": "rgb(161, 161, 170)"
-                          },
-                          "children": [
-                            {
-                              "id": "text-q7JOlYbh-TauICI6pwfW_",
-                              "type": "text",
-                              "tag": "span",
-                              "text": " Get enterprise-grade GPU infrastructure up and running in"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "html-5sH-MCdEwREZ5r8ALTO-v",
-                          "type": "html",
-                          "tag": "span",
-                          "styles": {
-                            "boxSizing": "border-box",
-                            "color": "rgb(251, 191, 36)"
-                          },
-                          "children": [
-                            {
-                              "id": "text-lsYMUhIrHJ10Wu8yzhQXi",
-                              "type": "text",
-                              "tag": "span",
-                              "text": " 20 minutes."
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "id": "html-U43U_cyAlH6pTQrXfDYOg",
-                  "type": "html",
-                  "tag": "div",
-                  "props": {
-                    "id": "w-node-de1c50fd-a41e-e6ab-97de-3fec7f7a9bcf-7f7a9b5e"
-                  },
-                  "styles": {
-                    "boxSizing": "border-box",
-                    "columnGap": "16px",
-                    "display": "flex",
-                    "justifySelf": "end",
-                    "rowGap": "16px"
-                  },
-                  "children": [
-                    {
-                      "id": "html-Qs6NnfGK9x5ewk5WQ4-db",
-                      "type": "html",
-                      "tag": "a",
-                      "props": {
-                        "href": "/book-a-demo"
-                      },
-                      "styles": {
-                        "backgroundColor": "rgb(255, 255, 255)",
-                        "boxSizing": "border-box",
-                        "color": "rgb(9, 9, 11)",
-                        "cursor": "pointer",
-                        "display": "block",
-                        "fontSize": "14px",
-                        "fontWeight": "500",
-                        "lineHeight": "21px",
-                        "textAlign": "center",
-                        "borderRadius": "8px",
-                        "padding": "8px 16px",
-                        "whiteSpace": "nowrap"
-                      },
-                      "children": [
-                        {
-                          "id": "text-vfPg7wRF52nm-EQFXrspB",
-                          "type": "text",
-                          "tag": "span",
-                          "text": "Book a demo"
-                        }
-                      ]
-                    },
-                    {
-                      "id": "html-B5-OuCQ3DIiaIuEqLPezl",
-                      "type": "html",
-                      "tag": "a",
-                      "props": {
-                        "href": "mailto:support@trainy.ai?subject=Ask%20an%20Expert"
-                      },
-                      "styles": {
-                        "backgroundColor": "rgb(39, 39, 42)",
-                        "boxSizing": "border-box",
-                        "cursor": "pointer",
-                        "display": "block",
-                        "fontSize": "14px",
-                        "fontWeight": "500",
-                        "lineHeight": "21px",
-                        "textAlign": "center",
-                        "borderRadius": "8px",
-                        "padding": "8px 16px",
-                        "whiteSpace": "nowrap"
-                      },
-                      "children": [
-                        {
-                          "id": "text-_nNoDzNlCpWloUZEi_IbV",
-                          "type": "text",
-                          "tag": "span",
-                          "text": "Ask an Expert"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "canvasPosition": {
-                "x": 120,
-                "y": 120
-              },
-              "props": {
-                "className": "border-t"
-              }
-            }
-          ]
-        },
-        {
           "id": "html-W59Q54qL9o86_J1gB2FML",
           "type": "html",
           "tag": "div",
@@ -11145,7 +10955,7 @@
               },
               "styles": {
                 "width": "100%",
-                "maxWidth": "1280px",
+                "maxWidth": "1200px",
                 "height": "auto",
                 "display": "flex",
                 "flexDirection": "column",
@@ -11918,10 +11728,7 @@
                 }
               ]
             }
-          ],
-          "props": {
-            "className": "border-t"
-          }
+          ]
         }
       ],
       "canvasPosition": {
@@ -19653,7 +19460,7 @@
       }
     }
   ],
-  "zoom": 0.18638294987641796,
+  "zoom": 0.5584643680000003,
   "createdAt": "2026-02-20T01:24:35.105Z",
-  "updatedAt": "2026-03-06T20:35:20.846Z"
+  "updatedAt": "2026-03-06T20:33:27.090Z"
 }
