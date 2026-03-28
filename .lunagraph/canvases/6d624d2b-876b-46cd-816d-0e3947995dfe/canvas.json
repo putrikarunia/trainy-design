@@ -1,5 +1,5 @@
 {
-  "zoom": 1.5906822931871103,
+  "zoom": 0.5252947617274378,
   "elements": [
     {
       "id": "html-11QUlSMzNzCNJ8kFNAXn1",
@@ -2213,7 +2213,7 @@
                           "tag": "p",
                           "type": "html",
                           "props": {
-                            "className": "text-2xl"
+                            "className": "text-xl"
                           },
                           "styles": {},
                           "children": [
@@ -2310,7 +2310,7 @@
                           "tag": "p",
                           "type": "html",
                           "props": {
-                            "className": "text-2xl"
+                            "className": "text-xl"
                           },
                           "styles": {},
                           "children": [
@@ -2439,7 +2439,7 @@
                           "type": "html",
                           "props": {},
                           "styles": {
-                            "gap": "16px",
+                            "gap": "32px",
                             "display": "flex",
                             "flexWrap": "wrap",
                             "alignItems": "center"
@@ -2455,7 +2455,7 @@
                               },
                               "styles": {
                                 "width": "auto",
-                                "height": "24px",
+                                "height": "20px",
                                 "display": "block",
                                 "objectFit": "cover"
                               },
@@ -2475,7 +2475,7 @@
                               },
                               "styles": {
                                 "width": "auto",
-                                "height": "24px",
+                                "height": "20px",
                                 "display": "block",
                                 "objectFit": "cover"
                               },
@@ -2495,7 +2495,7 @@
                               },
                               "styles": {
                                 "width": "auto",
-                                "height": "24px",
+                                "height": "32px",
                                 "display": "block",
                                 "objectFit": "cover"
                               },
@@ -2506,16 +2506,16 @@
                               }
                             },
                             {
-                              "id": "html-rFoiEAvh3xTze_kzqjxR5",
+                              "id": "html-_mmzR08e6u2DD2Iu-ff2x",
                               "tag": "img",
                               "type": "html",
                               "props": {
                                 "alt": "Image",
-                                "src": "/.lunagraph-assets/1771981148598-16aaa4c2.png"
+                                "src": "/image-1774551411703.png"
                               },
                               "styles": {
                                 "width": "auto",
-                                "height": "24px",
+                                "height": "16px",
                                 "display": "block",
                                 "objectFit": "cover"
                               },
@@ -9433,6 +9433,7 @@
                 "float": "none",
                 "height": "auto",
                 "display": "grid",
+                "maxWidth": "1280px",
                 "minWidth": "auto",
                 "boxSizing": "border-box",
                 "minHeight": "auto",
@@ -11158,6 +11159,7 @@
                 "color": "rgb(250, 250, 250)",
                 "rowGap": "64px",
                 "display": "grid",
+                "maxWidth": "1280px",
                 "boxSizing": "border-box",
                 "columnGap": "64px",
                 "fontFamily": "Geist, sans-serif",
@@ -12717,6 +12719,7 @@
               "styles": {
                 "rowGap": "16px",
                 "display": "grid",
+                "maxWidth": "1280px",
                 "boxSizing": "border-box",
                 "columnGap": "16px",
                 "alignItems": "center",
